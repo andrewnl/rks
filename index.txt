@@ -1,0 +1,258 @@
+//.Roselyn Kelada-Sedra - Actor
+$VER=2.7
+$include NONE
+//rsync -av --delete test1.html orbit root@sv.jazz.to:/home/test/roselyn/
+$FOUNDATION=bower_components/foundation/js/foundation.min.js
+//$JQUERY=bower_components/jquery/dist/jquery.min.js
+$FOUNDCSS=css/app.css
+
+//$FOUNDATION=https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js
+$JQUERY=https://cdnjs.cloudflare.com/ajax/libs/foundation/6.0.1/js/vendor/jquery.min.js
+//$FOUNDCSS=https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.css
+$html_attr=class="no-js" lang="en"
+$metatag=charset="utf-8"
+$metatag0=name="viewport" content="width=device-width, initial-scale=1.0"
+$metatag1=name="Description" content="Roselyn Kelada-Sedra is a Toronto-based actor who loves playing neurotic parts, and delights in Shakespearean theatre."
+$style=
+$linktag0=rel="stylesheet" href="$FOUNDCSS"
+$script_attr=
+$scripttag0_attr=src="bower_components/modernizr/modernizr.js"
+$scripttag0=
+$postamble=<script src="$JQUERY"></script>\n<script src="$FOUNDATION"></script>\n<script src="js/app.js"></script><script><`$(document).foundation();`></script>
+$imgbase=images/
+$headingbase=2
+$style={
+  h2 {color: #888;}
+  h3, h4 {color: #666;}
+  body .panel h2 {color: #777;}
+  body .panel h3, body .panel h4 {color: #555;}
+  body div.row { max-width: 48rem; }
+  .credit, .credit a { color:#666; font-size:80%; text-align:right; }
+}
+//////////////////
+//http://calebserna.com/foundation-top-bar-offcanvas-hybrid/ looks good
+
+$ROW=<div class="row">
+$parameters $COL colclass
+$parameters $COL_default $SPACE
+$COL=<div class="column $colclass">
+$END=</div>
+$parameters $Id idval
+$Id=<p id="$idval">&nbsp;</p>
+$parameters $video vid
+$video=<div class="flex-video"><iframe width="420" height="315" src="https://www.youtube.com/embed/$vid" frameborder="0" allowfullscreen></iframe></div>
+$ib=<div class="credit">photo credit: [[http://www.ianbrownphotography.com Ian Brown Photography]]</div>
+$ukh=<div class="credit">photo credit: [[http://www.hiuankanghaaga.com Hi Uan Kang Haaga]]</div>
+//////////////////////////////////////
+<div class="fixed"><nav class="top-bar" data-topbar role="navigation">
+$ul_class1=title-area
+$li_class1=name
+-<h1>[[# Roselyn]]</h1>
+$li_class1=toggle-topbar menu-icon
+-[[# <span>Menu</span>]]
+
+<section class="top-bar-section">
+$ul_class1=left
+//$li_class1=active
+-[[#bio Bio]]
+-[[#resume Resume]]
+-[[#demo Demo]]
+-[[#next Now&Next]]
+-[[#skills Skills]]
+-[[#contact Contact]]
+-[[#work Creative Work]]
+</section>
+</nav></div>
+$a_attr=target="_blank"
+
+$parameters $orbit orbid orbimg orbcpy orb_line
+$orbit={
+ $orbcopyright=$iftrue $orbcpy "&copy;${orbcpy}" $SP
+ $li_attr1=data-orbit-slide=$orbid
+ -[[$orbimg Roselyn Kelada-Sedra]]<div class="orbit-caption">$orb_line $orbcopyright </div>
+// -[[$orbimg Roselyn Kelada-Sedra]]<div class="orbit-caption">$orb_line -- _Copyright ${orbcpy}_</div>
+}
+
+$parameters $orbutton orbutid orbutimg
+$orbutton=<a data-orbit-link="$orbutid" class="small button">[[$orbutimg Roselyn Kelada-Sedra]]</a>
+
+$imgbase=orbit/
+$ROW $COL
+.Photo Gallery
+$ul_class1=orbit-photo-gallery
+$ul_attr1=data-orbit data-options="timer_speed:2000;"
+$orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
+$orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
+$orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
+$orbit o4 04-roselyn_kelada-sedra-mic-drop.jpg CBC
+$orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "Photo by Jeremy Gilmore"
+$orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
+
+//$img_style=width:10%;
+$img_style=width:100px;
+$a_button_style=padding:0;
+$orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
+$orbutton o2 02-roselyn_kelada-sedra-shock.jpg \
+$orbutton o3 03-roselyn_kelada-sedra-think.jpg \
+$orbutton o4 04-roselyn_kelada-sedra-mic-drop.jpg \
+$orbutton o6 06-roselyn_kelada-sedra-six-eight.jpg \
+$orbutton o11 11-roselyn_kelada-sedra-solution.jpg
+
+/*
+-[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
+-[[roselyn_kelada-sedra2.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
+-[[roselyn_kelada-sedra3-blk.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
+$li_attr1=data-orbit-slide=blue
+-[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
+-[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
+$li_attr1=data-orbit-slide=blue-net
+-[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
+$img_attr=width=50px;
+<a data-orbit-link="one" class="small button">[[roselyn_kelada-sedra1.jpg rks]]</a>\
+<a data-orbit-link="blue" class="small button">[[roselyn_kelada-sedra5-blue.jpg rks]]</a>\
+<a data-orbit-link="blue-net" class="small button">[[roselyn_kelada-sedra4-blue-net.jpg rks]]</a>
+*/
+$END $END
+
+$ROW $COL
+$block_id=home
+.Roselyn Kelada-Sedra
+$END $COL medium-8
+<div>[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]</div>
+$END $COL "medium-4 panel"
+//<div class="panel">
+//.SIDEBARS: 
+-Casting websites
+ Roselyn on [[http://www.imdb.com/name/nm4488739 IMDb]]
+ Roselyn on [[http://roselynkeladasedra.workbooklive.com Casting Workbook]]
+--
+-Social Media
+ [[https://www.instagram.com/RKeladaSedra Instagram]] & [[https://twitter.com/RKeladaSedra Twitter]]: @RKeladaSedra
+ fb group [[https://www.facebook.com/groups/sixandeight Roselyn, Actor & Storyteller]]
+//</div>
+$END $END
+
+$Id bio
+$ROW $COL
+.Bio
+$END $COL medium-6
+Roselyn Kelada-Sedra is an actor based in Toronto, Canada. Roselyn has worked on stages in Canada, England, the U.S. and Europe. Her first love is Shakespearean theatre, and that led to training at [[https://www.rada.ac.uk RADA]] and… everything since. 
+
+Roselyn trained in Shakespearean theatre acting at the [[https://www.rada.ac.uk Royal Academy of Dramatic Art]], at [[http://www.dahteatarcentar.com DAH Teatar]] in Serbia, and in Canada at the [[http://www.voiceintensive.org National Voice Intensive]], [[http://www.lonsdalesmithstudios.com Lonsdale Smith Studios]] and the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. She made her TV debut on CBC in [[http://www.cbc.ca/smartestperson/ Canada’s Smartest Person]], and she is making her webseries debut in [[http://www.imdb.com/title/tt4977510/ IRL: The Series]], airing in 2016. 
+
+Roselyn completed a 3-year apprenticeship as an actor and theatre-maker with the Toronto theatre company, [[http://bcurrent.ca b current]]. She has written, adapted and devised plays produced on Toronto stages. She also created the role of Death as a harpist in DASH, a devised theatre piece based on Emily Dickinson poems.
+$END $COL medium-6
+//<div>[[roselyn_kelada-sedra2.jpg Roselyn Kelada-Sedra]]</div>
+<div>[[roselyn_kelada-sedra8-ukh.jpg Roselyn Kelada-Sedra]]</div>
+$ukh
+$END $END $ROW $COL
+-Best advice she knows about art & life: 
+ “You can’t be afraid to fail and fail BIG. There’s no chance to ever be good otherwise.” 
+ -Hilary Douglas-Wood, founder of [[http://www.thelir.ie The Lir, National Academy of Dramatic Art, Ireland]].
+
+-Best advice about$... taking advice:
+ "There are no answers here. Simply breathe now." 
+ -Cindy Tanas, Owner of the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. 
+$END $END
+
+$Id resume
+$div_class1=panel
+$ROW $COL
+.Resume
+//To address: what has she been in?
+//$div_class1=medium-6
+$END $COL medium-6
+..Resume for Film & TV (pdf)
+<div>[[assets/Roselyn_Kelada-Sedra_Film-resume.pdf [[film-resume-thumbnail-200.png Resume for Film & TV (pdf)]]]]</div>
+..Resume for Theatre (pdf)
+<div>[[assets/Roselyn_Kelada-Sedra_Theatre-resume.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
+$END $COL medium-6
+<div>[[roselyn_kelada-sedra3-blk.jpg Roselyn Kelada-Sedra]]</div>
+$ib
+// photo: black up do -- $ib
+$END $END
+
+$Id demo
+$ROW $COL
+.Demo
+//To address: Can I see her work?  Demo reels
+//-[[https://www.youtube.com/watch?v=pgeqVwefS98 Roselyn's film & TV demo]]
+..Roselyn's film & TV demo
+$video pgeqVwefS98
+//-[[https://www.youtube.com/watch?v=9bUPKmwStEo Roselyn's Musical theatre demo]]
+..Roselyn's Musical theatre demo
+$video 9bUPKmwStEo
+//-[[https://www.youtube.com/watch?v=Ff_LUTcUhw0 Roselyn's Voice-Over demo]]
+..Roselyn's Voice-Over demo
+$video Ff_LUTcUhw0
+$END $END
+
+$Id next
+$ROW $COL
+.Now & Next
+$END $COL medium-6
+//To address: What is she doing now, and what's coming up? 
+//photo: cropped - white blouse smile -- $ib
+..IRL: The Series 
+-Roselyn is making her webseries debut in [[http://www.imdb.com/title/tt4977510/fullcredits?ref_=tt_ov_st_sm IRL: The Series]], created by Bobby Del Rio.
+-This is a series about the intersection of social media culture with contemporary society. 
+//$END $COL
+..Antique Fables Theatre Collective
+-Roselyn is an actor in The Globe, the core performers for the [[http://antiquefablestheatre.weebly.com/about-us.html Antique Fables Theatre Collective]]
+-AFTC does adaptations and devised revamps of classical theatre. 
+-This season, Roselyn is most excited to do Macbeth.
+//$END $COL
+.._Fifth Wheel_
+-In 2016, Roselyn is shooting a pilot with [[http://www.theincubatorstudio.com The Incubator Studio]] called "Fifth Wheel." 
+-Directed by Brett Heard, it's a zany sitcom. Think New Girl meets Friends. 
+-Roselyn plays Sophia D’Assissi: a neurotic, perfectionist med student dealing with first-year stress and living with her boyfriend and his 3 roommates.
+-Roselyn created the role, in collaboration with The Incubator Studio writing team.
+$END $COL medium-6
+//<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
+<div>[[roselyn_kelada-sedra9-next.jpg Roselyn Kelada-Sedra]]</div>
+$ukh
+$END $END
+
+$Id skills
+$div_class1=panel
+$ROW $COL
+.Random Skills
+//To address: What can she do? Special skills + languages 
+//photo: Roselyn 2015_D_8830 wind
+$END $COL medium-6
+-Languages: Fluent English, conversational French, basic Spanish, basic Arabic.
+-Music: Singer (low E to high C) Plays harp and piano. Basic acoustic guitar. 
+-Sports: Proficient swimmer. Competent skier and skater. 
+-Getting around: Competent driver (manual & automatic), horseback rider, cyclist. 
+-Random: Competent archer, swing dancer, barista. Singing telegram courier.
+$END $COL medium-6
+<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
+//<div>[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]</div>
+$END $END
+
+$Id contact
+$ROW $COL medium-4
+.Contact
+//To address: How do I contact her? Agent info 
+//photo: Roselyn Kelada-Sedra - cropped -Ian Brown IMG_4548 - blue dress -- $ib
+//photo: Roselyn 2015 blue net smile
+-Sandra Gillis at Premier Artists Management
+-416-461-6868 x 22 [[mailto:sgillis.premierartists@outlook.com]]
+$END $COL medium-8
+<div>[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]</div>
+$END $END
+
+$Id work
+$ROW $COL //panel
+.Creative Work
+//To address: what does she do on her own? Here are the links to work that I've created or collaborated in creating. 
+...Trailer: _Disappearing Soul_, an adaptation of Romeo & Juliet created by and featuring Roselyn
+$video MNNth02gfpg
+...Trailer: _Six & Eight_, a swing dance play, written by & featuring Roselyn Kelada-Sedra
+$video ehep4N2DUkc
+...Cover video of Ed Sheeran's "Photograph" featuring John Moussa 
+$video H-glx4StEas
+$END $END
+
+$include analytics.txt
+
