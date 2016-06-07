@@ -113,6 +113,7 @@ $img_attr=width=50px;
 <a data-orbit-link="blue-net" class="small button">[[roselyn_kelada-sedra4-blue-net.jpg rks]]</a>
 */
 $END $END
+$imgbase=images/  //end of orbit
 
 $ROW $COL
 $block_id=home
