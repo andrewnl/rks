@@ -114,6 +114,7 @@ $img_attr=width=50px;
 */
 $END $END
 $imgbase=images/  //end of orbit
+$unset $img_attr $unset $img_style
 
 $ROW $COL
 $block_id=home
