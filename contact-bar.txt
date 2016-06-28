@@ -1,0 +1,12 @@
+//inc.contact bar at page bottom
+$IMDB=[[http://www.imdb.com/name/nm4488739 [[imdb.png Roselyn on IMDb]]]]
+$CW=[[http://roselynkeladasedra.workbooklive.com [[castingworkbook.png Roselyn on Casting Workbook]]]]
+$FB=[[https://www.facebook.com/groups/sixandeight [[facebook.png Roselyn, Actor & Storyteller]]]]
+$INST=[[https://www.instagram.com/RKeladaSedra [[instagram.png RKeladaSedra Instagram]]]]
+$TWIT=[[https://twitter.com/RKeladaSedra [[twitter.png @RKeladaSedra twitter]]]]
+
+$ROW
+$block_style1=background-color:#DDD; padding:0.5em 0.5em 0.5em 0.5em;
+$COL
+<div>$IMDB $CW $FB $INST $TWIT</div>
+$END $END

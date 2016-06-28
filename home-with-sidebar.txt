@@ -1,0 +1,18 @@
+//inc.Original home with right sidebar
+$ROW $COL
+.Roselyn Kelada-Sedra
+$END $COL medium-8
+<div>[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]</div>
+$END $COL "medium-4 panel"
+//<div class="panel">
+//.SIDEBARS: 
+-Casting websites
+ Roselyn on [[http://www.imdb.com/name/nm4488739 IMDb]]
+ Roselyn on [[http://roselynkeladasedra.workbooklive.com Casting Workbook]]
+--
+-Social Media
+ [[https://www.instagram.com/RKeladaSedra Instagram]] & [[https://twitter.com/RKeladaSedra Twitter]]: @RKeladaSedra
+ fb group [[https://www.facebook.com/groups/sixandeight Roselyn, Actor & Storyteller]]
+//</div>
+$END $END
+

@@ -1,49 +1,9 @@
 //.Roselyn Kelada-Sedra - Actor
 $VER=2.7
-$include NONE
-//rsync -av --delete test1.html orbit root@sv.jazz.to:/home/test/roselyn/
-$FOUNDATION=bower_components/foundation/js/foundation.min.js
-//$JQUERY=bower_components/jquery/dist/jquery.min.js
-$FOUNDCSS=css/app.css
-
-//$FOUNDATION=https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js
-$JQUERY=https://cdnjs.cloudflare.com/ajax/libs/foundation/6.0.1/js/vendor/jquery.min.js
-//$FOUNDCSS=https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.css
-$html_attr=class="no-js" lang="en"
-$metatag=charset="utf-8"
-$metatag0=name="viewport" content="width=device-width, initial-scale=1.0"
+$include code.txt
 $metatag1=name="Description" content="Roselyn Kelada-Sedra is a Toronto-based actor who loves playing neurotic parts, and delights in Shakespearean theatre."
-$style=
-$linktag0=rel="stylesheet" href="$FOUNDCSS"
-$script_attr=
-$scripttag0_attr=src="bower_components/modernizr/modernizr.js"
-$scripttag0=
-$postamble=<script src="$JQUERY"></script>\n<script src="$FOUNDATION"></script>\n<script src="js/app.js"></script><script><`$(document).foundation();`></script>
-$imgbase=images/
-$headingbase=2
-$style={
-  h2 {color: #888;}
-  h3, h4 {color: #666;}
-  body .panel h2 {color: #777;}
-  body .panel h3, body .panel h4 {color: #555;}
-  body div.row { max-width: 48rem; }
-  .credit, .credit a { color:#666; font-size:80%; text-align:right; }
-}
-//////////////////
-//http://calebserna.com/foundation-top-bar-offcanvas-hybrid/ looks good
 
-$ROW=<div class="row">
-$parameters $COL colclass
-$parameters $COL_default $SPACE
-$COL=<div class="column $colclass">
-$END=</div>
-$parameters $Id idval
-$Id=<p id="$idval">&nbsp;</p>
-$parameters $video vid
-$video=<div class="flex-video"><iframe width="420" height="315" src="https://www.youtube.com/embed/$vid" frameborder="0" allowfullscreen></iframe></div>
-$ib=<div class="credit">photo credit: [[http://www.ianbrownphotography.com Ian Brown Photography]]</div>
-$ukh=<div class="credit">photo credit: [[http://www.hiuankanghaaga.com Hi Uan Kang Haaga]]</div>
-//////////////////////////////////////
+////////////////// Navigation Menu
 <div class="fixed"><nav class="top-bar" data-topbar role="navigation">
 $ul_class1=title-area
 $li_class1=name
@@ -65,86 +25,12 @@ $ul_class1=left
 </nav></div>
 $a_attr=target="_blank"
 
-$parameters $orbit orbid orbimg orbcpy orb_line
-$orbit={
- $orbcopyright=$iftrue $orbcpy "&copy;${orbcpy}" $SP
- $li_attr1=data-orbit-slide=$orbid
- -[[$orbimg Roselyn Kelada-Sedra]]<div class="orbit-caption">$orb_line $orbcopyright </div>
-// -[[$orbimg Roselyn Kelada-Sedra]]<div class="orbit-caption">$orb_line -- _Copyright ${orbcpy}_</div>
-}
-
-$parameters $orbutton orbutid orbutimg
-$orbutton=<a data-orbit-link="$orbutid" class="small button">[[$orbutimg Roselyn Kelada-Sedra]]</a>
-
-$imgbase=orbit/
-$ROW $COL
-.Photo Gallery
-$ul_class1=orbit-photo-gallery
-$ul_attr1=data-orbit data-options="timer_speed:2000;"
-$orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
-$orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
-$orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
-$orbit o4 04-roselyn_kelada-sedra-mic-drop.jpg CBC
-$orbit o5 05-roselyn_kelada-sedra-HUKH.jpg "" "Photo by Hi Uan Kang Haaga"
-$orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "Photo by Jeremy Gilmore"
-$orbit o7 07-roselyn_kelada-sedra-dark-phoenix.jpg "Dark Phoenix Productions"
-$orbit o8 08-roselyn_kelada-sedra-appeal.jpg CBC
-$orbit o9 09-roselyn_kelada-sedra-cbc.jpg CBC
-$orbit o10 10-roselyn_kelada-sedra-look-left.jpg "" "Photo by Hi Uan Kang Haaga"
-$orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
-$orbit o12 12-roselyn_kelada-sedra-fb.jpg "" "Photo by Hi Uan Kang Haaga"
-
-//$img_style=width:10%;
-$img_style=width:100px;
-$a_button_style=padding:0;
-$orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
-$orbutton o2 02-roselyn_kelada-sedra-shock.jpg \
-$orbutton o3 03-roselyn_kelada-sedra-think.jpg \
-$orbutton o4 04-roselyn_kelada-sedra-mic-drop.jpg \
-$orbutton o5 05-roselyn_kelada-sedra-HUKH.jpg \
-$orbutton o6 06-roselyn_kelada-sedra-six-eight.jpg \
-$orbutton o7 07-roselyn_kelada-sedra-dark-phoenix.jpg \
-$orbutton o8 08-roselyn_kelada-sedra-appeal.jpg \
-$orbutton o9 09-roselyn_kelada-sedra-cbc.jpg \
-$orbutton o10 10-roselyn_kelada-sedra-look-left.jpg \
-$orbutton o11 11-roselyn_kelada-sedra-solution.jpg \
-$orbutton o12 12-roselyn_kelada-sedra-fb.jpg
-
-/*
--[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
--[[roselyn_kelada-sedra2.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
--[[roselyn_kelada-sedra3-blk.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
-$li_attr1=data-orbit-slide=blue
--[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
--[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
-$li_attr1=data-orbit-slide=blue-net
--[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
-$img_attr=width=50px;
-<a data-orbit-link="one" class="small button">[[roselyn_kelada-sedra1.jpg rks]]</a>\
-<a data-orbit-link="blue" class="small button">[[roselyn_kelada-sedra5-blue.jpg rks]]</a>\
-<a data-orbit-link="blue-net" class="small button">[[roselyn_kelada-sedra4-blue-net.jpg rks]]</a>
-*/
-$END $END
-$imgbase=images/  //end of orbit
-$unset $img_attr $unset $img_style
-
-$ROW $COL
 $block_id=home
-.Roselyn Kelada-Sedra
-$END $COL medium-8
-<div>[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]</div>
-$END $COL "medium-4 panel"
-//<div class="panel">
-//.SIDEBARS: 
--Casting websites
- Roselyn on [[http://www.imdb.com/name/nm4488739 IMDb]]
- Roselyn on [[http://roselynkeladasedra.workbooklive.com Casting Workbook]]
---
--Social Media
- [[https://www.instagram.com/RKeladaSedra Instagram]] & [[https://twitter.com/RKeladaSedra Twitter]]: @RKeladaSedra
- fb group [[https://www.facebook.com/groups/sixandeight Roselyn, Actor & Storyteller]]
-//</div>
-$END $END
+$block_style1=margin-top:0.5em;
+$include slideshow.txt
+$include contact-bar.txt
+
+//$include home-with-sidebar.txt
 
 $Id bio
 $ROW $COL
