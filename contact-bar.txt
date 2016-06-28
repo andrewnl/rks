@@ -5,8 +5,7 @@ $FB=[[https://www.facebook.com/groups/sixandeight [[facebook.png Roselyn, Actor 
 $INST=[[https://www.instagram.com/RKeladaSedra [[instagram.png RKeladaSedra Instagram]]]]
 $TWIT=[[https://twitter.com/RKeladaSedra [[twitter.png @RKeladaSedra twitter]]]]
 
-$ROW
+$ROW $COL
 $block_style1=background-color:#DDD; padding:0.5em 0.5em 0.5em 0.5em;
-$COL
 <div>$IMDB $CW $FB $INST $TWIT</div>
 $END $END

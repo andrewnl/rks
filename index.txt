@@ -154,5 +154,6 @@ $video ehep4N2DUkc
 $video H-glx4StEas
 $END $END
 
+$include contact-bar.txt
 $include analytics.txt
 
