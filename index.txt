@@ -90,7 +90,9 @@ $orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "Photo by Jeremy Gilmore"
 $orbit o7 07-roselyn_kelada-sedra-dark-phoenix.jpg "Dark Phoenix Productions"
 $orbit o8 08-roselyn_kelada-sedra-appeal.jpg CBC
 $orbit o9 09-roselyn_kelada-sedra-cbc.jpg CBC
+$orbit o10 10-roselyn_kelada-sedra-look-left.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
+$orbit o12 12-roselyn_kelada-sedra-fb.jpg "" "Photo by Hi Uan Kang Haaga"
 
 //$img_style=width:10%;
 $img_style=width:100px;
@@ -104,7 +106,9 @@ $orbutton o6 06-roselyn_kelada-sedra-six-eight.jpg \
 $orbutton o7 07-roselyn_kelada-sedra-dark-phoenix.jpg \
 $orbutton o8 08-roselyn_kelada-sedra-appeal.jpg \
 $orbutton o9 09-roselyn_kelada-sedra-cbc.jpg \
-$orbutton o11 11-roselyn_kelada-sedra-solution.jpg
+$orbutton o10 10-roselyn_kelada-sedra-look-left.jpg \
+$orbutton o11 11-roselyn_kelada-sedra-solution.jpg \
+$orbutton o12 12-roselyn_kelada-sedra-fb.jpg
 
 /*
 -[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]<div class="orbit-caption">Roselyn Kelada-Sedra!</div>
