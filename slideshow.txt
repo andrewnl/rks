@@ -17,7 +17,7 @@ $orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
 $orbit o12 12-roselyn_kelada-sedra-fb.jpg "" "Photo by Hi Uan Kang Haaga"
 
 //$img_style=width:10%;
-$img_style=width:100px;
+$img_style=width:55px;
 $a_button_style=padding:0;
 $orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
 $orbutton o2 02-roselyn_kelada-sedra-shock.jpg \
