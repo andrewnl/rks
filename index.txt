@@ -110,7 +110,8 @@ $END $COL medium-6
 -Roselyn created the role, in collaboration with The Incubator Studio writing team.
 $END $COL medium-6
 //<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
-<div>[[roselyn_kelada-sedra9-next.jpg Roselyn Kelada-Sedra]]</div>
+//<div>[[roselyn_kelada-sedra9-next.jpg Roselyn Kelada-Sedra]]</div>
+<div>[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]</div>
 $ukh
 $END $END
 
