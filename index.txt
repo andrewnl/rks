@@ -128,7 +128,8 @@ $END $COL medium-6
 -Getting around: Competent driver (manual & automatic), horseback rider, cyclist. 
 -Random: Competent archer, swing dancer, barista. Singing telegram courier.
 $END $COL medium-6
-<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
+<div>[[roselyn_kelada-sedra7-harp.jpg Roselyn Kelada-Sedra, harpist]]</div>
+//<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
 //<div>[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]</div>
 $END $END
 
