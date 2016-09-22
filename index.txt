@@ -93,12 +93,15 @@ $ROW $COL
 $END $COL medium-6
 //To address: What is she doing now, and what's coming up? 
 //photo: cropped - white blouse smile -- $ib
-..IRL: The Series 
--Roselyn is making her webseries debut in [[http://tv1.bell.ca/fibetv1/shows/in_real_life.html IRL: The Series]], created by Bobby Del Rio.
--In this series, the actors did improvisations to explore the intersection of social media culture with real life.
--The series is about how social media impacts the way people relate to each other.
--Now airing on [[http://tv1.bell.ca/fibetv1/shows/in_real_life.html Bell Fibe TV 1, by subscription only]]. Hang on for the web release, including bonus footage!
+
+..IRL: The Series
+-Roselyn makes her series debut in [[https://www.youtube.com/watch?v=SszF80ak6hs IRL: The Series]], now available across Canada.
+-To create this series, the actors collaboratively researched research & improvised on how social media affects the way we relate to each other -- in real life.
+-Not only was it developed in collaboration -- showrunner, actors & writers all working together -- but the on-air content even gives a glimpse into that process!
+-Now airing on [[http://tv1.bell.ca/fibetv1/shows/in_real_life.html Bell Fibe TV 1]], by subscription only. 
+-Hang on for the web release, including bonus footage!
 //$END $COL
+
 ..Antique Fables Theatre Collective
 -Roselyn is an actor in The Globe, the core performers for the [[http://antiquefablestheatre.weebly.com/about-us.html Antique Fables Theatre Collective]]
 -AFTC does adaptations and devised revamps of classical theatre. 
@@ -106,10 +109,11 @@ $END $COL medium-6
 //$END $COL
 
 .._She Kills Dragons_
--Watch for details on Roselyn's next stage role, her debut with Orphaned Egret Productions.
--In "She Kills Dragons," Roselyn plays a magical warrior elf, with just a hint of neurosis.
--As Kalliope, she'll be taking a dangerous journey to recover a lost soul.
--Details to come!
+-Roselyn makes her debut with Orphaned Egret Productions in [[http://www.blogto.com/events/orphaned-egret-presents-she-kills-monsters-by-qui-nguyen/ “She Kills Dragons.”]]
+-Roselyn plays a magical warrior elf, who's just a little neurotic. In the fantasy world of D&D, this brave fighter makes a dangerous journey to recover a lost soul.
+-[[http://www.blogto.com/events/orphaned-egret-presents-she-kills-monsters-by-qui-nguyen/ Showing at 8:30 p.m. Nov 10, 11, 12th]]
+ -at the [[https://www.facebook.com/events/846431505488796/?notif_t=plan_user_invited&notif_id=1474376547797602 Imperial Pub in Toronto, ON]] (54 Dundas St. E)
+ -Tickets available through [[http://www.orphanedegret.com/ Orphaned Egret Productions]]
 
 $END $COL medium-6
 //<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
@@ -133,8 +137,9 @@ $END $COL medium-6
 $END $COL medium-6
 $ul_class1=orbit-skills
 $ul_attr1=data-orbit data-options="timer_speed:3000;"
--[[roselyn_kelada-sedra7-harp.jpg Roselyn Kelada-Sedra, harpist]]
+-[[roselyn_kelada-sedra-harp2.jpg Roselyn Kelada-Sedra, harpist]]
 -[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]
+-[[roselyn_kelada-sedra7-harp.jpg Roselyn Kelada-Sedra, harpist]]
 //<div>[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]</div>
 $END $END
 
