@@ -137,8 +137,10 @@ $END $COL medium-6
 $END $COL medium-6
 $ul_class1=orbit-skills
 $ul_attr1=data-orbit data-options="timer_speed:3000;"
--[[roselyn_kelada-sedra-harp2.jpg Roselyn Kelada-Sedra, harpist]]
--[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]
+-[[roselyn_kelada-sedra-harp2.jpg Roselyn Kelada-Sedra, harpist]]<div.orbit-caption>Gattie Photography</div>
+-[[horses_Sicilian_Accord-1.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
+-[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]<div.orbit-caption>Ian Brown Photography</div>
+-[[horses_Sicilian_Accord-2.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
 -[[roselyn_kelada-sedra7-harp.jpg Roselyn Kelada-Sedra, harpist]]
 //<div>[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]</div>
 $END $END
