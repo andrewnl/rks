@@ -8,6 +8,6 @@
 
 $END $COL medium-6  //picture on right
 <div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
-//$hukh
+$hkh
 
 
