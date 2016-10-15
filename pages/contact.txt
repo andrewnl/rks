@@ -1,0 +1,9 @@
+//inc.Contact - to address: How do I contact her? Agent info
+
+-Sandra Gillis at Premier Artists Management
+-416-461-6868 x 22 [[mailto:sgillis.premierartists@outlook.com]]
+
+$END $COL medium-8  //picture on right
+
+<div>[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]</div>
+

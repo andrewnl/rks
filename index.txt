@@ -27,8 +27,12 @@ $a_attr=target="_blank"
 
 $block_id=home
 $block_style1=margin-top:0.5em;
-$include slideshow.txt
-$include contact-bar.txt
+$ROW $COL
+$imgbase=orbit/
+$include pages/slideshow.txt
+$imgbase=images/  //end of orbit
+$END $END
+$include pages/contact-bar.txt
 
 //$include home-with-sidebar.txt
 
@@ -36,140 +40,52 @@ $Id bio
 $ROW $COL
 .Bio
 $END $COL medium-6
-Roselyn Kelada-Sedra is an actor based in Toronto, Canada. Roselyn has worked on stages in Canada, England, the U.S. and Europe. Her first love is Shakespearean theatre, and that led to training at [[https://www.rada.ac.uk RADA]] and… everything since. 
-
-Roselyn trained in Shakespearean theatre acting at the [[https://www.rada.ac.uk Royal Academy of Dramatic Art]], at [[http://www.dahteatarcentar.com DAH Teatar]] in Serbia, and in Canada at the [[http://www.voiceintensive.org National Voice Intensive]], [[http://www.lonsdalesmithstudios.com Lonsdale Smith Studios]] and the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. She made her TV debut on CBC in [[http://www.cbc.ca/smartestperson/ Canada’s Smartest Person]], and she is making her webseries debut in [[http://www.imdb.com/title/tt4977510/ IRL: The Series]], airing in 2016. 
-
-Roselyn completed a 3-year apprenticeship as an actor and theatre-maker with the Toronto theatre company, [[http://bcurrent.ca b current]]. She has written, adapted and devised plays produced on Toronto stages. She also created the role of Death as a harpist in DASH, a devised theatre piece based on Emily Dickinson poems.
-$END $COL medium-6
-//<div>[[roselyn_kelada-sedra2.jpg Roselyn Kelada-Sedra]]</div>
-<div>[[roselyn_kelada-sedra8-ukh.jpg Roselyn Kelada-Sedra]]</div>
-$ukh
-$END $END $ROW $COL
--Best advice she knows about art & life: 
- “You can’t be afraid to fail and fail BIG. There’s no chance to ever be good otherwise.” 
- -Hilary Douglas-Wood, founder of [[http://www.thelir.ie The Lir, National Academy of Dramatic Art, Ireland]].
-
--Best advice about$... taking advice:
- "There are no answers here. Simply breathe now." 
- -Cindy Tanas, Owner of the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. 
+$include pages/bio.txt
 $END $END
 
 $Id resume
 $div_class1=panel
 $ROW $COL
 .Resume
-//To address: what has she been in?
-//$div_class1=medium-6
 $END $COL medium-6
-..Resume for Film & TV (pdf)
-<div>[[assets/Roselyn_Kelada-Sedra_Film-resume.pdf [[film-resume-thumbnail-200.png Resume for Film & TV (pdf)]]]]</div>
-..Resume for Theatre (pdf)
-<div>[[assets/Roselyn_Kelada-Sedra_Theatre-resume.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
-$END $COL medium-6
-<div>[[roselyn_kelada-sedra3-blk.jpg Roselyn Kelada-Sedra]]</div>
-$ib
-// photo: black up do -- $ib
+$include pages/resume.txt
 $END $END
 
 $Id demo
 $ROW $COL
 .Demo
-//To address: Can I see her work?  Demo reels
-//-[[https://www.youtube.com/watch?v=pgeqVwefS98 Roselyn's film & TV demo]]
-..Roselyn's film & TV demo
-$video pgeqVwefS98
-//-[[https://www.youtube.com/watch?v=9bUPKmwStEo Roselyn's Musical theatre demo]]
-..Roselyn's Musical theatre demo
-$video 9bUPKmwStEo
-//-[[https://www.youtube.com/watch?v=Ff_LUTcUhw0 Roselyn's Voice-Over demo]]
-..Roselyn's Voice-Over demo
-$video Ff_LUTcUhw0
+$include pages/demo.txt
 $END $END
 
 $Id next
 $ROW $COL
 .Now & Next
 $END $COL medium-6
-//To address: What is she doing now, and what's coming up? 
-//photo: cropped - white blouse smile -- $ib
-
-..IRL: The Series
--Roselyn makes her series debut in [[https://www.youtube.com/watch?v=SszF80ak6hs IRL: The Series]], now available across Canada.
--To create this series, the actors collaboratively researched & improvised on how social media affects the way we relate to each other -- in real life.
--Not only was it developed in collaboration -- showrunner, actors & writers all working together -- but the on-air content even gives a glimpse into that process!
--Now airing on [[http://tv1.bell.ca/fibetv1/shows/in_real_life.html Bell Fibe TV 1]], by subscription only. 
--Hang on for the web release, including bonus footage!
-//$END $COL
-
-.._She Kills Monsters_
--Roselyn makes her debut with Orphaned Egret Productions in [[http://www.blogto.com/events/orphaned-egret-presents-she-kills-monsters-by-qui-nguyen/ “She Kills Monsters.”]]
--Roselyn plays a magical warrior elf, who's just a little neurotic. In the fantasy world of D&D, this brave fighter makes a dangerous journey to recover a lost soul.
--[[http://www.blogto.com/events/orphaned-egret-presents-she-kills-monsters-by-qui-nguyen/ Showing at 8:30 p.m. Nov 10, 11, 12th]]
- -at the [[https://www.facebook.com/imperialpub/?fref=ts Imperial Pub]] (54 Dundas St. E Toronto, ON)
- -Tickets available through [[http://www.orphanedegret.com/upcoming.html Orphaned Egret Productions]]
-
-..Antique Fables Theatre Collective
--Roselyn is an actor in The Globe, the core performers for the [[http://antiquefablestheatre.weebly.com/about-us.html Antique Fables Theatre Collective]]
--AFTC does adaptations and devised revamps of classical theatre. 
--This season, Roselyn is most excited to do Macbeth.
-//$END $COL
-
-$END $COL medium-6
-//<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
-//<div>[[roselyn_kelada-sedra9-next.jpg Roselyn Kelada-Sedra]]</div>
-<div>[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]</div>
-$ukh
+$include pages/next.txt
 $END $END
 
 $Id skills
 $div_class1=panel
 $ROW $COL
 .Random Skills
-//To address: What can she do? Special skills + languages 
-//photo: Roselyn 2015_D_8830 wind
 $END $COL medium-6
--Languages: Fluent English, conversational French, basic Spanish, basic Arabic.
--Music: Singer (low E to high C) Plays harp and piano. Basic acoustic guitar. 
--Sports: Proficient swimmer. Competent skier and skater. 
--Getting around: Competent driver (manual & automatic), horseback rider, cyclist. 
--Random: Competent archer, swing dancer, barista. Singing telegram courier.
-$END $COL medium-6
-$ul_class1=orbit-skills
-$ul_attr1=data-orbit data-options="timer_speed:3000;"
--[[roselyn_kelada-sedra-harp2.jpg Roselyn Kelada-Sedra, harpist]]<div.orbit-caption>Gattie Photography</div>
--[[horses_Sicilian_Accord-1.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
--[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]<div.orbit-caption>Ian Brown Photography</div>
--[[horses_Sicilian_Accord-2.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
--[[roselyn_kelada-sedra7-harp.jpg Roselyn Kelada-Sedra, harpist]]
-//<div>[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]</div>
+$include pages/skills.txt
 $END $END
 
 $Id contact
+//.Contact //Title moved to body to give max room for picture
 $ROW $COL medium-4
 .Contact
-//To address: How do I contact her? Agent info 
-//photo: Roselyn Kelada-Sedra - cropped -Ian Brown IMG_4548 - blue dress -- $ib
-//photo: Roselyn 2015 blue net smile
--Sandra Gillis at Premier Artists Management
--416-461-6868 x 22 [[mailto:sgillis.premierartists@outlook.com]]
-$END $COL medium-8
-<div>[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]</div>
+$include pages/contact.txt
 $END $END
 
 $Id work
 $ROW $COL //panel
 .Creative Work
-//To address: what does she do on her own? Here are the links to work that I've created or collaborated in creating. 
-...Trailer: _Disappearing Soul_, an adaptation of Romeo & Juliet created by and featuring Roselyn
-$video MNNth02gfpg
-...Trailer: _Six & Eight_, a swing dance play, written by & featuring Roselyn Kelada-Sedra
-$video ehep4N2DUkc
-...Cover video of Ed Sheeran's "Photograph" featuring John Moussa
-[[photograph-video-cover.jpg Cover video of Ed Sheeran's "Photograph"]]
-//$video H-glx4StEas
+$include pages/work.txt
 $END $END
 
-$include contact-bar.txt
+$include pages/contact-bar.txt
+
 $analytics UA-1575606-30 //UA-84938235-1
 

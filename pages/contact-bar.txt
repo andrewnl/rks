@@ -4,13 +4,16 @@ $CW=[[http://roselynkeladasedra.workbooklive.com [[castingworkbook.png Roselyn o
 $FB=[[https://www.facebook.com/groups/sixandeight [[facebook.png Roselyn, Actor & Storyteller]]]]
 $INST=[[https://www.instagram.com/RKeladaSedra [[instagram.png RKeladaSedra Instagram]]]]
 $TWIT=[[https://twitter.com/RKeladaSedra [[twitter.png @RKeladaSedra twitter]]]]
+
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
-/////////////////////////////////
 $ROW $COL
+/////////////////////////////////
+
 <div>
 <h1>Roselyn Kelada-Sedra</h1>
 <div>$IMDB $CW $FB $INST $TWIT</div>
 </div>
+
 $END $END
 

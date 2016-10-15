@@ -1,0 +1,21 @@
+//inc.Bio page
+
+Roselyn Kelada-Sedra is an actor based in Toronto, Canada. Roselyn has worked on stages in Canada, England, the U.S. and Europe. Her first love is Shakespearean theatre, and that led to training at [[https://www.rada.ac.uk RADA]] and… everything since. 
+
+Roselyn trained in Shakespearean theatre acting at the [[https://www.rada.ac.uk Royal Academy of Dramatic Art]], at [[http://www.dahteatarcentar.com DAH Teatar]] in Serbia, and in Canada at the [[http://www.voiceintensive.org National Voice Intensive]], [[http://www.lonsdalesmithstudios.com Lonsdale Smith Studios]] and the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. She made her TV debut on CBC in [[http://www.cbc.ca/smartestperson/ Canada’s Smartest Person]], and she is making her webseries debut in [[http://www.imdb.com/title/tt4977510/ IRL: The Series]], airing in 2016. 
+
+Roselyn completed a 3-year apprenticeship as an actor and theatre-maker with the Toronto theatre company, [[http://bcurrent.ca b current]]. She has written, adapted and devised plays produced on Toronto stages. She also created the role of Death as a harpist in DASH, a devised theatre piece based on Emily Dickinson poems.
+
+$END $COL medium-6 //picture on right
+<div>[[roselyn_kelada-sedra8-ukh.jpg Roselyn Kelada-Sedra]]</div>
+$ukh
+$END $END $ROW $COL //start section under picture
+
+-Best advice she knows about art & life: 
+ “You can’t be afraid to fail and fail BIG. There’s no chance to ever be good otherwise.” 
+ -Hilary Douglas-Wood, founder of [[http://www.thelir.ie The Lir, National Academy of Dramatic Art, Ireland]].
+
+-Best advice about$... taking advice:
+ "There are no answers here. Simply breathe now." 
+ -Cindy Tanas, Owner of the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. 
+

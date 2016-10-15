@@ -1,8 +1,8 @@
 //inc.Photo Gallery Slideshow
-$imgbase=orbit/
-$ROW $COL
 $ul_class1=orbit-photo-gallery
 $ul_attr1=data-orbit data-options="timer_speed:2000;"
+///////////////
+
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
 $orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
 $orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
@@ -16,7 +16,6 @@ $orbit o10 10-roselyn_kelada-sedra-look-left.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
 $orbit o12 12-roselyn_kelada-sedra-fb.jpg "" "Photo by Hi Uan Kang Haaga"
 
-//$img_style=width:10%;
 $img_style=width:55px;
 $a_button_style=padding:0;
 $orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
@@ -31,7 +30,6 @@ $orbutton o9 09-roselyn_kelada-sedra-cbc.jpg \
 $orbutton o10 10-roselyn_kelada-sedra-look-left.jpg \
 $orbutton o11 11-roselyn_kelada-sedra-solution.jpg \
 $orbutton o12 12-roselyn_kelada-sedra-fb.jpg
-$imgbase=images/  //end of orbit
+
 $unset $img_attr $unset $img_style
-$END $END
 

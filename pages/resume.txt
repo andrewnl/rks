@@ -1,0 +1,13 @@
+//inc.Resume page - to address: what has she been in?
+
+..Resume for Film & TV (pdf)
+<div>[[assets/Roselyn_Kelada-Sedra_Film-resume.pdf [[film-resume-thumbnail-200.png Resume for Film & TV (pdf)]]]]</div>
+
+..Resume for Theatre (pdf)
+<div>[[assets/Roselyn_Kelada-Sedra_Theatre-resume.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
+
+$END $COL medium-6  //picture on right
+<div>[[roselyn_kelada-sedra3-blk.jpg Roselyn Kelada-Sedra]]</div>
+$ib
+
+

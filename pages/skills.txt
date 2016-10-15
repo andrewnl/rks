@@ -1,0 +1,19 @@
+//inc.Skills page - to address: What can she do? Special skills + languages
+
+-Languages: Fluent English, conversational French, basic Spanish, basic Arabic.
+-Music: Singer (low E to high C) Plays harp and piano. Basic acoustic guitar. 
+-Sports: Proficient swimmer. Competent skier and skater. 
+-Getting around: Competent driver (manual & automatic), horseback rider, cyclist. 
+-Random: Competent archer, swing dancer, barista. Singing telegram courier.
+
+$END $COL medium-6   //picture carousel on right
+
+$ul_class1=orbit-skills
+$ul_attr1=data-orbit data-options="timer_speed:3000;"
+-[[roselyn_kelada-sedra-harp2.jpg Roselyn Kelada-Sedra, harpist]]<div.orbit-caption>Gattie Photography</div>
+-[[horses_Sicilian_Accord-1.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
+-[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]<div.orbit-caption>Ian Brown Photography</div>
+-[[horses_Sicilian_Accord-2.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
+-[[roselyn_kelada-sedra7-harp.jpg Roselyn Kelada-Sedra, harpist]]
+//<div>[[roselyn_kelada-sedra6-wind.jpg Roselyn Kelada-Sedra]]</div>
+
