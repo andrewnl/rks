@@ -2,9 +2,9 @@
 
 -Languages: Fluent English, conversational French, basic Spanish, basic Arabic.
 -Music: Singer (low E to high C) Plays harp and piano. Basic acoustic guitar. 
--Sports: Proficient swimmer. Competent skier and skater. 
--Getting around: Competent driver (manual & automatic), horseback rider, cyclist. 
--Random: Competent archer, swing dancer, barista. Singing telegram courier.
+-Sports: Proficient in swimming. Competent in skiing and skating. 
+-Getting around: Competent at driving (manual & automatic), horseback riding, cycling. 
+-Random: Competent in archery, swing dancing. Singing telegram courier.
 
 $END $COL medium-6   //picture carousel on right
 
