@@ -7,7 +7,7 @@
 <div>[[assets/Roselyn_Kelada-Sedra_Theatre-resume.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
 
 $END $COL medium-6  //picture on right
-<div>[[roselyn_kelada-sedra3-blk.jpg Roselyn Kelada-Sedra]]</div>
-$ib
+<div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
+//$hukh
 
 
