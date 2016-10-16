@@ -1,0 +1,15 @@
+.Build Site
+$VER=2.76
+-This will run a Git pull and then rebuild the site
+-Test Writeup: <`<?php print 'Writeup ' . shell_exec("writeup --version"); ?>`>
+-Git Pull: <`<?php print shell_exec("git pull"); ?>`>
+-Rebuild site:<`<?php  
+$output = array();
+$retvar = 0;
+exec('writeup index.txt 2>&1', $output, $retvar);
+print '<ul>';
+foreach($output as $value) print '<li>' . $value . '</li>';
+if ($retvar) print "<li><strong>**** PROBLEMS REPORTED BY WRITEUP ****</strong></li>";
+else print "<li>Writeup successful</li>";
+print '</ul>';
+?>`>
