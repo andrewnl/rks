@@ -1,5 +1,6 @@
 .Build Site
 $VER=2.76
+<`<?php shell_exec('echo $(date +"%Y-%m-%d : %H:%M:%S") update >> build.log'); ?>`>
 -This will run a Git pull and then rebuild the site
 -Test Writeup: <`<?php print 'Writeup ' . shell_exec("writeup --version"); ?>`>
 -Git Pull: <`<?php print shell_exec("git pull"); ?>`>
