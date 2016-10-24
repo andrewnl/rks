@@ -1,4 +1,4 @@
-//.Roselyn Kelada-Sedra - Actor
+//.Roselyn Kelada-Sedra, Actor & Entertainment Professional
 $VER=2.7
 $include code.txt
 $metatag1=name="Description" content="Roselyn Kelada-Sedra is a Toronto-based actor who loves playing neurotic parts, and delights in Shakespearean theatre."
