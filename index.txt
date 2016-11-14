@@ -88,6 +88,6 @@ $END $END
 $include pages/contact-bar.txt
 $p_style1=margin:0; text-align:center;
 $a_attr1=
-[[http://roselyn.ca/build_4490570.php o o o]]
+//[[http://roselyn.ca/build_4490570.php o o o]]
 $analytics UA-1575606-30 //UA-84938235-1
 
