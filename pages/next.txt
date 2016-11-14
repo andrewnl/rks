@@ -1,16 +1,12 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 
-.._She Kills Monsters_
--Roselyn makes her debut with Orphaned Egret Productions in [[http://www.blogto.com/events/orphaned-egret-presents-she-kills-monsters-by-qui-nguyen/ “She Kills Monsters.”]]
--Roselyn plays a magical warrior elf, who's just a little neurotic. In the fantasy world of D&D, this brave fighter makes a dangerous journey to recover a lost soul.
--[[http://www.blogto.com/events/orphaned-egret-presents-she-kills-monsters-by-qui-nguyen/ Showing at 8:30 p.m. Nov 10, 11, 12th]]
- -at the [[https://www.facebook.com/imperialpub/?fref=ts Imperial Pub]] (54 Dundas St. E Toronto, ON)
- -Tickets available through [[http://www.orphanedegret.com/upcoming.html Orphaned Egret Productions]]
+.._Quiver Theatre_
+-Roselyn is looking forward to workshopping _A Winter's Tale_, by William Shakespeare, with Quiver Theatre.
+-This new company creates movement pieces based on poetic works. Roselyn is working with them on developing QT's inaugural season. 
 
-..Antique Fables Theatre Collective
--Roselyn is an actor in The Globe, the core performers for the [[http://antiquefablestheatre.weebly.com/about-us.html Antique Fables Theatre Collective]]
--AFTC does adaptations and devised revamps of classical theatre. 
--This season, Roselyn is most excited to do Macbeth.
+.._She Kills Monsters_
+-Roselyn just closed _She Kills Monsters_, her debut with [[http://www.orphanedegret.com/ Orphaned Egret Productions]].
+-Roselyn played the calculating dark elf, Kalliope. Lethal with a bow and arrow, with magic at her fingertips, this cerebral tracker-warrior rescues a lost soul in an epic, D&D adventure. 
 
 $END $COL medium-6   //picture on right
 //<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
