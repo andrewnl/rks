@@ -9,7 +9,7 @@ $orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
 ///$orbit o4 04-roselyn_kelada-sedra-mic-drop.jpg CBC
 $orbit SKM1 SKM-pose-1.jpg "" from _She Kills Monsters_, an Orphaned Egret Production
 $orbit o5 05-roselyn_kelada-sedra-HUKH.jpg "" "Photo by Hi Uan Kang Haaga"
-$orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "Photo by Jeremy Gilmore"
+$orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "from _Six & Eight_, with Kaleb Alexander in afteRock plays, produced by b current"
 $orbit o7 07-roselyn_kelada-sedra-dark-phoenix.jpg "Dark Phoenix Productions"
 $orbit o8 08-roselyn_kelada-sedra-appeal.jpg CBC
 $orbit o9 09-roselyn_kelada-sedra-cbc.jpg CBC
