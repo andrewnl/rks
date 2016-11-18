@@ -1,0 +1,13 @@
+//inc.Law Mission page
+
+Roselyn’s purpose as a lawyer is to provide artists with an advocate who understands their world and their needs. She knows the challenges and priorities involved in collaborating to make something - having worked as an actor, writer and co-producer on a range of projects, from indie theatre to national TV. 
+As an associate at Sabsay Lawyers, Roselyn handles entertainment law and contract law matters, including but not limited to: 
+-Incorporations and shareholder agreements
+-Chain of Title review and advice
+-Performer or host agreements and advice (ACTRA, SAG-AFTRA, or non-union)
+-Dispute resolution (industry advice for a positive, safe work environment through negotiation, mediation and arbitration)
+Roselyn knows the realities of working in the industry and makes it her purpose to advocate for artists.
+
+$END $COL medium-4  //image on right
+<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
+

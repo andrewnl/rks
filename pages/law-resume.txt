@@ -1,0 +1,9 @@
+//inc.Law Resume page
+
+<div>[[assets/Roselyn_Kelada-Sedra_Law-resume.pdf [[law-resume-thumbnail-200.png Resume for legal work]]/
+Click on resume to view.]]
+</div>
+
+$END $COL medium-8  //text on right
+Extract from Resume
+

@@ -14,6 +14,7 @@ $li_class1=toggle-topbar menu-icon
 <section class="top-bar-section">
 $ul_class1=left
 //$li_class1=active
+-[[#home Mission]]
 -[[#bio Bio]]
 -[[#resume Resume]]
 -[[#contact Contact]]
@@ -21,16 +22,15 @@ $ul_class1=left
 </nav></div>
 $a_attr=target="_blank"
 
+// Mission
 $block_id=home
-$block_style1=margin-top:0.5em;
+//$Id home
 $ROW $COL
-$imgbase=orbit/
-$include pages/slideshow.txt
-$imgbase=images/  //end of orbit
+//$block_style1=font-size:2rem;
+..Roselyn Kelada-Sedra - Entertainment Lawyer
+$END $COL medium-8
+$include pages/law-mission.txt
 $END $END
-$include pages/contact-bar.txt
-
-//$include home-with-sidebar.txt
 
 $Id bio
 $ROW $COL
@@ -43,7 +43,7 @@ $Id resume
 $div_class1=panel
 $ROW $COL
 .Resume
-$END $COL medium-6
+$END $COL medium-4
 $include pages/law-resume.txt
 $END $END
 
