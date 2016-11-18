@@ -17,6 +17,7 @@ $ul_class1=left
 -[[#home Mission]]
 -[[#bio Bio]]
 -[[#resume Resume]]
+-[[/ Acting]]
 -[[#contact Contact]]
 </section>
 </nav></div>
@@ -32,6 +33,13 @@ $END $COL medium-8
 $include pages/law-mission.txt
 $END $END
 
+$Id resume
+$div_class1=panel
+$ROW $COL medium-4
+.Resume
+$include pages/law-resume.txt
+$END $END
+
 $Id bio
 $ROW $COL
 .Bio
@@ -39,13 +47,14 @@ $END $COL
 $include pages/law-bio.txt
 $END $END
 
-$Id resume
+$Id contact
 $div_class1=panel
 $ROW $COL
-.Resume
-$END $COL medium-4
-$include pages/law-resume.txt
+.Contact
+$END $COL
+$include pages/law-contact.txt
 $END $END
+
 
 $analytics UA-1575606-30 //UA-84938235-1
 

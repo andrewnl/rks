@@ -24,6 +24,7 @@ $style={
   body .panel h3, body .panel h4 {color: #555;}
   body div.row { max-width: 48rem; }
   .credit, .credit a { color:#666; font-size:80%; text-align:right; }
+  div.idmark { line-height:0; }
 }
 
 $ROW=<div class="row">
@@ -32,6 +33,7 @@ $parameters $COL_default $SPACE
 $COL=<div class="column $colclass">
 $END=</div>
 $parameters $Id idval
+$Idthin=<div id="$idval" class="idmark">&nbsp;</div>
 $Id=<p id="$idval">&nbsp;</p>
 $parameters $video vid
 $video=<div class="flex-video"><iframe width="420" height="315" src="https://www.youtube.com/embed/$vid" frameborder="0" allowfullscreen></iframe></div>

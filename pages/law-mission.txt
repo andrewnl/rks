@@ -7,6 +7,7 @@ As an associate at Sabsay Lawyers, Roselyn handles entertainment law and contrac
 -Performer or host agreements and advice (ACTRA, SAG-AFTRA, or non-union)
 -Dispute resolution (industry advice for a positive, safe work environment through negotiation, mediation and arbitration)
 Roselyn knows the realities of working in the industry and makes it her purpose to advocate for artists.
+See her [[http://roselyn.ca work as an actor here]].
 
 $END $COL medium-4  //image on right
 <div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>

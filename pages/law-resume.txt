@@ -5,5 +5,17 @@ Click on resume to view.]]
 </div>
 
 $END $COL medium-8  //text on right
-Extract from Resume
+..Education & Certifications
+-B.A. (_Magna Cum Laude_) in History & English literature, Houghton College 
+-Diploma (_Hons._) in Journalism, Humber College 
+-J.D., Osgoode Hall Law School and called to the Bar 2016
+
+..Memberships
+-Member of Law Society of Upper Canada and Canadian Bar Association 
+-Executive Member of the Ontario Bar Association, Entertainment, Media and Communication Law Section
+
+..Selected Awards
+-*Russell Nelles Starr, Q.C. Memorial Award:* for academic excellence in civil litigation & contract law
+-*Columbia Media Scholastics:* Gold Circle for secondary news coverage and Bronze Circle for online video content
+-*Business Information Group:* Magazine writing award
 
