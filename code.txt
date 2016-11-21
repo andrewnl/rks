@@ -68,3 +68,4 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 </script>
 }
 
+//$HOME=$push $a_attr $unset $a_attr [[http://roselyn.ca clear]]$pop $a_attr

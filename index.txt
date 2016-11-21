@@ -17,6 +17,7 @@ $ul_class1=left
 -[[#bio Bio]]
 -[[#resume Resume]]
 -[[#demo Demo]]
+-[[#voice Voice Work]]
 -[[#next Now&Next]]
 -[[#skills Skills]]
 -[[#contact Contact]]
@@ -55,6 +56,12 @@ $Id demo
 $ROW $COL
 .Demo
 $include pages/demo.txt
+$END $END
+
+$Id voice
+$ROW $COL
+.Voice work
+$include pages/voice.txt
 $END $END
 
 $Id next
