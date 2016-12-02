@@ -6,9 +6,11 @@ Roselyn is prepping for a summer of doing outdoor Shakespearean theatre.
 -Roselyn is developing the inaugural season of Quiver Theatre -- building poetic works into physical theatre.
 //-This new company creates movement pieces based on poetic works. Roselyn is working with them on developing QT's inaugural season. 
 
+$block_style=display:none;
 .._She Kills Monsters_
 -Roselyn just closed _She Kills Monsters_, her debut with [[http://www.orphanedegret.com/ Orphaned Egret Productions]].
--Roselyn played the calculating dark elf, Kalliope. Lethal with a bow and arrow, with magic at her fingertips, this cerebral tracker-warrior rescues a lost soul in an epic, D&D adventure. 
+-Roselyn played the calculating dark elf, Kalliope. Lethal with a bow and arrow, with magic at her fingertips, this cerebral tracker-warrior rescues a lost soul in an epic, D&D adventure.
+$unset $block_style
 
 $END $COL medium-6   //picture on right
 //<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
