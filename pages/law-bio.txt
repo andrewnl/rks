@@ -15,6 +15,9 @@ Reach out to Roselyn via email  or through [[http://sabsaylaw.com Sabsay Lawyers
 
 $END $COL
 
+$END $COL medium-4  //image on right
+<div>[[SabsayLaw-297-Edit.jpg]]</div>
+
 .Education & Certifications
 -B.A. (_Magna Cum Laude_) in History & English literature, Houghton College 
 -Diploma (_Hons._) in Journalism, Humber College 
