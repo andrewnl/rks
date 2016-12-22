@@ -1,8 +1,9 @@
 //inc.Law Contact page
 
+$END $COL medium-4  //image on right
+<div>[[SabsayLaw-297-Edit.jpg]]</div>
+
 -email: [[mailto:KeladaSedra@SabsayLaw.com]]
 -phone: 416-361-9609 (ext. 212) Fax: 416-361-9443
 -web: [[http://sabsaylaw.com]]
 
-$END $COL medium-4  //image on right
-<div>[[SabsayLaw-297-Edit.jpg]]</div>
