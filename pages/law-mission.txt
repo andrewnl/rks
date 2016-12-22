@@ -10,6 +10,6 @@ Roselyn knows the realities of working in the industry and makes it her purpose 
 See her $actor_work.
 
 $END $COL medium-4  //image on right
-<div>[[SabsayLaw-297-Edit.jpg]]</div>
+<div>[[SabsayLaw-266-Edit(1).jpg]]</div>
 //<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
 
