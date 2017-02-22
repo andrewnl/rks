@@ -3,7 +3,7 @@ $ul_class1=orbit-photo-gallery
 $ul_attr1=data-orbit data-options="timer_speed:2000;"
 ///////////////
 
-$orbit o0 01-roselyn_kelada-sedra-diner-tlt.jpg ""
+$orbit o0 01-roselyn_kelada-sedra-diner-tlt.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
 $orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
 $orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
