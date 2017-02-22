@@ -10,7 +10,7 @@ $END $COL medium-6   //picture carousel on right
 
 $ul_class1=orbit-skills
 $ul_attr1=data-orbit data-options="timer_speed:3000;"
--[[roselyn_kelada-sedra-diner-hair-up.jpg Roselyn Kelada-Sedra]]<div.orbit-caption> </div>
+-[[roselyn_kelada-sedra-diner-hair-up.jpg Roselyn Kelada-Sedra]]<div.orbit-caption>Photo by Hi Uan Kang Haaga</div>
 -[[roselyn_kelada-sedra-harp2.jpg Roselyn Kelada-Sedra, harpist]]<div.orbit-caption>Gattie Photography</div>
 -[[horses_Sicilian_Accord-1.jpg Roselyn Kelada-Sedra on the set of The Sicilian Accord]]<div.orbit-caption>On the set of _The Sicilian Accord_</div>
 -[[SKM-shoot.jpg Roselyn Kelada-Sedra]]<div.orbit-caption>Lethal with a bow & arrow in _She Kills Monsters_</div>
