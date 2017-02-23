@@ -41,6 +41,9 @@ $ib=<div class="credit">photo credit: [[http://www.ianbrownphotography.com Ian B
 $ukh=<div class="credit">photo credit: [[http://www.hiuankanghaaga.com Hi Uan Kang Haaga]]</div>
 $hkh=<div class="credit">photo credit: [[http://www.hiuankanghaaga.com Hi Uan Kang Haaga]]</div>
 
+$parameters $credit credit_line
+$credit=<div class="credit">photo credit: $credit_line</div>
+
 $parameters $orbit orbid orbimg orbcpy orb_line
 $orbit={
  $orbcopyright=$iftrue $orbcpy "&copy;${orbcpy}" $SP

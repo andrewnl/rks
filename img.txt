@@ -1,0 +1,15 @@
+.Dimensions for Images
+$VER=2.78
+
+-Save all images at quality: 85% for the best compromise between quality and performance
+-All images must have a description, ideally with your name (Google reads this and indexes it)
+
+..Main Image Reel
+-853 x 480 (This is movie aspect: 16x9)
+
+..Skills Reel
+-330 x 500 (ideally)  but if not as high as 500, a shorter value will still work
+
+..Next
+-354 x 531
+
