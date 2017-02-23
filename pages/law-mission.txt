@@ -9,9 +9,9 @@ As an associate at Sabsay Lawyers, Roselyn handles entertainment law and contrac
 Roselyn knows the realities of working in the industry and makes it her purpose to advocate for artists.
 See her $actor_work.
 
-$END $COL medium-4  //image on right
+$END $COL medium-6  //image on right
 //<div>[[SabsayLaw-243-Edit.jpg]]</div>
-<div>[[SabsayLaw-243RKSinthechair.jpg Roselyn Kelada-Sedra Law]]</div>
+<div>[[SabsayLaw-243-chair.jpg Roselyn Kelada-Sedra Law]]</div>
 $credit Brian Chambers
 //<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
 

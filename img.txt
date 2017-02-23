@@ -11,5 +11,7 @@ $VER=2.78
 -330 x 500 (ideally)  but if not as high as 500, a shorter value will still work
 
 ..Next
--354 x 531
+-354 wide (height around 500)
 
+..Law-Mission
+-354 wide
