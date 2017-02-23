@@ -11,6 +11,6 @@ See her $actor_work.
 
 $END $COL medium-4  //image on right
 //<div>[[SabsayLaw-243-Edit.jpg]]</div>
-<div>[[SabsayLaw-243RKSinthechair]]</div>
+<div>[[SabsayLaw-243RKSinthechair.jpg]]</div>
 //<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
 
