@@ -4,6 +4,7 @@ $ul_attr1=data-orbit data-options="timer_speed:2000;"
 ///////////////
 
 $orbit o0 01-roselyn_kelada-sedra-diner-tlt.jpg "" "Photo by Hi Uan Kang Haaga"
+$orbit ob 01b-roselyn_kelada-sedra_9217-laugh.jpg "" "Photo by Vanessa Burns"
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
 $orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
 $orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
@@ -22,6 +23,7 @@ $orbit o12 12-roselyn_kelada-sedra-fb.jpg "" "Photo by Hi Uan Kang Haaga"
 $img_style=width:55px;
 $a_button_style=padding:0;
 $orbutton o0 01-roselyn_kelada-sedra-diner-tlt.jpg \
+$orbutton ob 01b-roselyn_kelada-sedra_9217-laugh.jpg \
 $orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
 $orbutton o2 02-roselyn_kelada-sedra-shock.jpg \
 $orbutton o3 03-roselyn_kelada-sedra-think.jpg \
