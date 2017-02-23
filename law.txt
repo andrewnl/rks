@@ -29,7 +29,6 @@ $block_id=home
 $ROW $COL
 //$block_style1=font-size:2rem;
 ..Roselyn Kelada-Sedra - Entertainment Lawyer
-$END $COL medium-6
 $include pages/law-mission.txt
 $END $END
 
