@@ -30,4 +30,4 @@ $END $COL medium-6   //picture on right
 $ukh
 
 $END $COL medium-6   //picture on right
-<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div><div.orbit-caption>Gattie Photography</div>
+<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div><div.orbit-caption>Ian Brown Photography</div>
