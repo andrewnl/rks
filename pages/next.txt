@@ -29,3 +29,5 @@ $END $COL medium-6   //picture on right
 //<div>[[roselyn_kelada-sedra_hiuan_union-station_hairdown.jpg Roselyn Kelada-Sedra]]</div>
 $ukh
 
+$END $COL medium-6   //picture on right
+<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div> 
