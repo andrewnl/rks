@@ -11,7 +11,7 @@ As an associate at Sabsay Lawyers, Roselyn handles entertainment law and contrac
 $END $COL medium-6  //columns of image on right
 //<div>[[SabsayLaw-243-Edit.jpg]]</div>
 <div>[[SabsayLaw-243-chair.jpg Roselyn Kelada-Sedra Law]]</div>
-$credit Brian Chambers
+$credit BrianChambers.ca
 //<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
 
 $END $COL // last paragraph takes full width under picture
