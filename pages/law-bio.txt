@@ -4,29 +4,13 @@ As a lawyer, Roselyn Kelada-Sedra focuses on understanding and addressing the ne
 
 As an associate at [[http://sabsaylaw.com Sabsay Lawyers]], Roselyn uses her prior experience in journalism to hone her research and draft effective contracts, opinions and factums. Her work has been published in legal publications, as well as many media outlets in print and online. Furthermore, she has won international awards for online news content and writing. 
 
+$END $COL medium-5   //picture on right
+<div>[[roselyn_kelada-sedra-diner-hair-up.jpg Roselyn Kelada-Sedra]]</div>
+$END $COL // last paragraph takes full width under picture
+
 Prior to joining Sabsay Lawyers, Roselyn articled at Cohen Sabsay LLP, where she gained courtroom experience and advocacy skills. This foundation gave her the context to draft contracts that avoid problems down the road. 
  
 When she’s not working or globe-trotting, Roselyn dedicates her time to building community between legal professionals in the entertainment industry.  As an executive member of the Ontario Bar Association, Entertainment, Media and Communication Law Section, she helps to develop programs for entertainment legal professionals across Canada. 
 
 Roselyn earned her Juris Doctor degree at Osgoode Hall Law School. There, in collaboration with Mixed Company Theatre, Roselyn pioneered a new model of mediation, using theatre games to facilitate holistic communication between disputants. She presented this endeavour at the prestigious Osgoode Hall Law Journal J.D. Research Symposium. 
 
-/*
-Reach out to Roselyn via email  or through [[http://sabsaylaw.com Sabsay Lawyers]].
-
-$END $COL medium-4  //image on right
-//<div>[[SabsayLaw-243-Edit_chair60]]</div>
-
-.Education & Certifications
--B.A. (_Magna Cum Laude_) in History & English literature, Houghton College 
--Diploma (_Hons._) in Journalism, Humber College 
--J.D., Osgoode Hall Law School and called to the Bar 2016
-
-.Memberships
--Member of Law Society of Upper Canada and Canadian Bar Association 
--Executive Member of the Ontario Bar Association, Entertainment, Media and Communication Law Section
-
-.Selected Awards
--*Russell Nelles Starr, Q.C. Memorial Award:* for academic excellence in civil litigation & contract law
--*Columbia Media Scholastics:* Gold Circle for secondary news coverage and Bronze Circle for online video content
--*Business Information Group:* Magazine writing award
-*/

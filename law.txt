@@ -42,7 +42,7 @@ $END $END
 $Id bio
 $ROW $COL
 .Bio
-$END $COL
+$END $COL medium-7
 $include pages/law-bio.txt
 $END $END
 
