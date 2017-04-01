@@ -6,6 +6,7 @@ As an associate at [[http://sabsaylaw.com Sabsay Lawyers]], Roselyn uses her pri
 
 $END $COL medium-5   //picture on right
 <div>[[roselyn_kelada-sedra-diner-hair-up.jpg Roselyn Kelada-Sedra]]</div>
+$ukh
 $END $COL // last paragraph takes full width under picture
 
 Prior to joining Sabsay Lawyers, Roselyn articled at Cohen Sabsay LLP, where she gained courtroom experience and advocacy skills. This foundation gave her the context to draft contracts that avoid problems down the road. 
