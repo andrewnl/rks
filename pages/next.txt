@@ -4,12 +4,18 @@
 Roselyn is prepping for a summer of theatre. She's playing Cleopatra! In a new comedy by Kyle McDonald, called Macbeth's Head.
 Cleopatra teams up with Richard III to take revenge on Shakespeare for their tragic ends. It's going to be hilarious! Come & see, July 5-15 in the [[http://fringetoronto.com/fringe-festival/ Toronto Fringe Festival]]
 
-//$video fMK-RO9sdm8
+$video fMK-RO9sdm8
+
+$END $COL medium-6 // start left column
 
 Roselyn's dream roles include Cleopatra in Shakespeare's Antony & Cleopatra, Helena in _All's Well That Ends Well_ and Hermione in _Harry Potter and the Cursed Child_... obviously.
 
 .._Writing_
 With Livia Berius, Roselyn is co-writing a script about the juggle that is life for a woman trying to succeed in acting and in law - at the same time. It's a dramedy that digs into the misogyny and racial prejudices in professional settings in Toronto. Think [[https://www.youtube.com/watch?v=G1qYxOF7TUs "Insecure"]] meets [[http://www.cbs.com/shows/the_good_wife/ "The Good Wife"]] meets [[http://www.imdb.com/title/tt1742650/ "I don't know how she does it"]].  
+
+.._TV: IRL the Series_
+IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
+And IRL is a semi-finalist in the Los Angeles CineFest! Keep up to date with the  [[https://www.facebook.com/IRLtheSeries/photos/a.1653373114910091.1073741828.1638435516403851/1842595782654489/?type=3&theater/ IRL facebook page]].
 
 For more news, join the facebook group:  [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]]. 
 $block_style=display:none;
@@ -26,9 +32,6 @@ $END $COL medium-6   //picture on right
 //<div>[[roselyn_kelada-sedra_hiuan_union-station_hairdown.jpg Roselyn Kelada-Sedra]]</div>
 $ukh
 
-.._TV: IRL the Series_
-IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
-And IRL is a semi-finalist in the Los Angeles CineFest! Keep up to date with the  [[https://www.facebook.com/IRLtheSeries/photos/a.1653373114910091.1073741828.1638435516403851/1842595782654489/?type=3&theater/ IRL facebook page]].
-
 $END $COL medium-6   //picture on right
-<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div><div.orbit-caption>Ian Brown Photography</div>
+<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
+$ib

@@ -67,7 +67,6 @@ $END $END
 $Id next
 $ROW $COL
 .Now & Next
-$END $COL medium-6
 $include pages/next.txt
 $END $END
 
