@@ -1,9 +1,5 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 
-.._TV: IRL the Series_
-IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
-And IRL is a semi-finalist in the Los Angeles CineFest! Keep up to date with the  [[https://www.facebook.com/IRLtheSeries/photos/a.1653373114910091.1073741828.1638435516403851/1842595782654489/?type=3&theater/ IRL facebook page]].
-
 .._Theatre_
 Roselyn is prepping for a summer of theatre. She's playing Cleopatra! In a new comedy by Kyle McDonald, called Macbeth's Head.
 Cleopatra teams up with Richard III to take revenge on Shakespeare for their tragic ends. It's going to be hilarious! Come & see, July 5-15 in the [[http://fringetoronto.com/fringe-festival/ Toronto Fringe Festival]]
@@ -11,9 +7,6 @@ Cleopatra teams up with Richard III to take revenge on Shakespeare for their tra
 $video fMK-RO9sdm8
 
 Roselyn's dream roles include Cleopatra in Shakespeare's Antony & Cleopatra, Helena in _All's Well That Ends Well_ and Hermione in _Harry Potter and the Cursed Child_... obviously.
-.._Quiver Theatre_
--Roselyn is workshopping Electra, by Sophocles, the Anne Carson translation with [[https://www.quivertheatre.com/ Quiver Theatre]] -- building poetic works into physical theatre.
-//-This new company creates movement pieces based on poetic works. Roselyn is working with them on developing QT's inaugural season. 
 
 .._Writing_
 With Livia Berius, Roselyn is co-writing a script about the juggle that is life for a woman trying to succeed in acting and in law - at the same time. It's a dramedy that digs into the misogyny and racial prejudices in professional settings in Toronto. Think [[https://www.youtube.com/watch?v=G1qYxOF7TUs "Insecure"]] meets [[http://www.cbs.com/shows/the_good_wife/ "The Good Wife"]] meets [[http://www.imdb.com/title/tt1742650/ "I don't know how she does it"]].  
@@ -32,6 +25,10 @@ $END $COL medium-6   //picture on right
 //<div>[[roselyn_kelada-sedra1.jpg Roselyn Kelada-Sedra]]</div>
 //<div>[[roselyn_kelada-sedra_hiuan_union-station_hairdown.jpg Roselyn Kelada-Sedra]]</div>
 $ukh
+
+.._TV: IRL the Series_
+IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
+And IRL is a semi-finalist in the Los Angeles CineFest! Keep up to date with the  [[https://www.facebook.com/IRLtheSeries/photos/a.1653373114910091.1073741828.1638435516403851/1842595782654489/?type=3&theater/ IRL facebook page]].
 
 $END $COL medium-6   //picture on right
 <div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div><div.orbit-caption>Ian Brown Photography</div>
