@@ -1,6 +1,6 @@
 //inc.Law Resume page
 
-<div>[[assets/Law_Resume_Ent_Roselyn_Kelada-Sedra_June_2017.pdf.pdf [[law-resume-thumbnail-200.png Resume for legal work]]/
+<div>[[assets/Law_Resume_Ent_Roselyn_Kelada-Sedra_June_2017.pdf [[law-resume-thumbnail-200.png Resume for legal work]]/
 Click on resume to view.]]
 </div>
 
