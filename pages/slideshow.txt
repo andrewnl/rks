@@ -7,6 +7,7 @@ $orbit o0 01-roselyn_kelada-sedra-diner-tlt.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit ob 01b-roselyn_kelada-sedra_9217-laugh.jpg "" "Photo by Vanessa Burns"
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
 $orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
+$orbit oc Cleo_w_light_snake.jpg "Photo by Alexandra Augustine" "As Cleopatra in _Macbeth's Head_" 
 $orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
 ///$orbit o4 04-roselyn_kelada-sedra-mic-drop.jpg CBC
 $orbit SKM1 SKM-pose-1.jpg "" from _She Kills Monsters_, an Orphaned Egret Production
@@ -14,8 +15,7 @@ $orbit o5 05-roselyn_kelada-sedra-HUKH.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "from _Six & Eight_, with Kaleb Alexander in afteRock plays, produced by b current"
 $orbit o7 07-roselyn_kelada-sedra-dark-phoenix.jpg "Dark Phoenix Productions"
 $orbit o8 08-roselyn_kelada-sedra-appeal.jpg CBC
-$orbit o9 09-roselyn_kelada-sedra-cbc.jpg CBC
-$orbit SKM2 SKM-just-fired.jpg "" Killing goblins, succubi & all manner of evil in _She Kills Monsters_
+$orbit o9 SKM-just-fired.jpg "" Killing goblins, succubi & all manner of evil in _She Kills Monsters_
 $orbit o10 10-roselyn_kelada-sedra-look-left.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
 $orbit o12 12-roselyn_kelada-sedra-fb.jpg "" "Photo by Hi Uan Kang Haaga"
@@ -26,6 +26,7 @@ $orbutton o0 01-roselyn_kelada-sedra-diner-tlt.jpg \
 $orbutton ob 01b-roselyn_kelada-sedra_9217-laugh.jpg \
 $orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
 $orbutton o2 02-roselyn_kelada-sedra-shock.jpg \
+$orbutton oc Cleo_w_light_snake.jpg \
 $orbutton o3 03-roselyn_kelada-sedra-think.jpg \
 //$orbutton o4 04-roselyn_kelada-sedra-mic-drop.jpg \
 $orbutton SKM1 SKM-pose-1.jpg \
@@ -33,8 +34,7 @@ $orbutton o5 05-roselyn_kelada-sedra-HUKH.jpg \
 $orbutton o6 06-roselyn_kelada-sedra-six-eight.jpg \
 $orbutton o7 07-roselyn_kelada-sedra-dark-phoenix.jpg \
 $orbutton o8 08-roselyn_kelada-sedra-appeal.jpg \
-$orbutton o9 09-roselyn_kelada-sedra-cbc.jpg \
-$orbutton SKM2 SKM-just-fired.jpg \
+$orbutton o9 SKM-just-fired.jpg \
 $orbutton o10 10-roselyn_kelada-sedra-look-left.jpg \
 $orbutton o11 11-roselyn_kelada-sedra-solution.jpg \
 $orbutton o12 12-roselyn_kelada-sedra-fb.jpg
