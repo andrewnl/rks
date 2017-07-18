@@ -1,10 +1,10 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 
 .._Theatre_
-Roselyn is prepping for a summer of theatre. She's playing Cleopatra! In a new comedy by Kyle McDonald, called Macbeth's Head.
-Cleopatra teams up with Richard III to take revenge on Shakespeare for their tragic ends. It's going to be hilarious! Come & see, July 5-15 in the [[http://fringetoronto.com/fringe-festival/ Toronto Fringe Festival]]
+Roselyn recently finished a comedic turn, playing Cleopatra! (Figure that one out.) In a new comedy by Kyle McDonald, called Macbeth's Head, Cleopatra teams up with Richard III to take revenge on Shakespeare for their tragic ends. Stay tuned for the future life of this Cleopatra [[http://www.malfiproductions.com/macbeths-head "at Malfi Productions"]].
 
-$video fMK-RO9sdm8
+//$video fMK-RO9sdm8
+<div>[[Cleo_basking_in_light.jpg]]</div>
 
 $END $COL medium-6 // start left column
 
