@@ -21,7 +21,7 @@ $ul_class1=left
 -[[#next Now&Next]]
 -[[#skills Skills]]
 -[[#contact Contact]]
--[[#work Creative Work]]
+-[[#work Writing]]
 </section>
 </nav></div>
 $a_attr=target="_blank"
@@ -87,7 +87,7 @@ $END $END
 
 $Id work
 $ROW $COL //panel
-.Creative Work
+.Writing
 $include pages/work.txt
 $END $END
 
