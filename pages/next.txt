@@ -1,5 +1,9 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 
+.._Writing_
+With Livia Berius, Roselyn is co-writing a series called Raising the Bar. It's is about Tegan, a woman of colour living 2 lives – as an articling student and an actor – and her struggle, looking like a success and feeling like a failure.
+It's about taking risks to live authentically - failing in it and trying again. It's a dramedy that digs into the misogyny and racial prejudices in the legal profession and the acting industry in Toronto. Think [[https://www.youtube.com/watch?v=G1qYxOF7TUs "Insecure"]] meets [[http://www.cbs.com/shows/the_good_wife/ "The Good Wife"]] meets [[http://www.imdb.com/title/tt1742650/ "I don't know how she does it"]].  
+
 .._Theatre_
 Roselyn recently finished a comedic turn, playing Cleopatra. (Figure that one out!) In _Macbeth's Head_, a new comedy by Kyle McDonald, Cleopatra teams up with Maccers & Richard III to make Shakespeare fix their tragic ends. Stay tuned for the future of this Cleopatra [[http://www.malfiproductions.com/macbeths-head at Malfi Productions]].
 
@@ -9,9 +13,6 @@ Photo by Eilish Waller
 $END $COL medium-6 // start left column
 
 Roselyn's dream roles include Cleopatra in Shakespeare's _Antony & Cleopatra_, Helena in _All's Well That Ends Well_ and Hermione in _Harry Potter and the Cursed Child_... obviously.
-
-.._Writing_
-With Livia Berius, Roselyn is co-writing a script about the juggle that is life for a woman trying to succeed in acting and in law - at the same time. It's a dramedy that digs into the misogyny and racial prejudices in professional settings in Toronto. Think [[https://www.youtube.com/watch?v=G1qYxOF7TUs "Insecure"]] meets [[http://www.cbs.com/shows/the_good_wife/ "The Good Wife"]] meets [[http://www.imdb.com/title/tt1742650/ "I don't know how she does it"]].  
 
 .._TV: IRL the Series_
 IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
