@@ -6,3 +6,6 @@ $video 9bUPKmwStEo
 ..Roselyn's Voice-Over demo
 $video Ff_LUTcUhw0
 
+...Cover video of Ed Sheeran's "Photograph" featuring John Moussa
+[[https://www.youtube.com/watch?v=H-glx4StEas [[photograph-video-cover2.jpg Cover video of Ed Sheeran's "Photograph"]]]]
+
