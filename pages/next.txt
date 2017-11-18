@@ -1,7 +1,6 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 .._Theatre_
-Roselyn is thrilled to play a dream role with [[http://spurofthemomentshakespeare.weebly.com "Spur-of-the-Moment Shakespeare."]] this season. Roselyn plays Katherine (The Taming of the Shrew) in an original Shakespeare mash-up where Prince Hal has to become a better person in order to become king. To do that, he decides to make Katherine his project. The play explores the question: is identity fixed?It's playing at a masqued gala Dec. 14th & 15th at 7 p.m. at [[https://ildsjel.ca/ Ilsdjel,]] located at 4 Carlaw Ave., Toronto. 
-Visit [[https://www.facebook.com/events/128008684555921/ "La Maschera Gala" to book tickets.]] 
+Roselyn is thrilled to play a dream role with [[http://spurofthemomentshakespeare.weebly.com "Spur-of-the-Moment Shakespeare"]] this season. Roselyn plays Katherine (The Taming of the Shrew) in an original Shakespeare mash-up where Prince Hal has to become a better person in order to become king. To do that, he makes Katherine his project. The play explores the question: is identity fixed? It's playing at a masqued gala, Dec. 14th & 15th at 7 p.m. at [[https://ildsjel.ca/ Ilsdjel,]] located at 4 Carlaw Ave., Toronto. Visit [[https://www.facebook.com/events/128008684555921/ "La Maschera Gala" to book tickets.]] 
 
 Roselyn recently finished a comedic turn, playing Cleopatra. (Figure that one out!) In _Macbeth's Head_, a new comedy by Kyle McDonald, Cleopatra teams up with Maccers & Richard III to make Shakespeare fix their tragic ends. Stay tuned for the future of this Cleopatra [[http://www.malfiproductions.com/macbeths-head at Malfi Productions]].
 
@@ -11,8 +10,11 @@ Photo by Eilish Waller
 $END $COL medium-6 // start left column
 
 .._Writing_
-With Livia Berius, Roselyn is co-writing a webseries fear of failure in a 30-year-old woman of colour, going through articling, and her her struggle to maintain who her creativity through the process. Episode 01 is in pre-production now! Check in here for updates as the series develops.
-//It's a dramedy that digs into the misogyny and racial prejudices in professional environments in Toronto. Think [[https://www.youtube.com/watch?v=G1qYxOF7TUs "Insecure"]] meets [[http://www.imdb.com/title/tt1742650/ "I don't know how she does it"]].  
+With Livia Berius, Roselyn is co-writing a webseries about fear of failure in a 30-year-old woman of colour, going through articling. The series follows her struggle to maintain who her creativity through the process. Episode 01 is in post-production now! Check in here for updates as the series develops.
+//It's a dramedy that digs into the misogyny and racial prejudices in professional environments in Toronto. Think [[https://www.youtube.com/watch?v=G1qYxOF7TUs "Insecure"]] meets [[http://www.imdb.com/title/tt1742650/ "I don't know how she does it"]].
+
+Roselyn also has some plays in the works. For news, join the facebook group:  [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]]. 
+
 
 //.._TV: IRL the Series_
 //IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
@@ -20,7 +22,6 @@ With Livia Berius, Roselyn is co-writing a webseries fear of failure in a 30-yea
 
 Roselyn's dream roles include Cleopatra in Shakespeare's _Antony & Cleopatra_, Helena in _All's Well That Ends Well_ and Hermione in _Harry Potter and the Cursed Child_... obviously.
 
-For more news, join the facebook group:  [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]]. 
 $block_style=display:none;
 .._She Kills Monsters_
 -Roselyn just closed _She Kills Monsters_, her debut with [[http://www.orphanedegret.com/ Orphaned Egret Productions]].
