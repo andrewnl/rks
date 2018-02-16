@@ -4,7 +4,7 @@ $ul_attr1=data-orbit data-options="timer_speed:2000;"
 ///////////////
 
 //$orbit o0 01-roselyn_kelada-sedra-diner-tlt.jpg "" "Photo by Hi Uan Kang Haaga"
-$orbit o0 01-roselyn_kelada-sedra-fail-better.jpg "" "Photo by Devon Slack"
+$orbit o0 01-roselyn_kelada-sedra-fail-better.jpg "" "Photo by Devon Slack, Use The Suggestion Photography"
 $orbit ob 01b-roselyn_kelada-sedra_9217-laugh.jpg "" "Photo by Vanessa Burns"
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
 $orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
