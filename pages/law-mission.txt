@@ -3,10 +3,14 @@ $END $COL medium-6 // number of columns of text on the left
 
 Roselyn’s purpose as a lawyer is to provide artists with an advocate who understands their world and their needs. She knows the challenges and priorities involved in collaborating to make something - having worked as an actor, writer and co-producer on a range of projects, from indie theatre to national TV. 
 As an associate at Sabsay Lawyers, Roselyn handles entertainment law and contract law matters, including but not limited to: 
--Incorporations and shareholder agreements
--Chain of Title review and advice
--Performer or host agreements and advice (ACTRA, SAG-AFTRA, or non-union)
--Dispute resolution (industry advice for a positive, safe work environment through negotiation, mediation and arbitration)
+- Non-disclosure agreements, 
+- Licensing agreements, 
+- Artist partnership agreements, 
+- Service contracts for film & TV,
+-Incorporations and shareholder agreements,
+-Chain of Title review and advice,
+-Performer or host agreements and advice (ACTRA, SAG-AFTRA, or non-union),
+-Dispute resolution (industry advice for a positive, safe work environment through negotiation, mediation and arbitration).
 
 $END $COL medium-6  //columns of image on right
 //<div>[[SabsayLaw-243-Edit.jpg]]</div>
@@ -16,5 +20,5 @@ $credit BrianChambers.ca
 
 $END $COL // last paragraph takes full width under picture
 Roselyn knows the realities of working in the industry and makes it her purpose to advocate for artists.
-See her $actor_work.
+See her $actor_work  and as a [writer here http://roselyn.ca/#work]. 
 
