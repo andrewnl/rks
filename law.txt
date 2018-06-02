@@ -15,8 +15,9 @@ $li_class1=toggle-topbar menu-icon
 $ul_class1=left
 //$li_class1=active
 -[[#home Mission]]
--[[#bio Bio]]
+-[[#publications Publications]]
 -[[#resume Resume]]
+-[[#bio Bio]]
 -[[/ Acting]]
 -[[#contact Contact]]
 </section>
@@ -30,6 +31,12 @@ $ROW $COL
 //$block_style1=font-size:2rem;
 ..Roselyn Kelada-Sedra - Entertainment Lawyer
 $include pages/law-mission.txt
+$END $END
+
+$Id publications
+$ROW $COL
+.Selected Articles in Legal Publications
+$include pages/law-pubs.txt
 $END $END
 
 $Id resume

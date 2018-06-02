@@ -12,7 +12,7 @@ $END $COL medium-8  //text on right
 
 ..Memberships
 -Member of Law Society of Upper Canada and Canadian Bar Association 
--Secretary of the Ontario Bar Association, Entertainment, Media and Communication Law Section
+-Secretary to Member at Large
 
 ..Selected Awards
 -*Russell Nelles Starr, Q.C. Memorial Award:* for academic excellence in civil litigation & contract law
