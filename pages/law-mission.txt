@@ -20,5 +20,5 @@ $credit BrianChambers.ca
 
 $END $COL // last paragraph takes full width under picture
 Roselyn knows the realities of working in the industry and makes it her purpose to advocate for artists.
-See her $actor_work  and as a [writer here http://roselyn.ca/#work]. 
+See her $actor_work  and as a [[http://roselyn.ca/#work writer here]]. 
 
