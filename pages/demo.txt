@@ -1,6 +1,5 @@
 //inc.Demo page - to address: Can I see her work?  Demo reels
 
 ..Roselyn's film & TV demo
-[[https://www.youtube.com/watch?v=dIi3QQr9Iv8 2018 demo on YouTube]]
-$video \_jsLWW9ABhc
+$video dIi3QQr9Iv8
 
