@@ -15,9 +15,9 @@ $li_class1=toggle-topbar menu-icon
 $ul_class1=left
 //$li_class1=active
 -[[#home Mission]]
--[[#publications Publications]]
 -[[#resume Resume]]
 -[[#bio Bio]]
+-[[#publications Publications]]
 -[[/ Acting]]
 -[[#contact Contact]]
 </section>
@@ -33,12 +33,6 @@ $ROW $COL
 $include pages/law-mission.txt
 $END $END
 
-$Id publications
-$ROW $COL
-.Selected Articles in Legal Publications
-$include pages/law-pubs.txt
-$END $END
-
 $Id resume
 $div_class1=panel
 $ROW $COL medium-4
@@ -51,6 +45,12 @@ $ROW $COL
 .Bio
 $END $COL medium-7
 $include pages/law-bio.txt
+$END $END
+
+$Id publications
+$ROW $COL
+.Selected Articles in Legal Publications
+$include pages/law-pubs.txt
 $END $END
 
 $Id contact
