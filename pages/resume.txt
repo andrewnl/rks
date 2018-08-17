@@ -12,7 +12,7 @@ $END $COL medium-6  //picture on right
 ..Resume for Writing (pdf)
 <div>[[assets/Roselyn_Kelada-Sedra_Writing-resume.pdf [[writing-resume-thumbnail-200.png Resume for Writing (pdf)]]]]</div>
 
-$END $COL medium-6  //picture on right
+$END $COL medium-6  //picture on left
 <div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
 $hkh
 
