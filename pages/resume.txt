@@ -6,13 +6,11 @@
 ..Resume for Theatre (pdf)
 <div>[[assets/ROSELYN_KELADA-SEDRA_theatre_resume_April2018-Premier.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
 
-
-$END $COL medium-6  //picture on right
-<div>[[DSC_1816main,no_name,bySamGaetz.25M.jpg Roselyn Kelada-Sedra by Gaetz Photography]]</div>
-
 ..Resume for Writing (pdf)
 <div>[[assets/Roselyn_Kelada-Sedra_Writing-resume.pdf [[writing-resume-thumbnail-200.png Resume for Writing (pdf)]]]]</div>
 
+$END $COL medium-6  //picture on right
+<div>[[DSC_1816main,no_name,bySamGaetz.25M.jpg Roselyn Kelada-Sedra by Gaetz Photography]]</div>
 
 $END $COL medium-6  //picture on right
 <div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
