@@ -17,7 +17,7 @@ $END $COL medium-6  //columns of image on right
 //<div>[[SabsayLaw-243-chair.jpg Roselyn Kelada-Sedra Law]]</div>
 //$credit BrianChambers.ca
 //<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
-<div>[[DSC_1470.jpg Roselyn Kelada-Sedra Law]]</div>
+<div>[[DSC_1511.jpg Roselyn Kelada-Sedra Law]]</div>
 Gaetz Photography
 
 $END $COL // last paragraph takes full width under picture
