@@ -5,8 +5,8 @@ As a lawyer, Roselyn Kelada-Sedra focuses on understanding and addressing the ne
 As an associate at [[http://sabsaylaw.com Sabsay Lawyers]], Roselyn uses her prior experience in journalism to hone her research and draft effective contracts, opinions and factums. Her work has been published in legal publications, as well as many media outlets in print and online. Furthermore, she has won international awards for online news content and writing. 
 
 $END $COL medium-5   //picture on right
-<div>[[roselyn_kelada-sedra-diner-hair-up.jpg Roselyn Kelada-Sedra]]</div>
-$ukh
+<div>[[dsc_1511.jpg Roselyn Kelada-Sedra]]</div>
+Gaetz Photography
 $END $COL // last paragraph takes full width under picture
 
 Prior to joining Sabsay Lawyers, Roselyn articled at Cohen Sabsay LLP, where she gained courtroom experience and advocacy skills. This foundation gave her the context to draft contracts that avoid problems down the road. 
