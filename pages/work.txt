@@ -6,7 +6,7 @@ Roselyn began her writing career as a journalist. She wrote columns, feature art
 Roselyn is a contributor to the [[https://www.theglobeandmail.com/life/first-person/ Globe & Mail]], among other newspapers, and to many web outlets including the women's empowerment zine, [[https://www.bitchesbewitches.com/search?q=roselyn Bitches be Witches]]. 
 
 
-$END $COL medium-8  //picture on right
+$END $COL medium-8  //picture on left
 <div>[[DSC_1042.jpg Roselyn Kelada-Sedra]]</div>
 Gaetz Photography
 
