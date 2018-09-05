@@ -1,7 +1,4 @@
 //inc.Writing - to address: what does she do on her own
-$END $COL medium-8  //picture on left
-<div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
-$hkh
 
 Roselyn explores the human condition, particularly for women of colour. What makes a woman strong? resilient? brave? compassionate? These explorations drive the stories that Roselyn tells, on stage and screen. 
 
@@ -21,3 +18,7 @@ $video ehep4N2DUkc
 
 ...Trailer: _Disappearing Soul_, an adaptation of Romeo & Juliet created by and featuring Roselyn
 $video MNNth02gfpg
+
+$END $COL medium-8  //picture on left
+<div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
+$hkh
