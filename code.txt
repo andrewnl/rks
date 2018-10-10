@@ -73,4 +73,4 @@ $analy_script={
 }
 
 $actor_work=$push $a_attr $unset $a_attr [[http://roselyn.ca work as an actor here]]$pop $a_attr
-
+$centre=$block_style1=text-align:center;
