@@ -30,4 +30,5 @@ $video MNNth02gfpg
 $END $COL //picture 
 $centre
 <div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
+$centre
 $hkh
