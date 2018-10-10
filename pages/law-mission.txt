@@ -18,7 +18,7 @@ $END $COL medium-6  //columns of image on right
 //$credit BrianChambers.ca
 //<div>[[roselyn-lawyer.jpg Roselyn Kelada-Sedra]]</div>
 <div>[[DSC_1511.jpg Roselyn Kelada-Sedra Law]]</div>
-Gaetz Photography
+$gaetz
 
 $END $COL // last paragraph takes full width under picture
 Roselyn knows the realities of working in the industry and makes it her purpose to advocate for artists.

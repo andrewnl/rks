@@ -5,6 +5,6 @@
 
 $END $COL medium-8  //picture on right
 <div>[[DSC_1694.jpg Roselyn Kelada-Sedra]]</div>
-Gaetz Photography
+$gaetz
 //<div>[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]</div>
 

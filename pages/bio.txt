@@ -11,7 +11,7 @@ $END $COL medium-6 //picture on right
 //<div>[[roselyn_kelada-sedra-union-station.jpg Kelada-Sedra]]</div>
 //$ukh
 <div>[[DSC_1234.jpg Roselyn Kelada-Sedra]]</div>
-Gaetz Photography
+$gaetz
 $END $END $ROW $COL //start section under picture
 
 -Best advice she knows about art & life: 
