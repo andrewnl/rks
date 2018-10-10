@@ -21,6 +21,6 @@ $video ehep4N2DUkc
 ...Trailer: _Disappearing Soul_, an adaptation of Romeo & Juliet created by and featuring Roselyn
 $video MNNth02gfpg
 
-$END $COL medium-8  //picture 
+$END $COL //picture 
 <div>[[roselyn_kelada-sedra-bw_hiuan_9.30.jpg Roselyn Kelada-Sedra]]</div>
 $hkh
