@@ -11,10 +11,11 @@ $END $COL medium-8  //text on right
 -J.D., Osgoode Hall Law School and called to the Bar 2016
 
 ..Memberships
--Member of Law Society of Upper Canada and Canadian Bar Association 
--Secretary to Member at Large
+-Member of Law Society of Ontario and Canadian Bar Association 
+-Executive Member of Entertainment and Media Law Section, Ontario Bar Association (2016-2018)
 
 ..Selected Awards
+- Rated as one of the Top Three Civil Litigation lawyers in Toronto (2018) by [[https://threebestrated.ca/civil-litigation-lawyer-in-toronto-on ThreeBestRated.ca]]
 -*Russell Nelles Starr, Q.C. Memorial Award:* for academic excellence in civil litigation & contract law
 -*Columbia Media Scholastics:* Gold Circle for secondary news coverage and Bronze Circle for online video content
 -*Business Information Group:* Magazine writing award
