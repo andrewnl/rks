@@ -3,7 +3,7 @@
 <div>[[assets/Law_Resume_Ent_Roselyn_Kelada-Sedra_June_2017.pdf [[law-resume-thumbnail-200.png Resume for legal work]]/
 Click on resume to view.]]
 </div>
-<div>[[assets/threebestrated.png.png]]</div>
+<div>[[assets/threebestrated.png.png ]]</div>
 
 $END $COL medium-8  //text on right
 ..Education & Certifications
