@@ -4,7 +4,7 @@
 <div>[[assets/ROSELYN_KELADA-SEDRA_film,TV_resume_Sept2018-Premier.pdf [[film-resume-thumbnail-200.png Resume for Film & TV (pdf)]]]]</div>
 
 ..Resume for Theatre (pdf)
-<div>[[assets/ROSELYN_KELADA-SEDRA_theatre_resume_Sept2018-Premier.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
+<div>[[assets/ROSELYN_KELADA-SEDRAtheatreResumeOCT2018-Premier.pdf [[theatre-resume-thumbnail-200.png Resume for Theatre (pdf)]]]]</div>
 
 ..Resume for Writing (pdf)
 <div>[[assets/WritingResume-Sept2018-Roselyn_Kelada-Sedra.pdf [[writing-resume-thumbnail-200.png Resume for Writing (pdf)]]]]</div>
