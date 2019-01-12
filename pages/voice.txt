@@ -1,12 +1,11 @@
 //inc.Voice page - Voice demos
-Roselyn recently completed Canada's National Voice Intensive, for the second time, with internationally renown speech and dialect coach, David Smukler.  She's looking forward to recording some music with celebrated musician and composer, John Moussa, in Egypt this winter. 
-
+Roselyn got to voice three episodes and four characters on the fun, thoughtful children's series, [[https://www.youtube.com/channel/UC8jSnuI0E8B4fWY4HckSTZw?&ab_channel=Rick%26Ricky "Rick & Ricky"]]! Between playing a struggling mom, a sunny 10-year-old girl, a grieving woman over 80, and kind-hearted 12-year old boy, Roselyn had a blast discovering each character! And she recently completed Canada's National Voice Intensive, for the second time, with internationally renown speech and dialect coach, David Smukler.  
 ..Roselyn's Musical theatre demo
 $video 9bUPKmwStEo
 
 ..Roselyn's Voice-Over demo
 $video Ff_LUTcUhw0
 
-...Cover video of Ed Sheeran's "Photograph" featuring John Moussa
-[[https://www.youtube.com/watch?v=H-glx4StEas [[photograph-video-cover2.jpg Cover video of Ed Sheeran's "Photograph"]]]]
+//...Cover video of Ed Sheeran's "Photograph" featuring John Moussa
+//[[https://www.youtube.com/watch?v=H-glx4StEas [[photograph-video-cover2.jpg Cover video of Ed Sheeran's "Photograph"]]]]
 
