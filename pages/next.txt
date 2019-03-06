@@ -51,7 +51,7 @@ $gaetz
 //<div>[[roselyn_kelada-sedra_hiuan_union-station_hairdown.jpg Roselyn Kelada-Sedra]]</div>
 //$ukh
 
-The best way to stay up on art that Roselyn's making and stories she's telling is to [[<!-- Begin Mailchimp Signup Form -->
+The best way to stay up on art that Roselyn's making and stories she's telling is to [[<!-- fill in the Mailchimp Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
