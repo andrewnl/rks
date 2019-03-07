@@ -1,6 +1,6 @@
 //inc.Contact - to address: How do I contact her? Agent info
 
-Film & TV principal agent
+Principal agent
 -Sandra Gillis at Premier Artists Management
 -416-461-6868 x 22 [[mailto:sgillis.premierartists@outlook.com]]
 
@@ -8,6 +8,7 @@ Voice agent
 -Sean Kaufmann at Premier Artists Management
 -416-461-6868
 [[mailto:seankaufmann.premierartists@gmail.com]]
+
 
 $END $COL medium-8  //picture on right
 <div>[[DSC_1694.jpg Roselyn Kelada-Sedra]]</div>
