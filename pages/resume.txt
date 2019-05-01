@@ -10,7 +10,8 @@
 <div>[[assets/Writing_Film_TV_Resume_Apr25,2019.pdf [[writing-resume-thumbnail-200.png Writing for Film & TV (pdf)]]]]</div>
 
 ..Writing for Theatre & Journalism (pdf)
-<div>[[assets/ROSELYN_KELADA-SEDRA_writing_THEATRE&JRNL_resume_April2019_2p.pdf [[writing-resume-thumbhail-200.png Writing for Theatre & Journalism (pdf)]]]]</div>
+<div>[[assets/ROSELYN_KELADA-SEDRA_writing_THEATRE&JRNL_resume_April2019_2p.pdf [[writing-resume-thumbnail-200.png Writing for Theatre & Journalism (pdf)]]]]</div>
+
 
 $END $COL medium-6  //picture on right
 <div>[[DSC_1816_.25M_Gaetz_bluedress.jpg Roselyn Kelada-Sedra]]</div>
