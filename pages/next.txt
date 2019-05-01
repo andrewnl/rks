@@ -13,6 +13,7 @@ Roselyn is writing a play about sisterhood, crisis of faith and bride-napping. I
 
 Roselyn is also writing a play, set in early twentieth century Egypt, about how a woman learns to heal her heart through losing two loves of her life. How does a woman change how she deals with grief? From someone who recedes from love to someone who can love out and keep on living. 
 
+.._Writing for TV_
 Roselyn is creating strong, complex female leads in [[http://failbetterseries.com Fail Better]], a series in development. Fail Better is a half-hour episodic dramedy following Tegan, an articling student with a crippling fear of failure, that drives her through a cutthroat apprenticeship in a Toronto law firm.
 //It's about Tegan, a woman who is so afraid of failure that every decision becomes monumentally difficult during her first lawyer-in-training job at a Toronto law firm. The series follows Tegan in that terrifying feeling of, what if I drop it all? 
 //Trailer is live now! Check in [[https://www.facebook.com/FailBetter/ on the "Fail Better" facebook page]] for updates.
@@ -24,7 +25,7 @@ Photo by Devon Slack
 
 //Roselyn also has some plays and prose in the works. Stay tuned through [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].  
 
-.._Theatre_
+.._Acting for Theatre_
 Roselyn's recent theatrical highlights were playing Katherine in a mash-up of Taming of the Shrew, Romeo & Juliet and Much Ado About Nothing with Spur of the Moment Shakespeare. Before that, Roselyn enjoyed a comedic turn, playing Cleopatra. (Figure that one out!) In _Macbeth's Head_, a comedy by Kyle McDonald, Cleopatra teams up with Maccers & Richard III to make Shakespeare fix their tragic ends. Stay tuned for the future of this Cleopatra [[http://www.malfiproductions.com/macbeths-head at Malfi Productions]].
 
 //$video fMK-RO9sdm8
@@ -36,7 +37,7 @@ $END $COL medium-6 // start left column
 //IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
 //And IRL is a semi-finalist in the Los Angeles CineFest! Keep up to date with the  [[https://www.facebook.com/IRLtheSeries/photos/a.1653373114910091.1073741828.1638435516403851/1842595782654489/?type=3&theater/ IRL facebook page]].
 
-Roselyn is grateful for a collaborative relationship with Mixed Company Theatre, where she's done forum theatre offerings on domestic violence and workplace harassment. 
+//Roselyn is grateful for a collaborative relationship with Mixed Company Theatre, where she's done forum theatre offerings on domestic violence and workplace harassment. 
 Her dream roles include Cleopatra in Shakespeare's _Antony & Cleopatra_, Helena in _All's Well That Ends Well_ and Hermione in _Harry Potter and the Cursed Child_... obviously.
 
 $block_style=display:none;
