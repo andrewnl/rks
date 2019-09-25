@@ -6,9 +6,11 @@ Principal agent
 
 Voice agent
 -Sean Kaufmann at Premier Artists Management
--416-461-6868
-[[mailto:seankaufmann.premierartists@gmail.com]]
+-416-461-6868 [[mailto:seankaufmann.premierartists@gmail.com]]
 
+Literary agent
+-Kulbinder Saran Caldwell 
+[[mailto:Kul@reallifetalks.com]]
 
 $END $COL medium-8  //picture on right
 <div>[[DSC_1694.jpg Roselyn Kelada-Sedra]]</div>
