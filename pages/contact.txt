@@ -1,11 +1,13 @@
 //inc.Contact - to address: How do I contact her? Agent info
 
-/*
 Principal agent
--Sandra Gillis at Premier Artists Management
--416-461-6868 x 22 [[mailto:sgillis.premierartists@outlook.com]]
+-Michael A. Marino at Hero Artists Agency 
+Toronto|Vancouver|Montreal
+cell: 416 669 5054
+office: 416 900 5561 ex. 4
+w: HeroArtists.com [[mailto:michael@heroartists.com]]
 
-Voice agent
+/*Voice agent
 -Sean Kaufmann at Premier Artists Management
 -416-461-6868 [[mailto:seankaufmann.premierartists@gmail.com]]
 */
@@ -28,7 +30,8 @@ OT+=ML.charAt(MI.charCodeAt(j)-48);
 </div>
 
 Literary agent:
--Kulbinder Saran Caldwell [[mailto:Kul@reallifetalks.com]]
+-Kulbinder Saran Caldwell
+cell:  416 898 4484 [[mailto:Kul@reallifetalks.com]]
 
 $END $COL medium-8  //picture on right
 <div>[[DSC_1694.jpg Roselyn Kelada-Sedra]]</div>
