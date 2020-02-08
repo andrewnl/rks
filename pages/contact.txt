@@ -1,7 +1,7 @@
 //inc.Contact - to address: How do I contact her? Agent info
 
 Principal agent
--Michael A. Marino at Hero Artists Agency 
+-Michael A. Marino | Hero Artists Agency 
 cell: 416 669 5054
 office: 416 900 5561 ex. 4
 w: HeroArtists.com [[mailto:michael@heroartists.com]]
@@ -29,7 +29,7 @@ OT+=ML.charAt(MI.charCodeAt(j)-48);
 </div>
 
 Literary agent:
--Kulbinder Saran Caldwell
+-Kulbinder Saran Caldwell | Real Life Talks
 cell:  416 898 4484 [[mailto:Kul@reallifetalks.com]]
 
 $END $COL medium-8  //picture on right
