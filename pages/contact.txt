@@ -6,6 +6,10 @@ cell: 416 669 5054
 office: 416 900 5561 ex. 4
 w: HeroArtists.com [[mailto:michael@heroartists.com]]
 
+Literary agent:
+-Kulbinder Saran Caldwell | Real Life Talks
+cell:  416 898 4484 [[mailto:Kul@reallifetalks.com]]
+
 /*Voice agent
 -Sean Kaufmann at Premier Artists Management
 -416-461-6868 [[mailto:seankaufmann.premierartists@gmail.com]]
@@ -27,10 +31,6 @@ OT+=ML.charAt(MI.charCodeAt(j)-48);
 <noscript>You need JavaScript to see my email address</noscript>
 `>
 </div>
-
-Literary agent:
--Kulbinder Saran Caldwell | Real Life Talks
-cell:  416 898 4484 [[mailto:Kul@reallifetalks.com]]
 
 $END $COL medium-8  //picture on right
 <div>[[DSC_1694.jpg Roselyn Kelada-Sedra]]</div>
