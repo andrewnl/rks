@@ -35,9 +35,10 @@ Photo by Devon Slack
 //Roselyn's theatrical highlights were playing Katherine in a mash-up of Taming of the Shrew, Romeo & Juliet and Much Ado About Nothing with Spur of the Moment Shakespeare, and a comedic turn playing Cleopatra. (Figure that one out!) In _Macbeth's Head_, a comedy by Kyle McDonald, Cleopatra teams up with Maccers & Richard III to make Shakespeare fix their tragic ends. Stay tuned for the future of this Cleopatra [[http://www.malfiproductions.com/macbeths-head at Malfi Productions]].
 
 //$video fMK-RO9sdm8
+$END $COL medium-6   //picture on right
 <div>[[Cleo_basking_in_light60.jpg]]</div>
 Photo by Eilish Waller
-$END $COL medium-6 // start left column
+$END $COL medium-6 // picture on right
 
 //.._TV: IRL the Series_
 //IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
@@ -53,8 +54,8 @@ $block_style=display:none;
 $unset $block_style
 
 $END $COL medium-6   //picture on right
-<div>[[DSC_1955.jpg Roselyn Kelada-Sedra]]</div>
-$gaetz
+//<div>[[DSC_1955.jpg Roselyn Kelada-Sedra]]</div>
+//$gaetz
 //<div>[[Roselyn_Kelada-Sedra_119A6500_hair_down.jpg Roselyn Kelada-Sedra]]</div>
 //<div>[[roselyn_kelada-sedra5-blue.jpg Roselyn Kelada-Sedra]]</div>
 //<div>[[roselyn_kelada-sedra9-next.jpg Roselyn Kelada-Sedra]]</div>
