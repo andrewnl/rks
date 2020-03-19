@@ -35,7 +35,6 @@ Photo by Devon Slack
 //Roselyn's theatrical highlights were playing Katherine in a mash-up of Taming of the Shrew, Romeo & Juliet and Much Ado About Nothing with Spur of the Moment Shakespeare, and a comedic turn playing Cleopatra. (Figure that one out!) In _Macbeth's Head_, a comedy by Kyle McDonald, Cleopatra teams up with Maccers & Richard III to make Shakespeare fix their tragic ends. Stay tuned for the future of this Cleopatra [[http://www.malfiproductions.com/macbeths-head at Malfi Productions]].
 
 //$video fMK-RO9sdm8
-$END $COL medium-6   //picture on right
 <div>[[Cleo_basking_in_light60.jpg]]</div>
 Photo by Eilish Waller
 $END $COL medium-6 // picture on right
