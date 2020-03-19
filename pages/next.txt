@@ -36,7 +36,6 @@ Photo by Devon Slack
 //$video fMK-RO9sdm8
 <div>[[Cleo_basking_in_light60.jpg]]</div>
 Photo by Eilish Waller
-$END $COL medium-6 // picture on right
 
 //.._TV: IRL the Series_
 //IRL: The Series, a webseries in which Roselyn plays the sharp & adventurous Tanya, is an official selection for the [[https://www.facebook.com/photo.php?fbid=10150750148524981&set=gm.1842850985952137&type=3&theater Los Angeles Film Awards]].  
