@@ -3,11 +3,11 @@
 ..Acting (pdf)
 <div>[[assets/HERO-Resume-Roselyn_Kelada-Sedra_Feb3,2020.pdf [[HERO-res-thumb-2020-02-08.png Acting for Film & TV (pdf)]]]]</div>
 
-..Writing for Film & TV (pdf)
-<div>[[assets/Edited_Writing_Film_TV_Resume_REAL.LIFE.2020.pdf [[writing-resume-thumbnail-200.png Writing for Film & TV (pdf)]]]]</div>
+..Writing (pdf)
+<div>[[assets/Roselyn_Kelada-Sedra_Writing_resume_REAL.LIFE.April2020.pdf [[writing-resume-thumbnail-200.png Writing (pdf)]]]]</div>
 
-..Writing for Theatre & Journalism (pdf)
-<div>[[assets/Edited_ROSELYN_KELADA-SEDRAwritingTHEATRE&JRNLresumeREAL.LIFE.2020.2p.pdf [[writing-resume-thumbnail-200.png Writing for Theatre & Journalism (pdf)]]]]</div>
+//..Writing for Theatre & Journalism (pdf)
+//<div>[[assets/Edited_ROSELYN_KELADA-SEDRAwritingTHEATRE&JRNLresumeREAL.LIFE.2020.2p.pdf [[writing-resume-thumbnail-200.png Writing for //Theatre & Journalism (pdf)]]]]</div>
 
 
 $END $COL medium-6  //picture on right
