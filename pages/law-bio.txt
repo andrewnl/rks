@@ -1,8 +1,6 @@
 //inc.Law Bio page
 
-As a lawyer, Roselyn Kelada-Sedra focuses on understanding and addressing the needs of the whole person. From personal experience as an artist in the entertainment industry, Roselyn knows the realities of working in theatre, film and television. Roselyn brings years of experience working on a range of productions--from low-budget, indie projects and large-scale productions. Artists can come to Roselyn and feel secure, that she understands their needs and the world in which they work. 
-
-As an associate at [[http://sabsaylaw.com Sabsay Lawyers]], Roselyn uses her prior experience in journalism to hone her research and draft effective contracts, opinions and factums. Her work has been published in legal publications, as well as many media outlets in print and online. Furthermore, she has won international awards for online news content and writing. 
+As a lawyer, Roselyn Kelada-Sedra focuses on understanding and addressing the needs of the whole person. She comes to law with a background in alternative dispute resolution, which leads her to look for the most productive way to resolve a situation for the human beings involved. As an associate at [[http://sabsaylaw.com Sabsay Lawyers]], Roselyn uses her prior experience in journalism to hone her research and draft effective contracts, opinions and factums. Her work has been published in legal publications, as well as many media outlets in print and online. Furthermore, she has won international awards for online news content and writing. 
 
 $END $COL medium-5   //picture on right
 <div>[[DSC_1883.jpg Roselyn Kelada-Sedra]]</div>
@@ -11,7 +9,8 @@ $END $COL // last paragraph takes full width under picture
 
 Prior to joining Sabsay Lawyers, Roselyn articled at Cohen Sabsay LLP, where she gained courtroom experience and advocacy skills. This foundation gave her the context to draft contracts that avoid problems down the road. 
  
-When she’s not working or globe-trotting, Roselyn dedicates her time to building community between legal professionals in the entertainment industry.  As an executive member of the Ontario Bar Association, Entertainment, Media and Communication Law Section, she helps to develop programs for entertainment legal professionals across Canada. 
+From personal experience as an artist in the entertainment industry, Roselyn knows the realities of working in theatre, film and television. Roselyn brings years of experience working on a range of productions--from low-budget, indie projects and large-scale productions. Artists can come to Roselyn and feel secure, that she understands their needs and the world in which they work. 
+ When she’s not working or globe-trotting, Roselyn dedicates her time to building community between legal professionals in the entertainment industry.  As an executive member of the Ontario Bar Association, Entertainment, Media and Communication Law Section, she helps to develop programs for entertainment legal professionals across Canada. 
 
 Roselyn earned her Juris Doctor degree at Osgoode Hall Law School. There, in collaboration with Mixed Company Theatre, Roselyn pioneered a new model of mediation, using theatre games to facilitate holistic communication between disputants. She presented this endeavour at the prestigious Osgoode Hall Law Journal J.D. Research Symposium. 
 
