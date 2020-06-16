@@ -10,7 +10,7 @@
 //<div>[[assets/Edited_ROSELYN_KELADA-SEDRAwritingTHEATRE&JRNLresumeREAL.LIFE.2020.2p.pdf [[writing-resume-thumbnail-200.png Writing for //Theatre & Journalism (pdf)]]]]</div>
 
 ..Producing (pdf)
-<div>[[assets/ROSELYN_KELADA-SEDRA.producingFILM&TVresumeJUNE2020_1p.pdf Producing resume]]
+<div>[[assets/ROSELYN_KELADA-SEDRA.producingFILM&TVresumeJUNE2020_1p.pdf Resume for Producing]]
 $END $COL medium-6  //picture on right
 <div>[[DSC_1816_.25M_Gaetz_bluedress.jpg Roselyn Kelada-Sedra]]</div>
 $gaetz
