@@ -1,11 +1,11 @@
 //inc.Contact - to address: How do I contact her? Agent info
 
 -*Principal agent:*
- Michael A. Marino
+Jessica Martins
  _Hero Artists Agency_
- cell: 416-669-5054
- office: 416-900-5561 ext.4
- http://HeroArtists.com [[mailto:michael@heroartists.com]]
+ cell: 416 918 7175
+ office: 416-900-5561 ext.2
+ http://HeroArtists.com [[mailto:jessica@heroartists.com]]
 
 -*Literary agent:*
  Kulbinder Saran Caldwell
