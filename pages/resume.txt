@@ -15,7 +15,7 @@ $END $COL medium-6  //picture on right
 <div>[[DSC_1816_.25M_Gaetz_bluedress.jpg Roselyn Kelada-Sedra]]</div>
 $gaetz
 
-$END $COL medium-6  //picture on right
-<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
-$gaetz
+//$END $COL medium-6  //picture on right
+//<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
+//$gaetz
 
