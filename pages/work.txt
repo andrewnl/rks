@@ -1,4 +1,6 @@
 //inc.Writing - to address: what does she do on her own
+//$END $COL // Full screen width
+$video gxejLCPNup8 
 $END $COL medium-6  //text on left
 
 <div>[[DSC_1816_.25M_Gaetz_bluedress.jpg Roselyn Kelada-Sedra]]</div>

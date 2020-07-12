@@ -14,7 +14,7 @@ $END $COL medium-6  //picture on right
 $gaetz
 
 ..Producing (pdf)
-<div>[[assets/ROSELYN_KELADA-SEDRA.producingFILM&TVresumeJUNE2020_1p.pdf Resume for Producing]]
+<div>[[assets/ROSELYN_KELADA-SEDRA.producingFILM&TVresumeJUNE2020_1p.pdf Resume for Producing]]</div>
 
 //$END $COL medium-6  //picture on right
 //<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
