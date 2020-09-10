@@ -7,11 +7,8 @@ Jessica Martins
  office: 416-900-5561 ext.2
  http://HeroArtists.com [[mailto:jessica@heroartists.com]]
 
--*Literary agent:*
- Kulbinder Saran Caldwell
- _Real Life Talks_
- cell: 416-898-4484
- [[mailto:Kul@reallifetalks.com]]
+//*Literary agent:*
+//Kulbinder Saran Caldwell _Real Life Talks_ cell: 416-898-4484 [[mailto:Kul@reallifetalks.com]]
 
 /*Voice agent
 -Sean Kaufmann at Premier Artists Management
