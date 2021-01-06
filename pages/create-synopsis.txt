@@ -1,0 +1,6 @@
+//inc.Create Synopsis page
+...A documentary film, currently in post-production.
+<div>[[women-of-resilience.jpg Women of Resilience]]</div>
+
+..Synopsis
+A documentary celebrating resilience in older women This documentary film features older women (60+) of the Niagara region in Ontario. These women have gone through obstacles, prejudices and trauma and have healed through relationship. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that  broken attachment systems can heal. That is the amazing thing about being human.

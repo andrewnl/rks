@@ -1,0 +1,38 @@
+//.Women of Resilience
+$VER=2.7
+$include code.txt
+$metatag1=name="Description" content="Women of Resilience, A documentary film"
+
+/*
+////////////////// Navigation Menu
+<div class="fixed"><nav class="top-bar" data-topbar role="navigation">
+$ul_class1=title-area
+$li_class1=name
+-<h1>[[# Roselyn]]</h1>
+$li_class1=toggle-topbar menu-icon
+-[[# <span>Menu</span>]]
+
+<section class="top-bar-section">
+$ul_class1=left
+//$li_class1=active
+-[[#home Mission]]
+-[[#resume Resume]]
+-[[#bio Bio]]
+-[[#publications Publications]]
+-[[/ Acting]]
+-[[#contact Contact]]
+</section>
+</nav></div>
+$a_attr=target="_blank"
+*/
+
+// Synopsis
+$block_id=synopsis
+//$Id synopsis
+$ROW $COL
+//$block_style1=font-size:2rem;
+$include pages/create-synopsis.txt
+$END $END
+
+$analytics UA-1575606-30 //UA-84938235-1
+
