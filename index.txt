@@ -15,6 +15,7 @@ $ul_class1=left
 //$li_class1=active
 -[[#bio Bio]]
 -[[#resume Resume]]
+-[[#create Filmmaking]]
 -[[#demo Demo]]
 -[[#voice Voice Work]]
 -[[#next Now&Next]]
@@ -49,6 +50,12 @@ $ROW $COL
 .Resume
 $END $COL medium-6
 $include pages/resume.txt
+$END $END
+
+$Id create
+$ROW $COL
+.Filmmaking
+$include pages/create-synopsis.txt
 $END $END
 
 $Id demo
