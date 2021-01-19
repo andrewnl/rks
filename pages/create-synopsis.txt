@@ -36,7 +36,7 @@ $ROW $COL
 
 <div>
 <h1>_Women of Resilience_</h1>
-<div>$IMDB2 $FB2 $ECT</div>
+<div>$FB2 $ECT $IMDB2</div>
 </div>
 
 $END $END
