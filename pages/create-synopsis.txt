@@ -27,6 +27,9 @@ An Essential Collective Theatre production, with the City of St. Catharines.
 
 <div>[[ect.png]]</div> <div>[[StC.jpg]]</div><div>[[imdb.png https://www.imdb.com/title/tt13807442/]]</div><div>[[facebook.png https://www.facebook.com/WomenofResilienceFilm]]</div>
 
+$IMDB=[[https://www.imdb.com/title/tt13807442/ [[imdb.png _Women of Resilience_ on IMDb]]]]
+$FB=[[https://www.facebook.com/WomenofResilienceFilm [[facebook.png _Women of Resilience_]]]]
+
 ..TV development
 On the TV development side, Roselyn is creating strong, complex female leads in her series, _Fail Better_. And she is thankful to the crew and actors who helped her to make a proof of concept for it. _Fail Better_ is a half-hour episodic dramedy following Tegan, an articling student with a crippling fear of failure, that drives her through a cutthroat apprenticeship in a Mississauga law firm. We are actively seeking a development partner. 
 //It's about Tegan, a woman who is so afraid of failure that every decision becomes monumentally difficult during her first lawyer-in-training job at a Toronto law firm. The series follows Tegan in that terrifying feeling of, what if I drop it all? 
