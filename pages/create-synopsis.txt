@@ -22,7 +22,6 @@ A documentary celebrating resilience in older women. 44 minutes. The thesis is t
 
 //<div>[[1pgr_condensed_Women_of_Resilience.pdf 1-pager Women of Resilience]]</div>
 Made in Niagara region, Ontario, with the generous support of the Ontario Arts Council & Essential Collective Theatre. 
-<div>[[imdb.png https://www.imdb.com/title/tt13807442/]]</div>
 An Essential Collective Theatre production, with the City of St. Catharines.  
 
 <div>[[ect.png]]</div> <div>[[StC.jpg]]</div>
@@ -31,15 +30,15 @@ An Essential Collective Theatre production, with the City of St. Catharines.
 //inc.contact bar at page bottom
 $IMDB2=[[https://www.imdb.com/title/tt13807442/ [[imdb.png _Women of Resilience_ on IMDb]]]]
 $FB2=[[https://www.facebook.com/WomenofResilienceFilm [[facebook.png _Women of Resilience_]]]]
-$ECT=[[http://www.ectheatre.ca/ [[ECT.png]]]]
-
+$ECT=[[http://www.ectheatre.ca/ [[ect.png]]]]
+$StC=[[https://www.stcatharines.ca/en/ [[StC.jpg]]
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
 
 <div>
-<h1>Roselyn Kelada-Sedra</h1>
+//<h1>Roselyn Kelada-Sedra</h1>
 <div>$IMDB2 $FB2 $ECT</div>
 </div>
 
