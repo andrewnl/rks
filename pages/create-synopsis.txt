@@ -62,8 +62,9 @@ $ROW $COL
 /////////////////////////////////
 
 <div>
-<div>$FB3 $ECT $IMDB3</div>
+<div>$FB3 $IG3 $IMDB3</div>
 </div>
+$END $END
 
 
 ..Short film
