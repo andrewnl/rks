@@ -1,6 +1,5 @@
 //inc.Create Synopsis page
-...A documentary film, currently in post-production.  [[https://eepurl.com/gjHzBf Subscribe]] to get invited to the premiere. 
-picture centre 
+...A documentary film, currently in post-production.  [[https://eepurl.com/gjHzBf Subscribe]] to get invited to the premiere.  
 <div>[[women-of-resilience.jpg Women of Resilience]]</div> 
 
 
