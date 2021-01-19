@@ -9,7 +9,7 @@ This documentary film features older women (60+) who have gone through wars, dis
    p. 17 of Restoring Resilience by Eileen Russell (Norton 2015)
 
 A documentary celebrating resilience in older women. 44 minutes. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that broken attachment systems can heal. That is the amazing thing about being human.
- <div>[[facebook.png https://www.facebook.com/WomenofResilienceFilm]]</div>
+$END $COL medium-6  //picture on right <div>[[facebook.png https://www.facebook.com/WomenofResilienceFilm]]</div>
 
 //My godmother, Margaret Davidson, experienced violent, sexual abuse, and yet she healed so completely that she modeled forgiveness to me. With her husband of 60 years beside her, she spoke her last words on camera for me, nine days before she died.
 
