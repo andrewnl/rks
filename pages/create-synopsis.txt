@@ -27,8 +27,8 @@ An Essential Collective Theatre production, with the City of St. Catharines.
 
 <div>[[ect.png]]</div> <div>[[StC.jpg]]</div><div>[[imdb.png https://www.imdb.com/title/tt13807442/]]</div><div>[[facebook.png https://www.facebook.com/WomenofResilienceFilm]]</div>
 
-
-//On the TV development side, Roselyn is creating strong, complex female leads in her series, Fail Better. And she is thankful to the crew and actors who helped her to make a proof of concept for it. Fail Better is a half-hour episodic dramedy following Tegan, an articling student with a crippling fear of failure, that drives her through a cutthroat apprenticeship in a Mississauga law firm. We are actively seeking a development partner. 
+..TV development
+On the TV development side, Roselyn is creating strong, complex female leads in her series, Fail Better. And she is thankful to the crew and actors who helped her to make a proof of concept for it. Fail Better is a half-hour episodic dramedy following Tegan, an articling student with a crippling fear of failure, that drives her through a cutthroat apprenticeship in a Mississauga law firm. We are actively seeking a development partner. 
 //It's about Tegan, a woman who is so afraid of failure that every decision becomes monumentally difficult during her first lawyer-in-training job at a Toronto law firm. The series follows Tegan in that terrifying feeling of, what if I drop it all? 
 //Trailer is live now! Check in [[https://www.facebook.com/FailBetter/ on the "Fail Better" facebook page]] for updates.
 <div>[[Chair_Logo_Edited.jpg]]</div>
@@ -38,4 +38,5 @@ Roselyn and co-writer Catherine Ramos are working on season 1 of this female-cre
 <div>[[Ceiling_Logo_Edited.jpg]]</div>
 Photo by Devon Slack
 
+..Short film
 Roselyn co-wrote and co-produced a short film in the 48-hour Toronto Film Festival. She also played the lead in "Amor Fati" in which the question is raised: can we change our fates? 
