@@ -56,9 +56,8 @@ $ROW $COL
 
 $END $END
 <div>
-<div>WoR_wide.jpg</div>
+<div>[[WoR_wide.jpg]]</div>
 $END $END
-
 
 ..TV development
 On the TV development side, Roselyn is creating strong, complex female leads in her series, _Fail Better_. And she is thankful to the crew and actors who helped her to make a proof of concept for it. _Fail Better_ is a half-hour episodic dramedy following Tegan, an articling student with a crippling fear of failure, that drives her through a cutthroat apprenticeship in a Mississauga law firm. We are actively seeking a development partner. 
