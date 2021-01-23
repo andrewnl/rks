@@ -24,6 +24,8 @@ A documentary celebrating resilience in older women. 44 minutes. The thesis is t
 //Fété Ngira-Batware Kimpiobi lost her mother as a child when she was displaced from the DR Congo. Ethnic war that threatened her family forced her to leave her home. Now, she supports other francophone, black women in white-dominated Niagara. 
 
 My own trauma forced me to re-evaluate the concept of resilience. What I saw was my mother, my godmother, women who went through trauma and came through it with love. Their loving hearts are the keys to their resilience. I offer this film to celebrate women who let love shine through their cracks and show that broken people can heal.
+Made in Niagara region, Ontario, with the generous support of the Ontario Arts Council & Essential Collective Theatre. 
+An Essential Collective Theatre production, with the City of St. Catharines.  
 
 _Content Warning_
 This film contains descriptions of sexual violence. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally. Have someone safe to call, should you be triggered. If you need the support of a mental health professional, then call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or the sexual assault crisis line 905-682-4584, both available 24/7. 
@@ -36,8 +38,6 @@ $ROW $COL
 <div>$SC</div>
 
 //<div>[[1pgr_condensed_Women_of_Resilience.pdf 1-pager Women of Resilience]]</div>
-Made in Niagara region, Ontario, with the generous support of the Ontario Arts Council & Essential Collective Theatre. 
-An Essential Collective Theatre production, with the City of St. Catharines.  
 
 //inc.contact bar at page bottom
 $FB2=[[https://www.facebook.com/WomenofResilienceFilm [[facebook.png _Women of Resilience_]]]]
