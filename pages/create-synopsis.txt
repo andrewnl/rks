@@ -53,10 +53,10 @@ $ROW $COL
 //<h1>_Women of Resilience_</h1>
 <div>$FB2 $ECT $IMDB2</div>
 </div>
-
 $END $END
 <div>
 <div>[[WoR_wide.jpg]]</div>
+$END $END
 $END $END
 
 ..TV development
