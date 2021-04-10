@@ -1,5 +1,5 @@
 //inc.Create Synopsis page
-...A documentary film, currently in post-production.  [[https://eepurl.com/gjHzBf Subscribe]] to get invited.  
+...A documentary film, currently awaiting release.  [[https://eepurl.com/gjHzBf Subscribe]] to get invited.  
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
