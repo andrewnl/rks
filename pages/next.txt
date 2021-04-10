@@ -16,7 +16,7 @@ $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
 <div>[[SWAGevitefront.jpg]]</div>
-<div>[[InstabackSWAG.jpg]]</div>
+<div>[[InstaBackSWAG.jpg]]</div>
 $END $END
 More info about the [[https://www.facebook.com/groups/swagher inaugural SWAG group show]]
 
