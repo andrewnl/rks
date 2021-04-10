@@ -5,7 +5,7 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
+//<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 
 $END $END
 
@@ -15,8 +15,8 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[SWAGevitefront.jpg]]</div>
-<div>[[InstaBackSWAG.jpg]]</div>
+//<div>[[SWAGevitefront.jpg]]</div>
+//<div>[[InstaBackSWAG.jpg]]</div>
 $END $END
 More info about the [[https://www.facebook.com/groups/swagher inaugural SWAG group show]]
 
