@@ -5,7 +5,8 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[6and8_NACPoster1_PROOF3.jpg 6&8]]</div> 
+<div>[[6and8_NACPoster1_PROOF3.jpg Six and Eight]]</div> 
+
 $END $END
 
 A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
@@ -14,8 +15,8 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[SWAG_evite_front.jpg SWAGevite]]</div>
-<div>[[Insta_back_SWAG.jpg SWAGevite]]</div>
+<div>[[SWAG_evite_front.jpg]]</div>
+<div>[[Insta_back_SWAG.jpg]]</div>
 $END $END
 More info about the [[https://www.facebook.com/groups/swagher inaugural SWAG group show]]
 
