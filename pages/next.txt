@@ -1,6 +1,6 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 .._Gallery Installation
-[[https://www.roselyn.link/SWAGopening Virtual Opening May 15th]]
+[[https://www.roselyn.link/SWAGopening Virtual Opening May 29th]]
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
@@ -10,7 +10,7 @@ $ROW $COL
 $END $END
 
 A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
-In-person exhibition at the Niagara Artists Centre [[https://www.facebook.com/events/3787218887981967 May 15 to June 1 in St. Catharines, ON]]
+In-person exhibition at the Niagara Artists Centre [[https://www.facebook.com/events/3787218887981967 May 29 to June 12 in St. Catharines, ON]]
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
