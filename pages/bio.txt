@@ -15,6 +15,7 @@ $END $COL medium-6 //picture on right
 $gaetz
 $END $END $ROW $COL //start section under picture
 
+-Finalist for the Cayle Chernin Award 2021 with _Sister Warriors_ 
 -Best advice she knows about art & life: 
  “You can’t be afraid to fail and fail BIG. There’s no chance to ever be good otherwise.” 
  -Hilary Douglas-Wood, founder of [[http://www.thelir.ie The Lir, National Academy of Dramatic Art, Ireland]].
