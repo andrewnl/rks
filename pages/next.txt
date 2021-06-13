@@ -1,5 +1,5 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
-.._Gallery Installation
+.._Gallery Installation_
 [[https://www.roselyn.link/SWAGopening Virtual Opening May 29th]]
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
@@ -20,7 +20,7 @@ $ROW $COL
 $END $END
 More info about the [[https://www.facebook.com/groups/swagher inaugural SWAG group show]]
 
-.._Theatre in Progress
+.._Theatre in Progress_
 
 <div>[[Sister_Warriors-stageplay_2.png]]</div>
 We had some illuminating discussion following the livestream workshop presentation with [[https://www.facebook.com/AffairofHonorFighters/ Affair of Honor]]. Now, we're looking toward developing with SiP's [[https://www.facebook.com/InTheSoilFest IN THE SOIL Multi-Arts Festival]] summer 2021. 
@@ -41,7 +41,7 @@ Choreographers | Nathania Bernabe & Jackie T. Hanlin – Fight and Movement
 //Registration is FREE. A link to live stream will be emailed to registrants prior to the event. 
 Donations for the development of this work can be made directly to the artists via e-transfer to affairofhonor@gmail.com.
 
-.._Always learning
+.._Always learning_
 It is important to me to do what I can to stop the oppression of women, dismantle the patriarcy and the destroy the racial hierarchy. I am not without biases. I am working on it.  Click to access [[https://bit.ly/feminist_edu_list my read/watch list about feminism and the oppression of women]]. Click to access my read/watch list about [[https://bit.ly/Anti-Racism_edu_list anti-racist activism and racial oppression]]. I strive to promote and create equity for women and people of colour in the way that I live, the art that I make and the policies I support.
 
 .._Writing for Theatre_
