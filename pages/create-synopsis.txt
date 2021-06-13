@@ -28,11 +28,11 @@ Made in Niagara region, Ontario, with the generous support of the Ontario Arts C
 An Essential Collective Theatre production, with the City of St. Catharines.  
 
 <div>[[Best_Short_Doc_TIWFF_laurel.png Best Short Doc]]</div> 
-
+text-align:center;
 <div>[[WORSTILLS1.jpeg Women of Resilience]]</div> 
 
 <div>[[OFFICIALSELECTION-TorontoInternationalWomenFilmFestival-2021.png Official Selection]]</div> 
-
+text-align:center;
 <div>[[WORSTILLS7.jpeg Women of Resilience]]</div>
 
 _Content Warning_
