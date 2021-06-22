@@ -1,45 +1,26 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
-.._Gallery Installation_
-[[https://www.roselyn.link/SWAGopening Virtual Opening May 29th]]
-$div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
-$h1_style1=margin:0; color: #444;
-$ROW $COL
-/////////////////////////////////
 //<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 
 $END $END
 
-A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
-In-person exhibition at the Niagara Artists Centre [[https://www.facebook.com/events/3787218887981967 May 29 to June 12 in St. Catharines, ON]]
+//A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-//<div>[[SWAGevitefront.jpg]]</div>
-//<div>[[InstaBackSWAG.jpg]]</div>
 $END $END
-More info about the [[https://www.facebook.com/groups/swagher inaugural SWAG group show]]
 
-.._Theatre in Progress_
+//.._Theatre in Progress_
 
-<div>[[Sister_Warriors-stageplay_2.png]]</div>
+//<div>[[Sister_Warriors-stageplay_2.png]]</div>
 We had some illuminating discussion following the livestream workshop presentation with [[https://www.facebook.com/AffairofHonorFighters/ Affair of Honor]]. Now, we're looking toward developing with SiP's [[https://www.facebook.com/InTheSoilFest IN THE SOIL Multi-Arts Festival]] summer 2021. 
  
-_Sister Warriors_ is an action-for-stageplay exposing bride-napping in the world today. In this quick-paced, action-packed drama, women warriors lead the exploration of sisterhood and faith and trauma that happens every day. _Sister Warriors_ kicks off when young Rhania is bride-napped, and her half-sister rescues her. Everyone confronts who they are in crisis in a world where sex crimes are tradition, and everyone is bound by the system, even those who seem to hold power. Witness the first workshop for this new, highly physical play, all online.
+//_Sister Warriors_ is an action-for-stageplay exposing bride-napping in the world today. In this quick-paced, action-packed drama, women warriors lead the exploration of sisterhood and faith and trauma that happens every day. _Sister Warriors_ kicks off when young Rhania is bride-napped, and her half-sister rescues her. Everyone confronts who they are in crisis in a world where sex crimes are tradition, and everyone is bound by the system, even those who seem to hold power. Witness the first workshop for this new, highly physical play, all online.
 
-_Content Warning_ 
+//_Content Warning_ 
 This play contains depictions of violence and sexual assault. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally before proceeding. If you choose to proceed, please make sure to have someone safe to call, should you be triggered. If you need the support of a mental health professional, then call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or call the sexual assault crisis line 905-682-4584, both available 24/7.
 
-Director | Daniel Levinson – Mentor for Fight Instructors/Directors and Business within the arts
-Choreographers | Nathania Bernabe & Jackie T. Hanlin – Fight and Movement 
-
-[[https://suitcaseinpoint.com/portfolio-item/4447/ More info from co-producer, Suitcase in Point, & more reviews for past shows by Affair of Honor]] 
-
-“Vancouver-based Affair of Honor describes itself as a “fight and movement-based theatre and performance company,” and these actors have serious skills — fencing, sparring and wrestling around the stage convincingly during their numerous conflicts. As smooth as the fight choreography is, the production is equally committed to strong acting, along with a bold message about society’s expectations of women.” – Janet French, Edmonton Journal
-
-//[[https://roselyn.link/SisWarTix Must pre-register to attend]]. 
-//Registration is FREE. A link to live stream will be emailed to registrants prior to the event. 
-Donations for the development of this work can be made directly to the artists via e-transfer to affairofhonor@gmail.com.
+//Choreographers | Nathania Bernabe & Jackie T. Hanlin – Fight and Movement 
 
 .._Always learning_
 It is important to me to do what I can to stop the oppression of women, dismantle the patriarcy and the destroy the racial hierarchy. I am not without biases. I am working on it.  Click to access [[https://bit.ly/feminist_edu_list my read/watch list about feminism and the oppression of women]]. Click to access my read/watch list about [[https://bit.ly/Anti-Racism_edu_list anti-racist activism and racial oppression]]. I strive to promote and create equity for women and people of colour in the way that I live, the art that I make and the policies I support.
@@ -58,10 +39,10 @@ Roselyn is the Playwright in Residence at [[https://suitcaseinpoint.com Suitcase
 //Roselyn has a short film, "Llorona", in consideration for film festivals. Roselyn plays a single mom trying to teach her child love instead of fear of the ghost stories from their heritage. 
 //The first season of a new series, "In The Dark", is currently airing, and Roselyn had a role in the pilot. Directed by Michael Showalter and written by Corinne Kingsbury,[[https://news.otakukart.com/420111/in-the-dark-cw-release-date-2019/ "In the Dark"]] is about a blind woman who is the only witness to the murder of her drug-dealer friend. Police dismiss her, so she sets out to find her friend's killer. 
 
-Next, Roselyn is looking forward to her first feature film role AND two webseries roles. Stay tuned for updates as production rolls forward! For her news & thoughts, join the facebook group:  [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].  
+Stay tuned for updates! For her news & thoughts, join the facebook group:  [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].  
 
 .._Writing for Film & TV_
-Roselyn is writing and first-time directing a documentary,[[http://roselyn.ca/#create _Women of Resilience_]]. It celebrates women who have gone through fire and share how they have become resilient. 
+As writer & director of the documentary,[[http://roselyn.ca/#create _Women of Resilience_]], Roselyn is honored by the Toronto International Women Film Festival's Best Short Doc Award. The film celebrates women who have gone through fire and share how they have become resilient. 
 
 //Roselyn also has some plays and prose in the works. Stay tuned through [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].   
 
