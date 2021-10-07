@@ -1,5 +1,6 @@
 //inc.Create Synopsis page
-...A documentary film, recognized by festivals at Cannes, NYC, Toronto, Kalakari, & Cairo. Also a nominee of the Red Movie Awards (Reims, France). 
+.._Women of Resilience_ 
+...A documentary film, recognized by festivals at Cannes, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France). 
 [[https://eepurl.com/gjHzBf Subscribe]] to get invited.  
 
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
@@ -9,7 +10,7 @@ $ROW $COL
 <div>[[WOR_Facebook-Cover.png Women of Resilience banner]]</div> 
 $END $END
 
-.._Women of Resilience_ Synopsis
+..Synopsis
 This documentary film features older women (60+) who have gone through wars, displacement, abuse and trauma and have healed through relationship. These women show that we can survive the worst traumas and the most broken systems and thrive if we connect in loving relationships. That is what makes these women resilient. 
 
 "People look, wittingly or unwittingly, consciously or not, for signs of life, sparks of hope, ... they want someone to help them feel safe and worthy enough to lean on and into the other's vitality as they endeavor to make it their own."
@@ -36,13 +37,12 @@ My own trauma forced me to re-evaluate the concept of resilience. What I saw was
 Made in Niagara region, Ontario, with the generous support of the Ontario Arts Council & Essential Collective Theatre. 
 An Essential Collective Theatre production, with the City of St. Catharines.  
 
-<div>[[BLACK_HINDI.png Kalakari]]</div>
 <div> [[AWARDWINNER-CairoIndieShortFestival-August2021.png Cairo Winner]]</div>
 <div>[[Best_Short_Doc_TIWFF_laurel.png Best Short Doc]]</div> 
 <div>[[Official_CANNES-Selection_Gold.png Cannes]]</div>
 <div>[[OFFICIALSELECTION-TorontoInternationalWomenFilmFestival-2021.png Official Selection]]</div> 
-
-
+<div>[[RED_SELECTION_red.png Red]]</div>
+<div>[[BLACK_HINDI.png Kalakari]]</div>
 //<div>[[WORSTILLS1.jpeg Women of Resilience]]</div> 
 //<div>[[WORSTILLS7.jpeg Women of Resilience]]</div>
 
@@ -81,7 +81,8 @@ $END $END
 
 ..Short film
 Roselyn co-wrote and co-produced a short film, "Amor Fati," an official selection in the Niagara Falls International Short Festival (Spring 2021, NY) & the Kalakari Film Festival. She also played the lead in "Amor Fati" in which the question is raised: can we change our fates? 
-<div>[[BLACK_HINDI.png Kalakari]]</div>
+<div>[[BLACK_ENG.png Kalakari]]</div>
+<div>[[KALAKARI.png Kalakari cert]]</div>
 
 ..TV development
 //On the TV development side, Roselyn is creating strong, complex female leads in her series, _Fail Better_. And she is thankful to the crew and actors who helped her to make a proof of concept for it. 
