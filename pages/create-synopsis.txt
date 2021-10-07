@@ -24,7 +24,7 @@ $ROW $COL
 $END $END
 
 A documentary celebrating resilience in older women. 44 minutes. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that broken attachment systems can heal. That is the amazing thing about being human.
-
+Tickets for first two screenings have sold out. Click to check availability for the [[https://nac.org/event/womenofresilience-3/ Niagara Artists Centre screening Oct. 20th]].  
 //My godmother, Margaret Davidson, experienced violent, sexual abuse, and yet she healed so completely that she modeled forgiveness to me. With her husband of 60 years beside her, she spoke her last words on camera for me, nine days before she died.
 
 //My mother, Dr. Ibtisam Kelada-Sedra, was removed from her home in Alexandria at age 4. She went through displacement and war in Egypt, yet she teaches me how to love.
@@ -83,7 +83,7 @@ $END $END
 ..Short film
 Roselyn co-wrote and co-produced a short film, "Amor Fati," an official selection in the Niagara Falls International Short Festival (Spring 2021, NY) & the Kalakari Film Festival. She also played the lead in "Amor Fati" in which the question is raised: can we change our fates? 
 <div>[[KALAKARI.jpg Kalakari cert]]</div>
-<div>[[Niagara.png Niagara]]</div>
+<div>[[Niagara.jpg Niagara]]</div>
 //<div>[[BLACK_ENG.png Kalakari]]</div>
 
 ..TV development
