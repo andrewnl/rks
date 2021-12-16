@@ -1,19 +1,10 @@
 //inc.Law Mission page
 $END $COL medium-6 // number of columns of text on the left
 
-Roselyn’s purpose as a lawyer is to help human beings to improve their lives - whether that means resolving a civil dispute, protecting someone from scurrilous allegations, or contracting a team to make a film. Roselyn is about helping the person in a holistic sense. 
+Roselyn’s purpose as a legal consultant is to help human beings to improve their lives - whether that means resolving a civil dispute, protecting someone from scurrilous allegations, or contracting a team. Roselyn is about helping the person in a holistic sense. 
 
-As a nationally ranked civil litigation lawyer, Roselyn thinks creatively to advocate for her clients' interests. And she provides creative individuals with an advocate who understands their world and their needs. She knows the challenges and priorities involved in collaborating to make something - having worked as an actor, writer and co-producer on a range of projects, from indie theatre to national TV. 
-As an associate at Sabsay Lawyers, Roselyn handles civil files, entertainment and contract law matters, including but not limited to: 
-- Contract disputes, 
-- Non-disclosure agreements, 
-- Licensing agreements, 
-- Artist partnership agreements, 
-- Service contracts for film & TV,
--Incorporations and shareholder agreements,
--Chain of Title review and advice,
--Performer or host agreements and advice (ACTRA, SAG-AFTRA, or non-union),
--Dispute resolution (industry advice for a positive, safe work environment through negotiation, mediation and arbitration).
+Roselyn thinks creatively to advocate for her clients' interests. And she provides creative individuals with an advocate who understands their world and their needs. She knows the challenges and priorities involved in collaborating to make something. 
+During her time as an associate at Sabsay Lawyers, Roselyn handled civil files, entertainment and contract law matters.
 
 $END $COL medium-6  //columns of image on right
 //<div>[[SabsayLaw-243-Edit.jpg]]</div>
@@ -24,6 +15,6 @@ $END $COL medium-6  //columns of image on right
 $gaetz
 
 $END $COL // last paragraph takes full width under picture
-Roselyn knows the realities of working through complicated situations and makes it her purpose to advocate for her clients as human beings.
+Roselyn knows the realities of working through complicated situations and makes it her purpose to advocate for people as human beings.
 See her $actor_work  and as a [[http://roselyn.ca/#work writer here]]. 
 
