@@ -7,7 +7,7 @@ $END $END
 
 Roselyn is excited to assistant direct _John School_ alongside director/playwright Stephanie Jones. On stage at [[https://firstontariopac.ca FOPAC]] March 10-17, _John School_ digs into themes of the sex trade in Niagara, gender dynamics in workplace, & lost women.
 
-Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] is screening at the First Ontario Performing Arts Centre! First three screenings sold out at the Niagara Artists Centre. [[https://nac.org/event/womenofresilience-3/ 3rd screening is Oct. 20th]]. Next screening date is [[https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-22PAC12-Women-of-Resilience&BOparam::WScontent::loadArticle::context_id= March 12th at FOPAC]].
+Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] is screening at the First Ontario Performing Arts Centre! First three screenings [[https://nac.org/event/womenofresilience-3/ sold out at the Niagara Artists Centre]]. Next screening date is [[https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-22PAC12-Women-of-Resilience&BOparam::WScontent::loadArticle::context_id= March 12th at FOPAC]].
 
 //A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
