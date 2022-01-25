@@ -10,7 +10,7 @@
 //<div>[[assets/Edited_ROSELYN_KELADA-SEDRAwritingTHEATRE&JRNLresumeREAL.LIFE.2020.2p.pdf [[writing-resume-thumbnail-200.png Writing for //Theatre & Journalism (pdf)]]]]</div>
 
 $END $COL medium-6  //picture on right
-<div>[[Roselyn_Kelada-Sedra735cropped.jpg Roselyn Kelada-Sedra]]</div>
+<div>[[eyes_into_it_IMG-8499.jpg Roselyn photo by Sander Shalinsky]]</div>
 $gaetz
 
 ..Producing (pdf)
