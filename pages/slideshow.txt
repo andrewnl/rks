@@ -20,8 +20,8 @@ $orbit o9 SKM-just-fired.jpg "" Killing goblins, succubi & all manner of evil in
 //$orbit o10 10-roselyn_kelada-sedra-look-left.jpg "" "Photo by Hi Uan Kang Haaga"
 $orbit o11 11-roselyn_kelada-sedra-solution.jpg CBC
 $orbit o12 12-roselyn_kelada-sedra-1470.jpg "" "Photo by Gaetz photography"
-$orbit o13 13-[roselyn_kelada-sedra4-blue-net.jpg "" "Photo by Gaetz photography"
-$orbit o14 14-[pink-IMG-8500.jpg "" "Photo by S.Shalinky"
+//$orbit o13 13-[roselyn_kelada-sedra4-blue-net.jpg "" "Photo by Gaetz photography"
+//$orbit o14 14-[pink-IMG-8500.jpg "" "Photo by S.Shalinky"
 
 
 $img_style=width:55px;
@@ -41,8 +41,8 @@ $orbutton o9 SKM-just-fired.jpg \
 //$orbutton o10 10-roselyn_kelada-sedra-look-left.jpg \
 $orbutton o11 11-roselyn_kelada-sedra-solution.jpg \
 $orbutton o12 12-roselyn_kelada-sedra-1470.jpg
-$orbutton o13 13-roselyn_kelada-sedra4-blue-net.jpg
-$orbutton o14 14-pink-IMG-8500.jpg
+//$orbutton o13 13-roselyn_kelada-sedra4-blue-net.jpg
+//$orbutton o14 14-pink-IMG-8500.jpg
 
 $unset $img_attr $unset $img_style
 
