@@ -12,6 +12,7 @@ $orbit oc Cleo_w_light_snake.jpg "Photo by Alexandra Augustine" "As Cleopatra in
 $orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
 ///$orbit o4 04-roselyn_kelada-sedra-mic-drop.jpg CBC
 $orbit SKM1 SKM-pose-1.jpg "" from _She Kills Monsters_, an Orphaned Egret Production
+$orbit o5 05-pink-IMG-8500.jpg "" "from _photo by S.Shalinsky"
 $orbit o6 06-roselyn_kelada-sedra-six-eight.jpg "" "from _Six & Eight_, with Kaleb Alexander in afteRock plays, produced by b current"
 $orbit o7 07-roselyn_kelada-sedra-dark-phoenix.jpg "Dark Phoenix Productions"
 $orbit o8 08-roselyn_kelada-sedra-appeal.jpg CBC
@@ -30,6 +31,7 @@ $orbutton oc Cleo_w_light_snake.jpg \
 $orbutton o3 03-roselyn_kelada-sedra-think.jpg \
 //$orbutton o4 04-roselyn_kelada-sedra-mic-drop.jpg \
 $orbutton SKM1 SKM-pose-1.jpg \
+$orbutton o5 05-pink-IMG-8500.jpg \
 $orbutton o6 06-roselyn_kelada-sedra-six-eight.jpg \
 $orbutton o7 07-roselyn_kelada-sedra-dark-phoenix.jpg \
 $orbutton o8 08-roselyn_kelada-sedra-appeal.jpg \
