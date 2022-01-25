@@ -17,7 +17,8 @@ Jessica Martins
 
 $END $COL medium-8  //picture on right
 <div>[[Hey_You.jpg Roselyn Kelada-Sedra]]</div>
-$gaetz
+photo by @thereallornesacqui 
+//$gaetz
 //<div>[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]</div>
 
 The best way to stay up on art that Roselyn's making and stories she's telling is to: //[[<!-- fill in the Mailchimp Form -->
