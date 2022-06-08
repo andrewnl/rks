@@ -20,7 +20,7 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[WoR_full.png Women of Resilience]]</div> 
+<div>[[WoR_poster_full.png Women of Resilience]]</div> 
 $END $END
 
 A documentary celebrating resilience in older women. 44 minutes. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that broken attachment systems can heal. That is the amazing thing about being human.
