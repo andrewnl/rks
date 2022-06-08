@@ -1,13 +1,13 @@
 
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 //<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
-
+<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 $END $END
 .._Directing_
 
-Roselyn is excited to assistant direct _John School_ alongside director/playwright Stephanie Jones. On stage at [[https://firstontariopac.ca FOPAC]] March 10-17, _John School_ digs into themes of the sex trade in Niagara, gender dynamics in workplace, & lost women.
+Roselyn is excited to train in the internationally-renowned Directors' Lab at Tarragon Theatre. This comes on the heals of assisting director/playwright Stephanie Jones in directing _John School_. _John School_ digs into themes of the sex trade in Niagara, gender dynamics in workplace, & lost women.
 
-Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] is screening at the First Ontario Performing Arts Centre! First three screenings [[https://nac.org/event/womenofresilience-3/ sold out at the Niagara Artists Centre]]. Next screening date is [[https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-22PAC12-Women-of-Resilience&BOparam::WScontent::loadArticle::context_id= March 12th at FOPAC]].
+Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] is screening at the First Ontario Performing Arts Centre! Subscribe to the newsletter to get info on how to see it. 
 
 //A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
