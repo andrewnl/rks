@@ -1,6 +1,6 @@
 //inc.Create Synopsis page
 .._Women of Resilience_ 
-...A documentary film, recognized by festivals at Cannes, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France). 
+...A documentary film, recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France). 
 [[https://eepurl.com/gjHzBf Subscribe]] to get invited.  
 
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
@@ -20,11 +20,11 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[women-of-resilience.jpg Women of Resilience]]</div> 
+<div>[[Women_of_Resilience_full.png Women of Resilience]]</div> 
 $END $END
 
 A documentary celebrating resilience in older women. 44 minutes. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that broken attachment systems can heal. That is the amazing thing about being human.
-Tickets for first two screenings have sold out. Click to check availability for the [[https://nac.org/event/womenofresilience-3/ Niagara Artists Centre screening Oct. 20th]].  
+Tickets for first three screenings sold out at the [[https://nac.org Niagara Artists Centre screening]]. Next screenings are June 11, 12 (North Park Theatre in Buffalo, NY) and June 15 (First Ontario Performing Arts Centre).   
 //My godmother, Margaret Davidson, experienced violent, sexual abuse, and yet she healed so completely that she modeled forgiveness to me. With her husband of 60 years beside her, she spoke her last words on camera for me, nine days before she died.
 
 //My mother, Dr. Ibtisam Kelada-Sedra, was removed from her home in Alexandria at age 4. She went through displacement and war in Egypt, yet she teaches me how to love.
@@ -44,6 +44,7 @@ An Essential Collective Theatre production, with the City of St. Catharines.
 <div>[[OFFICIALSELECTION-TorontoInternationalWomenFilmFestival-2021.png Official Selection]]</div> 
 <div>[[RED_SELECTION_red.png Red]]</div>
 <div>[[BLACK_HINDI.png Kalakari]]</div>
+<div>[[LONELYWOLF_LAURELv1_WHITE_NOMINEE_BESTSHORTDOCUMENTARY.png LonelyWolf]]</div>
 //<div>[[WORSTILLS1.jpeg Women of Resilience]]</div> 
 //<div>[[WORSTILLS7.jpeg Women of Resilience]]</div>
 
