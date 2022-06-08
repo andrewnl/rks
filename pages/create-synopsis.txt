@@ -20,7 +20,6 @@ $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
-<div>[[WoR_poster_full.png Women of Resilience]]</div> 
 $END $END
 
 A documentary celebrating resilience in older women. 44 minutes. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that broken attachment systems can heal. That is the amazing thing about being human.
@@ -46,7 +45,6 @@ An Essential Collective Theatre production, with the City of St. Catharines.
 <div>[[BLACK_HINDI.png Kalakari]]</div>
 //<div>[[WORSTILLS1.jpeg Women of Resilience]]</div> 
 //<div>[[WORSTILLS7.jpeg Women of Resilience]]</div>
-
 _Content Warning_
 This film contains descriptions of sexual violence. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally. Have someone safe to call, should you be triggered. If you need the support of a mental health professional, then call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or the sexual assault crisis line 905-682-4584, both available 24/7. 
 
@@ -75,7 +73,7 @@ $ROW $COL
 </div>
 $END $END
 <div>
-<div>[[WoR_wide.jpg]]</div>
+<div>[[WoR_poster_full.png Women of Resilience]]</div>
 </div>
 $END $END
 
