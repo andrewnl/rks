@@ -5,7 +5,8 @@
 $END $END
 .._Directing_
 
-Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] won accolades all over the world! Contact _assistant@roselyn.ca_ to license the film for your university, church or organization. Private rentals not yet available; subscribe to the newsletter to be informed when it is! 
+Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] won accolades all over the world! TORONTO's 1st PUBLIC SCREENINGS! Oct. 8th & 9th at [[https://imaginecinemas.com/cinema/carlton-cinema/ Imagine Carlton Cinemas]] 
+Contact _assistant@roselyn.ca_ to license the film for your university, church or organization. Private rentals not yet available; subscribe to the newsletter to be informed when it is! 
 
 //A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
