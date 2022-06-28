@@ -1,6 +1,7 @@
 //inc.Create Synopsis page
 .._Women of Resilience_ 
 ...A documentary film, recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France). 
+TORONTO's 1st PUBLIC SCREENINGS! Oct. 8th & 9th at [[https://imaginecinemas.com/cinema/carlton-cinema/ Imagine Carlton Cinemas]]
 [[https://eepurl.com/gjHzBf Subscribe]] to get invited.  
 
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
