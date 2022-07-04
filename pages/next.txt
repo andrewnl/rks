@@ -1,7 +1,7 @@
 
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
 //<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
-<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
+//<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 $END $END
 
 //A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
