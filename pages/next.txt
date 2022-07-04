@@ -17,7 +17,7 @@ $END $END
 
 //We had some illuminating discussion following the livestream workshop presentation with [[https://www.facebook.com/AffairofHonorFighters/ Affair of Honor]]. Roselyn is developing a new play with Suitcase in Point's [[https://inthesoil.on.ca/artists-events/2022/roselyn-kelada-sedra-with-affair-of-honor IN THE SOIL Multi-Arts Festival]] spring 2022. 
  
-_Sister Warriors_ is about sisterhood and crisis of faith. When young Rhania is bride-napped, Eyaliya gives up everything to rescue her. Bride-napping is the practice of abducting and forcing girls into marriage. Eyaliya’s ambition to live in a monastic community is derailed when Rhania is abducted. To rescue her, Eyaliya has to face her doubts about God and decide what human life is worth. Dharini, the sister of Rhania’s abductor, tries to help Rhania to cope. Even the abductor-husband Angelo is doing what he thinks is his duty to uphold his family legacy. In a world where sex crimes are tradition, everyone is bound by the system, even those who seem to hold power. NOT appropriate for children.
+_Sister Warriors_ is about sisters dealing with bride-napping when it happens in their families. When young Rhania is bride-napped, Eyaliya gives up everything to rescue her. Bride-napping is the practice of abducting and forcing girls into marriage. Eyaliya’s ambition to live in a monastic community is derailed when Rhania is abducted. To rescue her, Eyaliya has to face her doubts about God and decide what human life is worth. Dharini, the sister of Rhania’s abductor, tries to help Rhania to cope. Even the abductor-husband Angelo is doing what he thinks is his duty to uphold his family legacy. In a world where sex crimes are tradition, everyone is bound, even those who seem to hold power. NOT appropriate for children.
 
 [[https://www.zeffy.com/en-CA/ticketing/240085b8-3805-4f75-82e1-d92e62c7b6b0 Tickets for Sat. July 9 at 8 PM EST]]
 [[https://www.zeffy.com/en-CA/ticketing/c892abf5-0b15-4863-93d5-38510a2c64ad Tickets for Sun. July 10 at 8 PM EST]]
@@ -25,7 +25,7 @@ _Sister Warriors_ is about sisterhood and crisis of faith. When young Rhania is 
 _Content Warning_ 
 _May TRIGGER audience members with descriptions of sexual assault, violence & suicide 
 
-This play contains depictions of violence and sexual assault. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally before proceeding. A psychotherapist will be on hand, should any individual require help. Alternately, if you need support, you can call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or call the sexual assault crisis line 905-682-4584, both available 24/7.
+This play contains depictions of violence, suicide and sexual assault. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally before proceeding. A psychotherapist will be on hand, should any individual require help. Alternately, if you need support, you can call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or call the sexual assault crisis line 905-682-4584, both available 24/7.
 
 
 Director/Dramaturge Cole Lewis
@@ -58,7 +58,7 @@ As writer & director of the documentary,[[http://roselyn.ca/#create _Women of Re
 //Roselyn also has some plays and prose in the works. Stay tuned through [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].   
 
 //.._Acting for Theatre_
-Roselyn is overjoyed to re-join [[https://mixedcompanytheatre.com/ Mixed Company Theatre]] for a new play, _It's Not Okay_, in Ontario schools.
+//Roselyn is overjoyed to re-join [[https://mixedcompanytheatre.com/ Mixed Company Theatre]] for a new play, _It's Not Okay_, in Ontario schools.
 //$video fMK-RO9sdm8
 <div>[[Cleo_basking_in_light60.jpg]]</div>
 Photo by Eilish Waller
