@@ -21,7 +21,7 @@ $END $END
 
 //[[https://www.zeffy.com/en-CA/ticketing/240085b8-3805-4f75-82e1-d92e62c7b6b0 Tickets for Sat. July 9 at 8 PM EST]]
 //[[https://www.zeffy.com/en-CA/ticketing/c892abf5-0b15-4863-93d5-38510a2c64ad Tickets for Sun. July 10 at 8 PM EST]]
-   at Oddfellows Hall, 36 James St., 2nd floor, St. Catharines ON. 
+   //at Oddfellows Hall, 36 James St., 2nd floor, St. Catharines ON. 
 
 //A moderated discussion with the playwright will follow each presentaton. Suitcase in Point will run a cash bar.
 
@@ -45,7 +45,8 @@ $END $END
   
 .._Filmmaking_
 
-Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]] won accolades all over the world! TORONTO's 1st PUBLIC SCREENINGS! Oct. 8th & 9th at [[https://imaginecinemas.com/cinema/carlton-cinema/ Imagine Carlton Cinemas]] 
+1st Toronto PUBLIC SCREENINGS for Roselyn's first film as writer/director, [[https://www.facebook.com/WomenofResilienceFilm Women of Resilience]]
+Oct. 8th & 9th at [[https://imaginecinemas.com/cinema/carlton-cinema/ Imagine Carlton Cinemas]] 
    *7 pm on Saturday Oct. 8th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
    *7 pm on Sunday Oct. 9th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
    *VENUE: [[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
