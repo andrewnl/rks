@@ -8,7 +8,8 @@ TORONTO's 1st PUBLIC SCREENINGS!
    *FORMAT: 44 minute documentary 
    *This film has won accolades in film festivals all over the world. 
    *Click [[https://imaginecinemas.com/cinema/carlton-cinema/ here & select your preferred date to book tickets]]
-   [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
+  
+  [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
   _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
   
 _May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts.
@@ -33,7 +34,6 @@ $ROW $COL
 $END $END
 
 A documentary celebrating resilience in older women. 44 minutes. The thesis is that human beings are designed to heal, and trauma interrupts that design. Secure attachment -a relationship within which someone feels loved, seen and valued- can repair the break and restore the healing design of the human brain and body. Through their stories, these strong, vulnerable women show that broken attachment systems can heal. That is the amazing thing about being human.
-Tickets for first three screenings sold out at the [[https://nac.org Niagara Artists Centre screening]]. Next screenings are June 11, 12 (North Park Theatre in Buffalo, NY) and June 15 (First Ontario Performing Arts Centre).   
 //My godmother, Margaret Davidson, experienced violent, sexual abuse, and yet she healed so completely that she modeled forgiveness to me. With her husband of 60 years beside her, she spoke her last words on camera for me, nine days before she died.
 
 //My mother, Dr. Ibtisam Kelada-Sedra, was removed from her home in Alexandria at age 4. She went through displacement and war in Egypt, yet she teaches me how to love.
