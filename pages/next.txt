@@ -3,10 +3,12 @@
 //<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 //<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 $END $END
-<div>[[SWFT_Vibrant_Decay.png SWFT show]]
-Mew Ways to Walk, a multi-sensory exploration of grief & healing
+.._New Ways to Walk, a multi-sensory exploration of grief & healing
+created by Roselyn Kelada-Sedra,
 with Dancer Mayumi Lashbrook, poet Andrew Perera, & sound designer Geoff Raffan.
-<div>[[SWFT_dates_creds SWFT show dates]]
+<div>[[SWFT_Vibrant_Decay.png SWFT show]]
+Showing at Niagara Artists Centre Sept. 3 - 17, 2022 on St. Paul St., St. Catharines
+<div>[[SWFT_dates_creds.png SWFT show dates]]
 
 //A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
