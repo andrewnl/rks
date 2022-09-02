@@ -1,21 +1,24 @@
 //inc.Create Synopsis page
 .._Women of Resilience_ 
 ...A documentary film
-   *recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
-TORONTO's 1st PUBLIC SCREENINGS!   
-   *7 pm on Saturday Oct. 8th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
- 
-   *7 pm on Sunday Oct. 9th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
-   *Click [[https://imaginecinemas.com/cinema/carlton-cinema/ here & select your preferred date to book tickets]]
+-recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
 
-   *VENUE: [[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
+TORONTO's 1st PUBLIC SCREENINGS!
+-7 pm on Saturday Oct. 8th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
+-7 pm on Sunday Oct. 9th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
+-Click [[https://imaginecinemas.com/cinema/carlton-cinema/ here & select your preferred date to book tickets]]
+-VENUE: [[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
    
-   *FORMAT: 44 minute documentary 
-   
-  [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
+-FORMAT: 44 minute documentary 
+
+$videoembed($Vwidth, $Vheight, $Vurl)=<iframe src="$Vurl" width="$Vwidth" height="$Vheight" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+$videoembed 640 360 https://player.vimeo.com/video/745862854?h=bc3b4cf202
+
+//[[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
   _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
   
-_May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts.
+_May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts._
 
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
@@ -77,19 +80,14 @@ $IMDB2=[[https://www.imdb.com/title/tt13807442/ [[imdb.png _Women of Resilience_
 $StC=[[https://www.stcatharines.ca/en/ [[StC.jpg]]
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
-$ROW $COL
-/////////////////////////////////
 
-<div>
 //<h1>_Women of Resilience_</h1>
 <div>$FB2 $ECT $IMDB2</div>
-</div>
-$END $END
-<div>
-<div>[[WoR_poster_full.png Women of Resilience]]</div>
-</div>
 $END $END
 
+$ROW $COL
+<div>[[WoR_poster_full.png Women of Resilience]]</div>
+$END $END
 
 ..Short film
 Roselyn co-wrote and co-produced a short film, "Amor Fati," an official selection in the Niagara Falls International Short Festival (Spring 2021, NY) & the Kalakari Film Festival. She also played the lead in "Amor Fati" in which the question is raised: can we change our fates? 
@@ -118,8 +116,7 @@ $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
 
-
 <div>$FB3 $IG3 $IMDB3</div>
-</div>
+
 $END $END
 
