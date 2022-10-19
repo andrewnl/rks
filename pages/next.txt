@@ -2,12 +2,9 @@
 //<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 //<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 //$END $END
-...New Ways to Walk, a multi-sensory exploration of grief & healing
-created by Roselyn Kelada-Sedra,
-with dancer Mayumi Lashbrook, poet Andrew Perera, & sound designer Geoff Raffan.
-<div>[[SWFT_Vibrant_Decay.png SWFT show]]</div>
-RUN EXTENDED at Niagara Artists Centre @ 354 St. Paul St., St. Catharines
-<div>[[SWFT_dates_creds.png SWFT show dates]]</div>
+//...New Ways to Walk, a multi-sensory exploration of grief & healing created by Roselyn Kelada-Sedra, with dancer Mayumi Lashbrook, poet Andrew Perera, & sound designer Geoff Raffan.
+//<div>[[SWFT_Vibrant_Decay.png SWFT show]]</div>
+//<div>[[SWFT_dates_creds.png SWFT show dates]]</div>
 
 //A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
@@ -50,23 +47,19 @@ $ROW $COL
   
 .._Filmmaking_
 
-.._Women of Resilience_ 
-...A documentary film
--recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
-TORONTO's 1st PUBLIC SCREENINGS!   
--7 pm on Saturday Oct. 8th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
- 
--7 pm on Sunday Oct. 9th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
--Click [[https://imaginecinemas.com/cinema/carlton-cinema/ here & select your preferred date to book tickets]]
+//.._Women of Resilience_ 
+//...A documentary film
+//-recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
+//-Click [[https://imaginecinemas.com/cinema/carlton-cinema/ here & select your preferred date to book tickets]]
 
--VENUE: [[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
+//-VENUE: //[[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
    
--FORMAT: 44 minute documentary 
+//-FORMAT: 44 minute documentary 
    
-  [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
-  _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
+  //[[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
+  //_Three souls overcome incredible trauma & become inspiring Women of Resilience._  
   
-_May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts._
+//_May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts._
 
 
 //This play contains depictions of violence, suicide and sexual assault. NOT appropriate for children. 
@@ -77,27 +70,18 @@ Roselyn has completed residencies [[https://patthedog.org/the-womens-room/ Write
 /.._Women of Resilience_ 
 ...A documentary film
 -recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
-TORONTO's 1st PUBLIC SCREENINGS!   
--7 pm on Saturday Oct. 8th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
- 
--7 pm on Sunday Oct. 9th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
--Click [[https://imaginecinemas.com/cinema/carlton-cinema/ here & select your preferred date to book tickets]]
-
--VENUE: [[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
    
--FORMAT: 44 minute documentary 
-   
-  [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
-  _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
+//[[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
+ //_Three souls overcome incredible trauma & become inspiring Women of Resilience._  
   
-_May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts._
+//_May TRIGGER audience members with descriptions of sexual assault, violence & suicide attempts._
 
-As writer & director of the documentary,[[http://roselyn.ca/#create _Women of Resilience_]], Roselyn is honored by the Toronto International Women Film Festival's Best Short Doc Award, among other accolades. The film celebrates women who have gone through fire and share how they have become resilient. Email  _assistant@roselyn.ca_ if you want to license the film for your university, church or organization.
+As writer & director of the documentary, [[http://roselyn.ca/#create _Women of Resilience_]], Roselyn is honored by the Toronto International Women Film Festival's Best Short Doc Award, as well as the Cannes World Film Festival's Best Women Film Award, among other accolades. The film celebrates women who have gone through fire and share how they have become resilient. Email  _assistant@roselyn.ca_ if you want to license the film for your university or organization.
 
 //Roselyn also has some plays and prose in the works. Stay tuned through [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].   
 
 .._Acting_
-Roselyn is overjoyed to re-join [[https://mixedcompanytheatre.com/ Mixed Company Theatre]] for a new play, _Knocking On Doors_, by Naomi Tessler.
+Roselyn is prepping to film an exciting role on a Showtime mini-series.
 //$video fMK-RO9sdm8
 <div>[[Cleo_basking_in_light60.jpg]]</div>
 Photo by Eilish Waller
