@@ -49,7 +49,7 @@ $ROW $COL
 .._Writing for Theatre_
 Roselyn has completed residencies [[https://patthedog.org/the-womens-room/ Writers' Room at Pat the Dog Theatre]] (Kitchener-Waterloo, ON) & [[https://suitcaseinpoint.com Suitcase in Point]]. Roselyn is seeking a production parter for _Sister Warriors_ and an international residency host.
 
-.._Filmmaking_
+//.._Filmmaking_
  
 .._Women of Resilience_ 
 A documentary film
