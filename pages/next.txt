@@ -1,12 +1,13 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
-//<div>[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
+<div> Roselyn is showing her immersive video piece, 6&8 at Riverbrink Art Museum, opening Feb. 4th, 2023. 
+[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 //<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 //$END $END
 //...New Ways to Walk, a multi-sensory exploration of grief & healing created by Roselyn Kelada-Sedra, with dancer Mayumi Lashbrook, poet Andrew Perera, & sound designer Geoff Raffan.
 //<div>[[SWFT_Vibrant_Decay.png SWFT show]]</div>
 //<div>[[SWFT_dates_creds.png SWFT show dates]]</div>
 
-//A three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
+6&8 is a three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 /////////////////////////////////
@@ -49,12 +50,17 @@ $ROW $COL
 Roselyn has completed residencies [[https://patthedog.org/the-womens-room/ Writers' Room at Pat the Dog Theatre]] (Kitchener-Waterloo, ON) & [[https://suitcaseinpoint.com Suitcase in Point]]. Roselyn is seeking a production parter for _Sister Warriors_ and an international residency host.
 
 .._Filmmaking_
-
+ 
 .._Women of Resilience_ 
 A documentary film
 -recognized by festivals at Sacramento, NYC, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
+
+Riverbrink Art Museum is hosting "Women of Resilience" in Feb. 2023 (dates TBA). 
+   Admission is by donation. 
+   (Suggested donation: Adult:  $7 / Senior & Students: $5)
+   [[https://www.riverbrink.org There's a map to help folks get to Riverbrink]]
    
-//-FORMAT: 44 minute documentary 
+-FORMAT: 44 minute documentary 
    
 [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
 _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
@@ -72,7 +78,7 @@ As writer & director of the documentary, [[http://roselyn.ca/#create _Women of R
 //Roselyn also has some plays and prose in the works. Stay tuned through [[https://www.facebook.com/groups/sixandeight/ Roselyn, Actor & Storyteller]].   
 
 .._Acting_
-Roselyn is prepping to film an exciting role on a Showtime mini-series.
+Roselyn is excited about an exciting role on a ground-breaking Showtime mini-series.
 //$video fMK-RO9sdm8
 <div>[[Cleo_basking_in_light60.jpg]]</div>
 Photo by Eilish Waller
