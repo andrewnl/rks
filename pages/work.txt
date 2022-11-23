@@ -43,16 +43,19 @@ Also as a playwright, Roselyn has completed residencies with the [[https://patth
 
 //Roselyn is grateful that the tour of her play, "Never in the Room," completed its tour of southern Ontario before the outbreak. Her first forum theatre script, the play was developed with [[http://www.mixedcompanytheatre.com/ Mixed Company Theatre]] (Toronto, ON). "Never in the Room" explores the experience of a Bangladeshi woman fights the incremental confiscation of her power to make decisions in her own life as she ages. 
 
-//.._Six & Eight_
-//Roselyn is creating a zoom v. movement impulse iteration of _Six & Eight_. A 23-minute excerpt is showing at the Niagara Artists Centre, opening May 29th. The play explores: //the disconnect between our screen-selves and our true selves. And what matters more - our intentions or outcomes? [[https://eepurl.com/gjHzBf Subscribe]] to get invited. 
+.._Six & Eight_
+Roselyn's film installation 6&8 opens Feb.4th, 2023 at [[http://www.riverbrink.org/planyourvisit.html Riverbrink Art Museum]]. This 3-part filmic experience is a new iteration of _Six & Eight_ the dance play. A 23-minute excerpt is showing in conjunction with [[https://www.facebook.com/groups/swagher SWFT (Supporting Womxn Femm & Trans artists)]].
+   - [[https://www.google.com/maps/place/RiverBrink+Art+Museum/@43.17031 Riverbrink Art Museum, 116 Queenston St., Queenston, ON]]
+   -Admission is PWYC 
+   71,-79.0593282,17z/data=!3m1!4b1!4m5!3m4!1s0x89d35dc9d8dfd07d:0x314cad2abdc2546a!8m2!3d43.1703171!4d-79.0571395 Riverbrink is at 116 Queenston St., Queenston, ON]]
+   - Admission is PWYC. 
+The play explores: the disconnect between our screen-selves and our true selves. And what matters more - our intentions or outcomes? [[https://eepurl.com/gjHzBf Subscribe]] to get invited. 
 
 .._Documentary film_
-Roselyn's film, [[https://roselyn.ca/#create Women of Resilience]] screens in Toronto! Oct. 8th & 9th at [[https://imaginecinemas.com/cinema/carlton-cinema/ Imagine Carlton Cinemas]] 
-Film by Roselyn Kelada-Sedra, an Essential Collective Theatre production. 
--7 pm on Saturday Oct. 8th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
--7 pm on Sunday Oct. 9th, with moderated discussion to follow with the filmmaker and interviewee (AEDP practitioner Andrew Fountain, PhD)
--VENUE: [[https://www.google.com/maps/place/20+Carlton+St,+Toronto,+ON+M5B+2H5/@43.6616374,-79.3838695,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b4dd105fe9:0xa273f481a6ca0b1a!8m2!3d43.6616374!4d-79.3816808 Imagine Cinemas]] 20 Carlton St, Toronto, ON 
--FORMAT: 44 minute documentary 
+Roselyn's film, [[https://roselyn.ca/#create Women of Resilience]] screens at [[http://www.riverbrink.org/planyourvisit.html Riverbrink Art Museum]] in Feb. 2023, dates TBA. 
+   -VENUE: [[https://www.google.com/maps/place/RiverBrink+Art+Museum/@43.1703171,-79.0593282,17z/data=!3m1!4b1!4m5!3m4!1s0x89d35dc9d8dfd07d:0x314cad2abdc2546a!8m2!3d43.1703171!4d-79.0571395 Riverbrink Art Museum, 116 Queenston St., Queenston, ON]]
+   -Admission is PWYC 
+   -FORMAT: 44 minute documentary 
 -This film has won accolades in film festivals all over the world. 
    [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
   _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
@@ -73,8 +76,8 @@ Roselyn co-wrote and co-produced a short film, "Amor Fati," an official selectio
 <div>[[Niagara.jpg Niagara]]</div>
 <div>[[BLACK_ENG.png Kalakari]]</div>
 
-.._Goddess Healing_
-Roselyn is grateful for the support of [[http://www.1000islandsplayhouse.com/ Thousand Islands Playhouse]] and the amazing dramaturge at [[https://www.playwrights.ca/team/sarah/ Playwrights' Workshop Montreal]] who is helping her to develop this drama set in Egypt. 
+//.._Goddess Healing_
+//Roselyn is grateful for the support of [[http://www.1000islandsplayhouse.com/ Thousand Islands Playhouse]] and the amazing dramaturge at [[https://www.playwrights.ca/team/sarah/ Playwrights' Workshop Montreal]] who is helping her to develop this drama set in Egypt. 
 
 Have a look (below) at her trailers, and stay up to date through [[http://roselyn.ca/#next "Now&Next"]] & [[https://eepurl.com/gjHzBf her quarterly emails]].
 //inc.Writing - to address: what does she do on her own
@@ -97,7 +100,7 @@ Roselyn is a contributor to many web outlets including the women's empowerment z
 
 $END $COL
 
-Roselyn started writing for TV with webseries, first with an unaired episode of [[https://www.imdb.com/title/tt4977510/?ref_=fn_al_tt_1 IRL The Series ]] and then with a piece in [[http://www.imdb.com/title/tt6690992/?ref_=nv_sr_4 Toronto Monologue Slam]]. Visit [[http://roselynkeladasedra.blogspot.ca Roselyn's writing blog]] for an archive of her short-form writing, or check out these trailers of past workshops or productions of Roselyn's plays. For her writer's resume, visit [[http://roselyn.ca/#resume the Resume's tab.]]
+//Roselyn started writing for TV with webseries, first with an unaired episode of [[https://www.imdb.com/title/tt4977510/?ref_=fn_al_tt_1 IRL The Series ]] and then with a piece in [[http://www.imdb.com/title/tt6690992/?ref_=nv_sr_4 Toronto Monologue Slam]]. Visit [[http://roselynkeladasedra.blogspot.ca Roselyn's writing blog]] for an archive of her short-form writing, or check out these trailers of past workshops or productions of Roselyn's plays. For her writer's resume, visit [[http://roselyn.ca/#resume the Resume's tab.]]
 
 //...Trailer: Check out the trailer for _FAIL BETTER_, a webseries created & produced by Roselyn. [[https://www.failbetterseries.com/ Fail Better]] is about a woman who is so afraid of failure that every decision becomes monumental during her first job articling at a Toronto law firm. 
 //$video zB87wINjejQ
