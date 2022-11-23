@@ -55,8 +55,8 @@ An Essential Collective Theatre production, with the City of St. Catharines.
 <div>[[BLACK_HINDI.png Kalakari]]</div>
 //<div>[[WORSTILLS1.jpeg Women of Resilience]]</div> 
 //<div>[[WORSTILLS7.jpeg Women of Resilience]]</div>
-_Content Warning_
-This film contains descriptions of sexual violence. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally. Have someone safe to call, should you be triggered. If you need the support of a mental health professional, then call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or the sexual assault crisis line 905-682-4584, both available 24/7. 
+//_Content Warning_
+//This film contains descriptions of sexual violence. NOT appropriate for children. This content is disturbing, so please prepare yourself emotionally. Have someone safe to call, should you be triggered. If you need the support of a mental health professional, then call the Mental Health & Addictions Access Line 1-866-550-5205 & press 1, or the sexual assault crisis line 905-682-4584, both available 24/7. 
 
 $SC=[[http://Roselyn.link/SelfCompassion Self-compassion practices by Dr. Kristin Neff available]].
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
@@ -80,7 +80,7 @@ $h1_style1=margin:0; color: #444;
 $END $END
 
 $ROW $COL
-<div>[[WoR_poster_full.png Women of Resilience]]</div>
+//<div>[[WoR_poster_full.png Women of Resilience]]</div>
 $END $END
 
 ..Short film
