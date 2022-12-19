@@ -81,8 +81,10 @@ Have a look (below) at her trailers, and stay up to date through [[http://rosely
 $video gxejLCPNup8 
 $END $COL medium-6  //text on left
 
-<div>[[DSC_1816_.25M_Gaetz_bluedress.jpg Roselyn Kelada-Sedra]]</div>
-$gaetz
+<div>[[RoselynKelada-Sedra_2022_JMphotog_HQ.jpg Roselyn Kelada-Sedra Photo @JM_photography32]]
+
+//<div>[[DSC_1816_.25M_Gaetz_bluedress.jpg Roselyn Kelada-Sedra]]</div>
+//$gaetz
 $END $COL medium-6  //picture on right
 
 The women of Roselyn's work go through crises and become their most resilient selves. Roselyn explores the human condition, particularly for women of colour. What makes a woman strong? brave? compassionate? These explorations drive the stories that Roselyn tells, on stage and screen. 
