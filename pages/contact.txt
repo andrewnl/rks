@@ -16,8 +16,8 @@ Jessica Martins
 */
 
 $END $COL medium-8  //picture on right
-<div>[[Hey_You.jpg Roselyn Kelada-Sedra]]</div>
-photo by @thereallornesacqui 
+<div>[[RoselynKelada-Sedra_2022_JMphotog_HQ.jpg Roselyn Kelada-Sedra]]</div>
+photo @jm_photography32
 //$gaetz
 //<div>[[roselyn_kelada-sedra4-blue-net.jpg Roselyn Kelada-Sedra]]</div>
 
