@@ -3,7 +3,7 @@ $ul_class1=orbit-photo-gallery
 $ul_attr1=data-orbit data-options="timer_speed:2000;"
 ///////////////
 
-//$orbit o0 01-roselyn_kelada-sedra-diner-tlt.jpg "" "Photo by Hi Uan Kang Haaga"
+$orbit o0 01-RoselynKelada-Sedra_2022_JMphotog_HQ.jpg "" "Photo @JM_photography32"
 $orbit o0 01-roselyn_kelada-sedra-gaetz-headshot.jpg "" "Photo by Gaetz Photography"
 //$orbit ob 01b-roselyn_kelada-sedra_9217-laugh.jpg "" "Photo by Vanessa Burns"
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
