@@ -1,7 +1,7 @@
 //inc.Resume page - to address: what has she been in?
 
 ..Acting (pdf)
-<div>[[assets/HERO-Resume-Roselyn_Kelada-Sedra_Feb3,2020.pdf [[HERO-res-thumb-2020-02-08.png Acting for Film & TV (pdf)]]]]</div>
+<div>[[assets/HERO-Resume-Roselyn_Kelada-Sedra_Dec.2022.pdf [[HERO-res-thumb-2020-02-08.png Acting for Film & TV (pdf)]]]]</div>
 
 ..Writing (pdf)
 <div>[[assets/Roselyn_Kelada-Sedra_writing_2p_resume-2021.pdf [[writing-resume-thumbnail-200.png Writing (pdf)]]]]</div>
@@ -13,8 +13,8 @@ $END $COL medium-6  //picture on right
 <div>[[eyes_into_it_IMG-8499.JPG Roselyn photo by Sander Shalinsky]]</div>
 //$gaetz
 
-..Producing (pdf)
-<div>[[assets/ROSELYN_KELADA-SEDRA.producingFILM&TVresumeJUNE2020_1p.pdf Resume for Producing]]</div>
+..Directing (pdf)
+<div>[[assets/Roselyn_Kelada-Sedra_Director_Writer_resume_2p_Dec.2022.pdf Resume for Directing]]</div>
 
 //$END $COL medium-6  //picture on right
 //<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
