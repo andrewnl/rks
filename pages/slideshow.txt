@@ -3,12 +3,13 @@ $ul_class1=orbit-photo-gallery
 $ul_attr1=data-orbit data-options="timer_speed:2000;"
 ///////////////
 
-$orbit o0 01-roselyn_kelada-sedra-gaetz-headshot.jpg "" "Photo by Gaetz Photography"
+$orbit o0 01-roselyn_kelada-sedra-gaetz-headshot.jpg "" "Photo by Gaetz Photography
+$orbit o0 01a-Roselyn_Kelada-Sedra_Rosa-vibes_jm962200.jpg "" "Photo @JM_photography32
 //$orbit ob 01b-roselyn_kelada-sedra_9217-laugh.jpg "" "Photo by Vanessa Burns"
 $orbit o1 01-roselyn_kelada-sedra-focussed.jpg CBC
 $orbit o2 02-roselyn_kelada-sedra-shock.jpg CBC
 $orbit oc Cleo_w_light_snake.jpg "Photo by Alexandra Augustine" "As Cleopatra in _Macbeth's Head_" 
-$orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
+//$orbit o3 03-roselyn_kelada-sedra-think.jpg CBC
 ///$orbit o4 04-roselyn_kelada-sedra-mic-drop.jpg CBC
 $orbit SKM1 SKM-pose-1.jpg "" from _She Kills Monsters_, an Orphaned Egret Production
 
@@ -27,11 +28,12 @@ $orbit o12 12-roselyn_kelada-sedra-1470.jpg "" "Photo by Gaetz photography"
 $img_style=width:55px;
 $a_button_style=padding:0;
 $orbutton o0 01-roselyn_kelada-sedra-gaetz-headshot.jpg \
+$orbit o0 01a-Roselyn_Kelada-Sedra_Rosa-vibes_jm962200.jpg \ 
 //$orbutton ob 01b-roselyn_kelada-sedra_9217-laugh.jpg \
 $orbutton o1 01-roselyn_kelada-sedra-focussed.jpg \
 $orbutton o2 02-roselyn_kelada-sedra-shock.jpg \
 $orbutton oc Cleo_w_light_snake.jpg \
-$orbutton o3 03-roselyn_kelada-sedra-think.jpg \
+//$orbutton o3 03-roselyn_kelada-sedra-think.jpg \
 //$orbutton o4 04-roselyn_kelada-sedra-mic-drop.jpg \
 $orbutton SKM1 SKM-pose-1.jpg \
 $orbutton o6 06-roselyn_kelada-sedra-six-eight.jpg \
