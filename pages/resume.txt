@@ -12,9 +12,8 @@
 $END $COL medium-6  //picture on right
 <div>[[eyes_into_it_IMG-8499.JPG Roselyn photo by Sander Shalinsky]]</div>
 //<div>[[Roselyn_Kelada-Sedra_Rosa-vibes_jm962200.JPG Roselyn Kelada-Sedra]]</div> 
-$END $COL medium-6  
-picture on right
-Photo @JM_photography32]]
+$END $COL medium-6 
+//Photo @JM_photography32
 
 ..Directing (pdf)
 <div>[[assets/Roselyn_Kelada-Sedra_Director_Writer_resume_2p_Dec.2022.pdf Resume for Directing]]</div>
