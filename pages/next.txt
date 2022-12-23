@@ -1,5 +1,5 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
-<div> Roselyn is showing her immersive video piece, 6&8 at Riverbrink Art Museum, opening Feb. 4th, 2023. 
+<div> Roselyn is showing her immersive video piece, 6&8 at Riverbrink Art Museum, opening Feb. 4th, 2023.</div>
 //[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 //<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 //$END $END
