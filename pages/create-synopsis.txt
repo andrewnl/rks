@@ -2,7 +2,7 @@
 .._Women of Resilience_ 
 ...A documentary film
 -recognized by festivals at Cannes, Sacramento, NYC, Toronto, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
-   
+-available to [[https://www.patreon.com/RoeIzisCreativeCorp stream on Patreon.]]   
 -FORMAT: 44 minute documentary 
 
 $videoembed($Vwidth, $Vheight, $Vurl)=<iframe src="$Vurl" width="$Vwidth" height="$Vheight" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
