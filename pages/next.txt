@@ -7,7 +7,7 @@
 //<div>[[SWFT_Vibrant_Decay.png SWFT show]]</div>
 //<div>[[SWFT_dates_creds.png SWFT show dates]]</div>
 
-6&8 is a three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
+//6&8 is a three-screen, audiovisual installation about the disconnect between what we present on screen and what we truly desire (23 minutes in length)
 $div_style1=background-color:#DDD; padding:0 0 .5em 0; text-align:center;
 $h1_style1=margin:0; color: #444;
 /////////////////////////////////
@@ -56,12 +56,18 @@ Roselyn has completed residencies [[https://patthedog.org/the-womens-room/ Write
 //-recognized by festivals at Sacramento, NYC, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
 
 "Women of Resilience" 
-   [[https://www.patreon.com/RoeIzisCreativeCorp is available to stream through Patreon.]]
-   
--FORMAT: 44 minute documentary 
-   
+Screening & Talkback with the Filmmaker
+WHEN: Saturday, May 13
+      Doors at 7 pm, Screening starts at 7:30 pm
+WHERE: Main Stage Rehearsal Studio
+      747 King St E, Hamilton. L8M 1A4
+
 [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
 _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
+
+Streaming now at [[https://www.patreon.com/RoeIzisCreativeCorp is available to stream through Patreon.]]
+   
+-FORMAT: 44 minute documentary 
 
 //This play contains depictions of violence, suicide and sexual assault. NOT appropriate for children. 
 Subscribe to the newsletter to be informed when it's available to stream! 
