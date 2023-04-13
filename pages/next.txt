@@ -53,14 +53,16 @@ $ROW $COL
 //-recognized by festivals at Sacramento, NYC, Kalakari, & Cairo. Also an official selection for excellence in directing at the Red Movie Awards (Reims, France) & a Top 10 Nominee in the Lonely Wolf International Film Festival (London, UK). 
 
 "Women of Resilience" 
-Screening & Talkback with the Filmmaker
-WHEN: Saturday, May 13
- Doors at 7 pm, screening starts at 7:30 pm
-WHERE: Main Stage Rehearsal Studio
- 747 King St E, Hamilton. L8M 1A4
+//Screening & Talkback with the Filmmaker
+//WHEN: Saturday, May 13
+ //Doors at 7 pm, screening starts at 7:30 pm
+//WHERE: Main Stage Rehearsal Studio
+ //747 King St E, Hamilton. L8M 1A4
 
 [[https://roselyn.link/WoRtrailer Trailer for _Women of Resilience_]]
 _Three souls overcome incredible trauma & become inspiring Women of Resilience._  
+//
+
 [[https://www.zeffy.com/en-CA/ticketing/e5ac9748-6563-435a-b030-7f69da1e1e8b BOOK TICKETS]]
 
 [[https://www.patreon.com/RoeIzisCreativeCorp "Women of Resilience" is streaming through Patreon.]]
