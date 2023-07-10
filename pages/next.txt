@@ -1,5 +1,11 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
-<div> Roselyn is showing her internationally award-winning film, [[https://www.Roselyn.link/dnj Women of Resilience]], in Hamilton: August 25th! 7 pm.</div>
+<div> Roselyn is showing her internationally award-winning film, [[https://www.Roselyn.link/dnj Women of Resilience]], 
+   at Main Stage Rehearsal Studios (747 King St. East, Hamilton, ON
+   free parking in back
+   Friday, August 25th! doors open at 7 pm. 
+Click [[https://www.zeffy.com/en-CA/ticketing/e5ac9748-6563-435a-b030-7f69da1e1e8b here to book tickets]]. 
+
+</div>
 //[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
 //<div>[[Roselyn_009-Edit-blue.jpg Ro photo by Lorne Es]]</div>
 //$END $END
