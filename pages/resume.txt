@@ -20,7 +20,8 @@ $END $COL medium-6
 
 ..Body of Work 
 
-<div>[[Some of my body of work, including the award-winner "Women of Resilence," is streaming on Patreon https://www.patreon.com/RoeIzisCreativeCorp]]
+<div>[[Streaming on Patreon https://www.patreon.com/RoeIzisCreativeCorp]]
+
 //$END $COL medium-6  //picture on right
 //<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
 //$gaetz
