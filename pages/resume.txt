@@ -18,6 +18,8 @@ $END $COL medium-6
 ..Directing (pdf)
 <div>[[assets/Roselyn_Kelada-Sedra_Director_Writer_resume_2p_Dec.2022.pdf Resume for Directing]]</div>
 
+..Body of Work 
+<div>[[Some of my body of work, including the award-winner "Women of Resilence," streaming on Patreon https://www.patreon.com/RoeIzisCreativeCorp]]
 //$END $COL medium-6  //picture on right
 //<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
 //$gaetz
