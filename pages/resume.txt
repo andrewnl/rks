@@ -1,9 +1,9 @@
 //inc.Resume page - to address: what has she been in?
 
 ..Film & TV Acting (pdf)
-<div>[[assets/HERO-Resume-Roselyn_Kelada-Sedra_FILM_Sept2023.docx.pdf [[HERO-res-thumb-2020-02-08.png Acting for Film & TV (pdf)]]]]</div>
+<div>[[assets/HERO-Resume-Roselyn_Kelada-Sedra_FILM_Sept2023.docx-1.pdf [[HERO-res-thumb-2020-02-08.png Acting for Film & TV (pdf)]]]]</div>
 ..Theatre Acting
-<div>[[assets/Roselyn_Kelada-Sedra_theatre_Sept2023_resume.docx.pdf Resume for Theatre Acting]]</div>
+<div>[[assets/Roselyn_Kelada-Sedra_theatre_Sept2023_resume.docx-1.pdf Resume for Theatre Acting]]</div>
 
 ..Writing (pdf)
 <div>[[assets/Roselyn_Kelada-Sedra_writing_2p_resume-2021.pdf [[writing-resume-thumbnail-200.png Writing (pdf)]]]]</div>
