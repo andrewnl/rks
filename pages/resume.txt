@@ -26,5 +26,5 @@ $END $COL medium-6
 
 //$END $COL medium-6  //picture on right
 //<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
-//$gaetz
+//$gaetz 
 
