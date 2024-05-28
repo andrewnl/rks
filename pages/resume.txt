@@ -22,7 +22,7 @@ $END $COL medium-6
 
 ..Body of Work 
 
-<div>[[https://www.patreon.com/RoeIzisCreativeCorp Streaming on Patreon]]
+<div>[[https://www.patreon.com/RoeIzisCreativeCorp Streaming on Patreon]]</div>
 
 //$END $COL medium-6  //picture on right
 //<div>[[DSC_2140.jpg Roselyn Kelada-Sedra]]</div>
