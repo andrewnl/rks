@@ -1,5 +1,5 @@
 //inc.Voice page - Voice demos
-Roselyn is having a blast as a series regular in the fantasy-adventure podcast [[https://arcaneninjarpg.podbean.com Arcane Ninja RPG]].
+Roselyn wrapped season 1 as a series regular in the fantasy-adventure podcast [[https://arcaneninjarpg.podbean.com Arcane Ninja RPG]].
 
 ..Roselyn's Voice-Over demos
 
@@ -9,7 +9,7 @@ Roselyn is having a blast as a series regular in the fantasy-adventure podcast [
 
 ..Roselyn's Musical chops 
 [[https://www.youtube.com/watch?v=oJe0mCCtC1o "Ave Maria" by Beyonce]]
-[[https://www.youtube.com/watch?v=8OjTks88NAI "When he sees me" by Sara Bareilles]]
+//[[https://www.youtube.com/watch?v=8OjTks88NAI "When he sees me" by Sara Bareilles]]
 $video 9bUPKmwStEo
 
 //...Cover video of Ed Sheeran's "Photograph" featuring John Moussa
