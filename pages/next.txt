@@ -1,5 +1,5 @@
 //inc.Now & Next page -  to address: What is she doing now, and what's coming up?
-<div> Roselyn is assistant directing "Twelfth Night" [[https://www.drama.cmu.edu/people/faculty-staff/gary-logan/ with Gary Logan at Carnegie Mellon University]]. 
+<div> Roselyn just finished assistant directing "Twelfth Night" [[https://www.drama.cmu.edu/people/faculty-staff/gary-logan/ with Gary Logan at Carnegie Mellon University]]. 
 
 </div>
 //[[six-and-eight-NACPoster1PROOF3.jpg Six and Eight]]</div> 
