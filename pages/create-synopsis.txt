@@ -112,7 +112,7 @@ $h1_style1=margin:0; color: #444;
 $ROW $COL
 /////////////////////////////////
 
-<div>$FB3 $IG3 $IMDB3</div>
+//<div>$FB3 $IG3 $IMDB3</div>
 
 $END $END
 
