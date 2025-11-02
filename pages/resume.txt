@@ -12,7 +12,8 @@
 //<div>[[assets/Edited_ROSELYN_KELADA-SEDRAwritingTHEATRE&JRNLresumeREAL.LIFE.2020.2p.pdf [[writing-resume-thumbnail-200.png Writing for //Theatre & Journalism (pdf)]]]]</div>
 
 $END $COL medium-6  //picture on right
-<div>[[eyes_into_it_IMG-8499.JPG Roselyn photo by Sander Shalinsky]]</div>
+<div>[[175-min_Roselyn_Secret_Heads_LorneSabsay-Vneck.jpg Roselyn photo by Lorne Sabsay]]</div>
+//<div>[[eyes_into_it_IMG-8499.JPG Roselyn photo by Sander Shalinsky]]</div>
 //<div>[[Roselyn_Kelada-Sedra_Rosa-vibes_jm962200.JPG Roselyn Kelada-Sedra]]</div> 
 $END $COL medium-6 
 //Photo @JM_photography32
