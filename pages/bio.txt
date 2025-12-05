@@ -14,7 +14,7 @@ $END $COL medium-6 //picture on right
 //<div>[[roselyn_kelada-sedra8-ukh.jpg Roselyn Kelada-Sedra]]</div>
 //<div>[[roselyn_kelada-sedra-union-station.jpg Kelada-Sedra]]</div>
 //$ukh
-<div>[[2025296-2.2-250523_Roselyn_Heads_.jpg]]</div>
+<div>[[2025296-2.2-250523_Roselyn_Heads_.jpg Kelada-Sedra]]</div>
 //<div>[[Roselyn_Kelada-Sedra719.jpg Roselyn Kelada-Sedra]]</div>
 
 //$gaetz
