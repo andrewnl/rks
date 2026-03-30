@@ -1,6 +1,9 @@
 //inc.Create Synopsis page
-Roselyn is writing & directing a new documentary, [[https://vimeo.com/1140599132/9381b861b5?share=copy&fl=sv&fe=ci "Why Our Brains Hurt". Check out the trailer]], and reach out to fundraising assistant [[https://www.instagram.com/melaniehawkins4719/ Melanie Hawkins]] if you'd like to know more about the documentary and how to support. The film is currently in post-production. Roselyn thanks the [[https://www.arts.on.ca/ Ontario Arts Council]] and [[https://ccrw.org/ CCRW]] and [[https://gandhicpa.ca/ Gandhi CPA]] for their support in the production process. 
-
+Roselyn is writing & directing a new documentary, [[https://vimeo.com/1140599132/9381b861b5?share=copy&fl=sv&fe=ci "Why Our Brains Hurt". Check out the trailer]], and reach out to fundraising assistant [[https://www.instagram.com/melaniehawkins4719/ Melanie Hawkins]] if you'd like to know more about the documentary and how to support. The film is currently in post-production. Roselyn thanks the [[https://www.arts.on.ca/ Ontario Arts Council]] and [[https://ccrw.org/ CCRW]] and [[https://gandhicpa.ca/ Gandhi CPA]] and [[https://obia.ca/ OBIA]] for their support in the production process. 
+//<div>[[ccrw_logo CCRW logo]]</div> 
+//<div>[[GCPC_Logo_ Gandhi CPA logo]]</div> 
+//<div>[[OAC_logo OAC logo]]</div> 
+//<div>[[OBIA_logo OBIA logo]]</div> 
 
 .._Women of Resilience_ 
 ...A documentary film
