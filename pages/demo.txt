@@ -1,11 +1,11 @@
 //inc.Demo page - to address: Can I see her work?  Demo reels
 
-..Roselyn's film & TV demo
+[[https://roselyn.link/demo ..Roselyn's film & TV demo]]
 $video k-BViKHUxZE
 
-Check out Roselyn's DEMO for film & TV, live on YouTube!/
+
+Check out [[https://vimeo.com/manage/videos/1178565230 Roselyn's DEMO for film & TV, live on vimeo!/]]
 Roselyn plays: 1) an ER doctor in [[https://www.imdb.com/title/tt35931774/ DOC]]; 2) a determined law student; 3) a snarky, judgy shopper; 4)  a survivor making her way through a toxic relationship; 5) a mother fighting for her daughter.
 
 //$video k-BViKHUxZE
-//https://vimeo.com/1178313234?share=copy&fl=sv&fe=ci
 
