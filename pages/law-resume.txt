@@ -1,6 +1,6 @@
 //inc.Law Resume page
 
-<div>[[assets/LawResumeOct2018.pdf [[law-resume-thumbnail-200.png Resume for legal work]]/
+//<div>[[assets/LawResumeOct2018.pdf [[law-resume-thumbnail-200.png Resume for legal work]]/
 Click on resume to view.]]
 </div>
 
@@ -9,9 +9,9 @@ $END $COL medium-8  //text on right
 -B.A. (_Magna Cum Laude_) in History & English literature, Houghton College 
 -Diploma (_Hons._) in Journalism, Humber College 
 -J.D., Osgoode Hall Law School and called to the Bar 2016
-
+-Mental health first aid (2025)
 ..Memberships
--Member of Law Society of Ontario and Canadian Bar Association 
+-Member of Law Society of Ontario and Canadian Bar Association (2016-2019)
 -Executive Member of Entertainment and Media Law Section, Ontario Bar Association (2016-2018)
 
 ..Selected Awards
@@ -19,4 +19,8 @@ $END $COL medium-8  //text on right
 -*Russell Nelles Starr, Q.C. Memorial Award:* for academic excellence in civil litigation & contract law
 -*Columbia Media Scholastics:* Gold Circle for secondary news coverage and Bronze Circle for online video content
 -*Business Information Group:* Magazine writing award
+
+..Teaching About Law
+-McMaster University: guest lecturer on litigation versus ADR (2025)
+-Theatre Ontario: legal issues for artists (2018)
 
