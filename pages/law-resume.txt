@@ -21,6 +21,7 @@ $END $COL medium-8  //text on right
 -*Business Information Group:* Magazine writing award
 
 ..Teaching About Law
--McMaster University: guest lecturer on litigation versus ADR (2025)
--Theatre Ontario: legal issues for artists (2018)
+-McMaster University: Guest Lecturer on Litigation versus ADR (2025)
+-Theatre Ontario: Guest Lecturer, Legal issues for artists (2018)
+-Osgoode Hall Mediation Clinic: Workshop Facilitator, Conflict Mediation through theatre tools with Mixed Company Theatre (2014) 
 
