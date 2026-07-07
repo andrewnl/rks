@@ -3,7 +3,7 @@ meta.foundation-version{font-family:"/5.5.3/"}meta.foundation-mq-small{font-fami
 .mailto-btn {
   /* Layout & Sizing */ display:inline-block; padding:6px 12px;
   /* Typography */ color:#ffffff; font-family:'Arial',sans-serif; font-size: 16px; font-weight:bold; text-decoration:none;
-  /* Aesthetics */ background-color:#007BFF; border-radius:4px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1);
+  /* Aesthetics */ background-color:#007BFF; border-radius:12px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1);
   /* Smooth transitions for hover effects */ transition:background-color 0.2s ease, transform 0.1s ease;
 }
 /* Hover state for user feedback */ .mailto-btn:hover { background-color:#0056b3; }
