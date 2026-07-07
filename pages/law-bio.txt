@@ -35,12 +35,12 @@ Previously, as an executive member of the Ontario Bar Association (OBA), Enterta
 
 Roselyn earned her Juris Doctor degree at Osgoode Hall Law School. There, in collaboration with Mixed Company Theatre, Roselyn pioneered a new model of mediation, using theatre games to facilitate holistic communication between disputants. She presented this endeavour at the prestigious Osgoode Hall Law Journal J.D. Research Symposium.
 
-**Areas Of Experience
+..Areas Of Experience
 Entertainment 
 Civil Litigation
 Criminal Defence
 
-**Education
+..Education
 
 Osgoode Hall Law School, Toronto, Ontario, Canada
 Juris Doctor – 2016
@@ -52,7 +52,7 @@ Humber College
 Concentration: Journalism
 Diploma, With Honours
 
-**Published Works (Selected Titles)
+..Published Works (Selected Titles)
 Contracts In The Court Of Appeal: Right Decision – Using “Good Faith” In Lieu Of Hard Line
 Osgoode Professional Development blog
 October 2018
@@ -64,13 +64,13 @@ Ontario Bar Association newsletter: ADR section, Criminal section & Civil sectio
 Ontario Bar Association newsletter: Entertainment, Media & Communications section (March 2015) “European Court of Justice Widens Digital Library Rights”
 Board of Directors, The Theatre Centre
 
-**Honours And Awards
+..Honours And Awards
 Russell Nelles Starr, Q.C. Memorial Award: Academic Excellence in Civil Litigation & Contract Law
 Columbia Media Scholastics: Gold Circle for Secondary News Coverage and Bronze Circle for Online Video Content
 Business Information Group: Magazine Writing Award
 Certificate of Achievement: Interpersonal Mediation training completion St. Stephen’s Community House – 2014
 
-**Professional Associations And Designations
+..Professional Associations And Designations
 Law Society of Ontario (LSO)
 Canadian Bar Association (CBA)
 Ontario Bar Association (OBA), Entertainment, Media and Communication Law Section, Executive Member (2016-2018)
