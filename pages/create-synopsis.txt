@@ -1,5 +1,4 @@
 //inc.Create Synopsis page
-$set $BUTTON=$a_class1=mailto-btn
 Roselyn is writing & directing a new documentary, [[https://vimeo.com/1140599132/9381b861b5?share=copy&fl=sv&fe=ci "Why Our Brains Hurt"]]. Named among Hot Films in the Making by [[https://fromtheheartproductions.com From the Heart Productions]], it's about how brain injury disproportionately harms women. 
 [[https://roselyn.link/teasr-WOBH Check out the trailer]]
 And reach out to fundraising assistant [[https://www.instagram.com/melaniehawkins4719/ Melanie Hawkins]] if you'd like to know more about the documentary and how to support. The film is currently in post-production. 
